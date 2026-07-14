@@ -1,0 +1,1501 @@
+order_id,date,product,category,quantity,unit_price,discount_%,revenue,cost,profit,profit_margin,region,channel,salesperson,payment_method,customer_rating,returned
+ORD-11206,2024-01-01,Wireless Earbuds,Electronics,5,1236.0,15,5253.0,3000,2253.0,42.9,Cairo,Social Media,Khaled Mostafa,Credit Card,4.9,0
+ORD-10824,2024-01-01,Standing Desk,Furniture,1,4545.0,0,4545.0,2200,2345.0,51.6,Aswan,Social Media,Omar Ali,Installment,3.3,0
+ORD-11338,2024-01-01,Gaming Keyboard,Electronics,13,1188.0,20,12355.2,6500,5855.2,47.4,Cairo,Online,Ahmed Hassan,Installment,4.9,0
+ORD-10891,2024-01-01,Gaming Keyboard,Electronics,4,1012.0,5,3845.6,2000,1845.6,48.0,Alexandria,Online,Omar Ali,Cash,2.1,0
+ORD-10301,2024-01-01,Business Course,Education,10,1470.0,20,11760.0,3000,8760.0,74.5,Port Said,Online,Khaled Mostafa,Installment,2.4,0
+ORD-11419,2024-01-02,Wireless Earbuds,Electronics,8,1248.0,10,8985.6,4800,4185.6,46.6,Cairo,Online,Sara Youssef,Installment,4.3,1
+ORD-10081,2024-01-02,Standing Desk,Furniture,12,4365.0,10,47142.0,26400,20742.0,44.0,Giza,Retail Store,Mohamed Taha,Cash,4.0,0
+ORD-10501,2024-01-03,Protein Powder,Sports,15,580.0,0,8700.0,3750,4950.0,56.9,Giza,Retail Store,Nour Ibrahim,Bank Transfer,5.0,0
+ORD-10785,2024-01-03,Laptop Pro X,Electronics,13,8330.0,0,108290.0,67600,40690.0,37.6,Luxor,Online,Mariam Saad,Cash,4.9,1
+ORD-10670,2024-01-03,Yoga Mat,Sports,13,323.2,5,3991.52,1560,2431.52,60.9,Luxor,Online,Nour Ibrahim,Credit Card,2.6,0
+ORD-10339,2024-01-03,Novel Collection,Books,12,172.8,15,1762.56,720,1042.56,59.2,Aswan,Online,Ahmed Hassan,Bank Transfer,3.8,0
+ORD-11423,2024-01-03,Yoga Mat,Sports,4,297.6,20,952.32,480,472.32,49.6,Alexandria,Online,Nour Ibrahim,Credit Card,2.2,0
+ORD-11442,2024-01-03,Wireless Earbuds,Electronics,15,1200.0,5,17100.0,9000,8100.0,47.4,Mansoura,Online,Ahmed Hassan,Installment,5.0,0
+ORD-10568,2024-01-04,Laptop Pro X,Electronics,3,9095.0,15,23192.25,15600,7592.25,32.7,Giza,Wholesale,Nour Ibrahim,Bank Transfer,3.8,0
+ORD-10377,2024-01-05,Wireless Earbuds,Electronics,11,1176.0,0,12936.0,6600,6336.0,49.0,Luxor,Retail Store,Khaled Mostafa,Cash,2.1,0
+ORD-11498,2024-01-05,Laptop Pro X,Electronics,15,8075.0,20,96900.0,78000,18900.0,19.5,Cairo,Wholesale,Khaled Mostafa,Credit Card,4.9,0
+ORD-10769,2024-01-05,Running Shoes,Sports,13,978.5,0,12720.5,5200,7520.5,59.1,Cairo,Online,Sara Youssef,Bank Transfer,3.2,0
+ORD-10092,2024-01-05,Protein Powder,Sports,14,597.4,15,7109.06,3500,3609.06,50.8,Port Said,Social Media,Sara Youssef,Bank Transfer,3.3,0
+ORD-11308,2024-01-06,Standing Desk,Furniture,5,4275.0,0,21375.0,11000,10375.0,48.5,Cairo,Retail Store,Mohamed Taha,Bank Transfer,5.0,0
+ORD-10610,2024-01-07,Smart Watch,Electronics,9,3104.0,20,22348.8,16200,6148.8,27.5,Alexandria,Online,Mariam Saad,Credit Card,5.0,0
+ORD-10974,2024-01-07,Novel Collection,Books,8,178.2,0,1425.6,480,945.6,66.3,Cairo,Online,Ahmed Hassan,Cash,4.3,0
+ORD-10316,2024-01-07,Drawing Tablet,Electronics,12,2856.0,10,30844.8,16800,14044.8,45.5,Mansoura,Online,Mariam Saad,Cash,4.1,1
+ORD-11154,2024-01-07,Blender Pro,Appliances,12,795.0,20,7632.0,3600,4032.0,52.8,Mansoura,Wholesale,Sara Youssef,Cash,4.6,0
+ORD-11067,2024-01-07,Laptop Pro X,Electronics,14,7820.0,10,98532.0,72800,25732.0,26.1,Cairo,Online,Nour Ibrahim,Credit Card,4.8,0
+ORD-10226,2024-01-07,Standing Desk,Furniture,7,4410.0,0,30870.0,15400,15470.0,50.1,Giza,Retail Store,Mariam Saad,Cash,3.7,0
+ORD-10275,2024-01-07,Office Chair,Furniture,1,2400.0,5,2280.0,1100,1180.0,51.8,Luxor,Online,Mohamed Taha,Credit Card,4.3,0
+ORD-10788,2024-01-08,Air Purifier,Appliances,11,2134.0,5,22300.3,11000,11300.3,50.7,Cairo,Online,Sara Youssef,Installment,3.9,0
+ORD-10207,2024-01-08,Office Chair,Furniture,15,2280.0,15,29070.0,16500,12570.0,43.2,Cairo,Social Media,Nour Ibrahim,Cash,4.2,0
+ORD-11072,2024-01-09,Running Shoes,Sports,12,931.0,0,11172.0,4800,6372.0,57.0,Mansoura,Retail Store,Nour Ibrahim,Cash,3.6,0
+ORD-10680,2024-01-09,Wireless Earbuds,Electronics,12,1236.0,0,14832.0,7200,7632.0,51.5,Mansoura,Wholesale,Ahmed Hassan,Credit Card,4.2,0
+ORD-10562,2024-01-09,Laptop Pro X,Electronics,6,7905.0,20,37944.0,31200,6744.0,17.8,Giza,Online,Mariam Saad,Bank Transfer,2.3,0
+ORD-10899,2024-01-09,Coffee Machine,Appliances,9,1800.0,0,16200.0,8100,8100.0,50.0,Luxor,Online,Omar Ali,Installment,3.3,0
+ORD-11297,2024-01-09,Air Purifier,Appliances,8,2068.0,0,16544.0,8000,8544.0,51.6,Cairo,Retail Store,Mariam Saad,Installment,3.3,0
+ORD-11188,2024-01-09,Standing Desk,Furniture,12,4590.0,0,55080.0,26400,28680.0,52.1,Cairo,Wholesale,Mariam Saad,Credit Card,4.7,0
+ORD-11390,2024-01-09,Gaming Keyboard,Electronics,4,1166.0,0,4664.0,2000,2664.0,57.1,Alexandria,Retail Store,Nour Ibrahim,Installment,3.0,0
+ORD-10105,2024-01-09,Smart Watch,Electronics,5,2976.0,15,12648.0,9000,3648.0,28.8,Alexandria,Online,Ahmed Hassan,Bank Transfer,3.9,0
+ORD-10693,2024-01-10,Coffee Machine,Appliances,15,1728.0,15,22032.0,13500,8532.0,38.7,Cairo,Wholesale,Khaled Mostafa,Credit Card,2.9,0
+ORD-10791,2024-01-10,Protein Powder,Sports,15,585.8,5,8347.65,3750,4597.65,55.1,Alexandria,Retail Store,Khaled Mostafa,Credit Card,5.0,0
+ORD-10513,2024-01-10,Office Chair,Furniture,10,2472.0,20,19776.0,11000,8776.0,44.4,Luxor,Wholesale,Ahmed Hassan,Cash,4.6,1
+ORD-11065,2024-01-11,Drawing Tablet,Electronics,7,2604.0,15,15493.8,9800,5693.8,36.7,Cairo,Online,Mohamed Taha,Credit Card,4.0,0
+ORD-10799,2024-01-11,Drawing Tablet,Electronics,7,2772.0,0,19404.0,9800,9604.0,49.5,Mansoura,Social Media,Khaled Mostafa,Cash,3.7,0
+ORD-11471,2024-01-11,Office Chair,Furniture,7,2328.0,20,13036.8,7700,5336.8,40.9,Alexandria,Social Media,Mohamed Taha,Credit Card,2.7,0
+ORD-11384,2024-01-11,Yoga Mat,Sports,9,339.2,5,2900.16,1080,1820.16,62.8,Cairo,Online,Mariam Saad,Cash,5.0,0
+ORD-11099,2024-01-11,Drawing Tablet,Electronics,3,2940.0,0,8820.0,4200,4620.0,52.4,Giza,Retail Store,Sara Youssef,Cash,5.0,1
+ORD-10343,2024-01-11,Laptop Pro X,Electronics,12,7990.0,5,91086.0,62400,28686.0,31.5,Alexandria,Retail Store,Nour Ibrahim,Cash,5.0,0
+ORD-10978,2024-01-11,Smart Watch,Electronics,7,3392.0,15,20182.4,12600,7582.4,37.6,Port Said,Online,Ahmed Hassan,Cash,4.2,0
+ORD-10657,2024-01-12,Gaming Keyboard,Electronics,9,1122.0,15,8583.3,4500,4083.3,47.6,Cairo,Online,Nour Ibrahim,Cash,5.0,0
+ORD-10198,2024-01-12,Standing Desk,Furniture,8,4635.0,10,33372.0,17600,15772.0,47.3,Alexandria,Online,Mariam Saad,Cash,3.7,0
+ORD-11401,2024-01-12,Air Purifier,Appliances,8,2112.0,10,15206.4,8000,7206.4,47.4,Cairo,Social Media,Nour Ibrahim,Credit Card,1.8,0
+ORD-10401,2024-01-12,Office Chair,Furniture,1,2256.0,10,2030.4,1100,930.4,45.8,Cairo,Retail Store,Ahmed Hassan,Cash,4.8,0
+ORD-11126,2024-01-12,Smart Watch,Electronics,12,3072.0,15,31334.4,21600,9734.4,31.1,Mansoura,Online,Nour Ibrahim,Credit Card,3.1,1
+ORD-11218,2024-01-13,Novel Collection,Books,6,169.2,5,964.44,360,604.44,62.7,Mansoura,Retail Store,Mohamed Taha,Installment,5.0,0
+ORD-10042,2024-01-13,Laptop Pro X,Electronics,4,9180.0,10,33048.0,20800,12248.0,37.1,Aswan,Online,Nour Ibrahim,Cash,3.9,0
+ORD-11478,2024-01-14,Business Course,Education,3,1620.0,0,4860.0,900,3960.0,81.5,Alexandria,Online,Khaled Mostafa,Installment,2.8,0
+ORD-10626,2024-01-14,Smart Watch,Electronics,7,3264.0,0,22848.0,12600,10248.0,44.9,Cairo,Retail Store,Ahmed Hassan,Credit Card,4.0,0
+ORD-10937,2024-01-14,Smart Watch,Electronics,13,3136.0,20,32614.4,23400,9214.4,28.3,Alexandria,Retail Store,Omar Ali,Installment,5.0,0
+ORD-10114,2024-01-15,Smart Watch,Electronics,5,3296.0,0,16480.0,9000,7480.0,45.4,Luxor,Online,Mariam Saad,Cash,3.9,0
+ORD-10968,2024-01-15,Running Shoes,Sports,11,950.0,0,10450.0,4400,6050.0,57.9,Cairo,Social Media,Ahmed Hassan,Installment,3.7,0
+ORD-10989,2024-01-15,Gaming Keyboard,Electronics,9,1012.0,20,7286.4,4500,2786.4,38.2,Alexandria,Wholesale,Khaled Mostafa,Installment,3.1,0
+ORD-10941,2024-01-15,Protein Powder,Sports,12,585.8,0,7029.6,3000,4029.6,57.3,Giza,Online,Sara Youssef,Cash,1.1,0
+ORD-11324,2024-01-16,Protein Powder,Sports,1,614.8,0,614.8,250,364.8,59.3,Luxor,Online,Nour Ibrahim,Cash,4.9,0
+ORD-10307,2024-01-16,Air Purifier,Appliances,11,2090.0,5,21840.5,11000,10840.5,49.6,Cairo,Online,Mariam Saad,Cash,4.0,1
+ORD-11003,2024-01-16,Blender Pro,Appliances,12,712.5,0,8550.0,3600,4950.0,57.9,Giza,Retail Store,Sara Youssef,Bank Transfer,4.8,0
+ORD-10904,2024-01-17,Protein Powder,Sports,13,551.0,0,7163.0,3250,3913.0,54.6,Cairo,Wholesale,Sara Youssef,Bank Transfer,4.3,0
+ORD-11197,2024-01-18,Business Course,Education,15,1575.0,15,20081.25,4500,15581.25,77.6,Cairo,Online,Mariam Saad,Credit Card,4.6,0
+ORD-10449,2024-01-18,Office Chair,Furniture,8,2496.0,0,19968.0,8800,11168.0,55.9,Alexandria,Social Media,Nour Ibrahim,Bank Transfer,3.8,0
+ORD-10929,2024-01-19,Office Chair,Furniture,12,2592.0,5,29548.8,13200,16348.8,55.3,Giza,Wholesale,Khaled Mostafa,Bank Transfer,4.8,0
+ORD-10099,2024-01-20,Standing Desk,Furniture,8,4230.0,0,33840.0,17600,16240.0,48.0,Aswan,Online,Nour Ibrahim,Installment,4.2,1
+ORD-11189,2024-01-20,Laptop Pro X,Electronics,10,8925.0,20,71400.0,52000,19400.0,27.2,Mansoura,Online,Khaled Mostafa,Bank Transfer,2.9,0
+ORD-10034,2024-01-20,Blender Pro,Appliances,8,720.0,20,4608.0,2400,2208.0,47.9,Luxor,Online,Mohamed Taha,Cash,5.0,0
+ORD-10793,2024-01-20,Office Chair,Furniture,15,2496.0,5,35568.0,16500,19068.0,53.6,Mansoura,Online,Omar Ali,Installment,4.2,0
+ORD-11328,2024-01-20,Running Shoes,Sports,7,997.5,5,6633.38,2800,3833.38,57.8,Cairo,Online,Ahmed Hassan,Credit Card,2.3,0
+ORD-11145,2024-01-21,Coffee Machine,Appliances,7,1854.0,10,11680.2,6300,5380.2,46.1,Giza,Online,Mohamed Taha,Credit Card,5.0,0
+ORD-10268,2024-01-21,Gaming Keyboard,Electronics,1,1177.0,5,1118.15,500,618.15,55.3,Alexandria,Retail Store,Khaled Mostafa,Bank Transfer,3.9,0
+ORD-11182,2024-01-21,Drawing Tablet,Electronics,3,2828.0,0,8484.0,4200,4284.0,50.5,Cairo,Online,Mariam Saad,Cash,4.7,1
+ORD-10206,2024-01-21,Blender Pro,Appliances,2,712.5,20,1140.0,600,540.0,47.4,Giza,Retail Store,Mariam Saad,Bank Transfer,5.0,0
+ORD-10983,2024-01-21,Office Chair,Furniture,5,2520.0,0,12600.0,5500,7100.0,56.3,Cairo,Online,Nour Ibrahim,Installment,3.6,0
+ORD-10397,2024-01-21,Novel Collection,Books,6,169.2,10,913.68,360,553.68,60.6,Giza,Online,Sara Youssef,Installment,4.1,0
+ORD-11359,2024-01-21,Coffee Machine,Appliances,5,1764.0,5,8379.0,4500,3879.0,46.3,Giza,Social Media,Omar Ali,Installment,3.1,0
+ORD-10880,2024-01-21,Novel Collection,Books,3,192.6,0,577.8,180,397.8,68.8,Luxor,Online,Mohamed Taha,Credit Card,3.8,0
+ORD-11489,2024-01-21,Blender Pro,Appliances,7,727.5,15,4328.62,2100,2228.62,51.5,Alexandria,Online,Mohamed Taha,Installment,3.3,0
+ORD-11483,2024-01-21,Novel Collection,Books,8,167.4,0,1339.2,480,859.2,64.2,Cairo,Retail Store,Khaled Mostafa,Bank Transfer,4.2,0
+ORD-11312,2024-01-21,Gaming Keyboard,Electronics,9,1023.0,15,7825.95,4500,3325.95,42.5,Giza,Retail Store,Ahmed Hassan,Cash,5.0,1
+ORD-10494,2024-01-22,Gaming Keyboard,Electronics,4,1100.0,5,4180.0,2000,2180.0,52.2,Port Said,Online,Nour Ibrahim,Credit Card,5.0,0
+ORD-10127,2024-01-22,Running Shoes,Sports,15,997.5,15,12718.12,6000,6718.12,52.8,Cairo,Retail Store,Khaled Mostafa,Cash,2.0,0
+ORD-11397,2024-01-22,Laptop Pro X,Electronics,5,7820.0,0,39100.0,26000,13100.0,33.5,Cairo,Retail Store,Nour Ibrahim,Cash,4.1,1
+ORD-10751,2024-01-22,Running Shoes,Sports,4,1016.5,15,3456.1,1600,1856.1,53.7,Cairo,Online,Khaled Mostafa,Cash,5.0,1
+ORD-11254,2024-01-22,Business Course,Education,13,1485.0,15,16409.25,3900,12509.25,76.2,Giza,Online,Ahmed Hassan,Credit Card,5.0,0
+ORD-11015,2024-01-22,Wireless Earbuds,Electronics,1,1200.0,0,1200.0,600,600.0,50.0,Giza,Online,Omar Ali,Cash,4.6,0
+ORD-10812,2024-01-22,Wireless Earbuds,Electronics,4,1200.0,0,4800.0,2400,2400.0,50.0,Alexandria,Retail Store,Mohamed Taha,Installment,2.0,0
+ORD-10888,2024-01-23,Smart Watch,Electronics,4,3328.0,0,13312.0,7200,6112.0,45.9,Cairo,Retail Store,Ahmed Hassan,Credit Card,1.7,0
+ORD-11034,2024-01-23,Protein Powder,Sports,4,568.4,0,2273.6,1000,1273.6,56.0,Alexandria,Online,Ahmed Hassan,Cash,5.0,0
+ORD-11092,2024-01-23,Business Course,Education,12,1440.0,15,14688.0,3600,11088.0,75.5,Cairo,Retail Store,Ahmed Hassan,Bank Transfer,1.1,0
+ORD-10145,2024-01-23,Coffee Machine,Appliances,9,1746.0,15,13356.9,8100,5256.9,39.4,Cairo,Wholesale,Nour Ibrahim,Bank Transfer,4.2,0
+ORD-10961,2024-01-23,Wireless Earbuds,Electronics,1,1284.0,0,1284.0,600,684.0,53.3,Cairo,Retail Store,Mohamed Taha,Bank Transfer,4.7,0
+ORD-11192,2024-01-24,Yoga Mat,Sports,7,332.8,15,1980.16,840,1140.16,57.6,Alexandria,Online,Ahmed Hassan,Installment,2.7,1
+ORD-10679,2024-01-24,Yoga Mat,Sports,2,320.0,5,608.0,240,368.0,60.5,Cairo,Retail Store,Khaled Mostafa,Installment,5.0,0
+ORD-10195,2024-01-24,Air Purifier,Appliances,6,2266.0,10,12236.4,6000,6236.4,51.0,Port Said,Social Media,Ahmed Hassan,Bank Transfer,4.9,0
+ORD-11046,2024-01-24,Wireless Earbuds,Electronics,12,1284.0,5,14637.6,7200,7437.6,50.8,Luxor,Retail Store,Sara Youssef,Bank Transfer,5.0,0
+ORD-10340,2024-01-24,Standing Desk,Furniture,5,4455.0,10,20047.5,11000,9047.5,45.1,Giza,Online,Sara Youssef,Cash,5.0,0
+ORD-10349,2024-01-24,Laptop Pro X,Electronics,14,7990.0,15,95081.0,72800,22281.0,23.4,Cairo,Online,Nour Ibrahim,Installment,2.7,0
+ORD-10353,2024-01-24,Wireless Earbuds,Electronics,5,1224.0,0,6120.0,3000,3120.0,51.0,Giza,Retail Store,Mohamed Taha,Cash,1.1,0
+ORD-10304,2024-01-25,Air Purifier,Appliances,8,2288.0,0,18304.0,8000,10304.0,56.3,Aswan,Retail Store,Nour Ibrahim,Installment,3.7,0
+ORD-10636,2024-01-25,Standing Desk,Furniture,10,4410.0,0,44100.0,22000,22100.0,50.1,Giza,Social Media,Sara Youssef,Credit Card,3.8,0
+ORD-10319,2024-01-26,Business Course,Education,8,1605.0,0,12840.0,2400,10440.0,81.3,Cairo,Wholesale,Omar Ali,Installment,5.0,0
+ORD-11440,2024-01-26,Standing Desk,Furniture,5,4725.0,10,21262.5,11000,10262.5,48.3,Mansoura,Social Media,Ahmed Hassan,Installment,2.1,0
+ORD-10168,2024-01-26,Standing Desk,Furniture,8,4590.0,20,29376.0,17600,11776.0,40.1,Giza,Retail Store,Khaled Mostafa,Credit Card,2.9,0
+ORD-10348,2024-01-26,Wireless Earbuds,Electronics,14,1140.0,0,15960.0,8400,7560.0,47.4,Aswan,Online,Sara Youssef,Installment,3.7,0
+ORD-10522,2024-01-26,Wireless Earbuds,Electronics,7,1116.0,5,7421.4,4200,3221.4,43.4,Alexandria,Retail Store,Khaled Mostafa,Bank Transfer,3.8,0
+ORD-11391,2024-01-27,Office Chair,Furniture,3,2544.0,0,7632.0,3300,4332.0,56.8,Cairo,Online,Nour Ibrahim,Bank Transfer,3.3,0
+ORD-10585,2024-01-27,Wireless Earbuds,Electronics,7,1176.0,10,7408.8,4200,3208.8,43.3,Cairo,Online,Sara Youssef,Credit Card,4.2,0
+ORD-11273,2024-01-28,Coffee Machine,Appliances,14,1674.0,0,23436.0,12600,10836.0,46.2,Cairo,Online,Mariam Saad,Installment,2.9,0
+ORD-10831,2024-01-28,Blender Pro,Appliances,15,772.5,5,11008.12,4500,6508.12,59.1,Giza,Retail Store,Nour Ibrahim,Bank Transfer,4.7,0
+ORD-10572,2024-01-28,Novel Collection,Books,6,174.6,5,995.22,360,635.22,63.8,Cairo,Retail Store,Mohamed Taha,Bank Transfer,5.0,1
+ORD-10749,2024-01-28,Air Purifier,Appliances,6,2090.0,0,12540.0,6000,6540.0,52.2,Giza,Online,Ahmed Hassan,Installment,5.0,0
+ORD-11171,2024-01-29,Novel Collection,Books,6,172.8,0,1036.8,360,676.8,65.3,Alexandria,Online,Nour Ibrahim,Cash,2.7,1
+ORD-10217,2024-01-29,Novel Collection,Books,1,185.4,0,185.4,60,125.4,67.6,Alexandria,Online,Mohamed Taha,Installment,4.3,0
+ORD-10632,2024-01-29,Novel Collection,Books,4,172.8,15,587.52,240,347.52,59.2,Cairo,Online,Sara Youssef,Credit Card,2.7,0
+ORD-11019,2024-01-30,Wireless Earbuds,Electronics,1,1128.0,0,1128.0,600,528.0,46.8,Cairo,Online,Khaled Mostafa,Cash,1.0,0
+ORD-10330,2024-01-30,Drawing Tablet,Electronics,14,2940.0,10,37044.0,19600,17444.0,47.1,Alexandria,Online,Mariam Saad,Credit Card,4.4,0
+ORD-10773,2024-01-30,Coffee Machine,Appliances,9,1656.0,0,14904.0,8100,6804.0,45.7,Aswan,Online,Mariam Saad,Credit Card,4.9,0
+ORD-11027,2024-01-30,Drawing Tablet,Electronics,2,2828.0,15,4807.6,2800,2007.6,41.8,Luxor,Online,Khaled Mostafa,Bank Transfer,4.2,0
+ORD-10859,2024-01-30,Coffee Machine,Appliances,1,1836.0,0,1836.0,900,936.0,51.0,Cairo,Online,Omar Ali,Cash,3.6,0
+ORD-10722,2024-01-30,Standing Desk,Furniture,7,4230.0,0,29610.0,15400,14210.0,48.0,Alexandria,Online,Nour Ibrahim,Credit Card,4.8,0
+ORD-10369,2024-02-01,Business Course,Education,13,1455.0,20,15132.0,3900,11232.0,74.2,Alexandria,Online,Nour Ibrahim,Credit Card,4.1,0
+ORD-10484,2024-02-01,Novel Collection,Books,5,190.8,20,763.2,300,463.2,60.7,Port Said,Social Media,Omar Ali,Cash,5.0,0
+ORD-10554,2024-02-01,Air Purifier,Appliances,7,2134.0,0,14938.0,7000,7938.0,53.1,Cairo,Wholesale,Mariam Saad,Bank Transfer,5.0,0
+ORD-10811,2024-02-02,Coffee Machine,Appliances,1,1818.0,5,1727.1,900,827.1,47.9,Alexandria,Wholesale,Ahmed Hassan,Credit Card,5.0,0
+ORD-11130,2024-02-02,Protein Powder,Sports,5,603.2,10,2714.4,1250,1464.4,53.9,Mansoura,Retail Store,Sara Youssef,Installment,4.0,0
+ORD-11260,2024-02-02,Office Chair,Furniture,3,2448.0,0,7344.0,3300,4044.0,55.1,Giza,Online,Mohamed Taha,Bank Transfer,4.8,0
+ORD-11377,2024-02-03,Running Shoes,Sports,12,997.5,5,11371.5,4800,6571.5,57.8,Giza,Online,Ahmed Hassan,Bank Transfer,4.0,0
+ORD-10779,2024-02-04,Business Course,Education,12,1560.0,0,18720.0,3600,15120.0,80.8,Luxor,Online,Mohamed Taha,Credit Card,1.0,0
+ORD-10994,2024-02-04,Laptop Pro X,Electronics,3,8670.0,0,26010.0,15600,10410.0,40.0,Alexandria,Online,Ahmed Hassan,Bank Transfer,5.0,0
+ORD-10510,2024-02-04,Standing Desk,Furniture,5,4500.0,0,22500.0,11000,11500.0,51.1,Mansoura,Online,Omar Ali,Installment,5.0,1
+ORD-11011,2024-02-04,Blender Pro,Appliances,14,712.5,0,9975.0,4200,5775.0,57.9,Cairo,Retail Store,Mohamed Taha,Installment,4.6,0
+ORD-10125,2024-02-04,Running Shoes,Sports,8,969.0,20,6201.6,3200,3001.6,48.4,Cairo,Online,Khaled Mostafa,Credit Card,5.0,0
+ORD-11355,2024-02-04,Running Shoes,Sports,9,1026.0,0,9234.0,3600,5634.0,61.0,Giza,Online,Mohamed Taha,Bank Transfer,2.9,0
+ORD-10606,2024-02-04,Protein Powder,Sports,12,568.4,5,6479.76,3000,3479.76,53.7,Giza,Wholesale,Sara Youssef,Bank Transfer,1.3,0
+ORD-11278,2024-02-05,Smart Watch,Electronics,3,3264.0,15,8323.2,5400,2923.2,35.1,Alexandria,Online,Mohamed Taha,Cash,1.9,0
+ORD-11143,2024-02-05,Laptop Pro X,Electronics,12,7905.0,15,80631.0,62400,18231.0,22.6,Alexandria,Retail Store,Nour Ibrahim,Bank Transfer,4.9,0
+ORD-10417,2024-02-05,Gaming Keyboard,Electronics,2,1111.0,15,1888.7,1000,888.7,47.1,Mansoura,Social Media,Omar Ali,Installment,1.8,0
+ORD-10924,2024-02-05,Standing Desk,Furniture,7,4185.0,20,23436.0,15400,8036.0,34.3,Giza,Wholesale,Khaled Mostafa,Cash,3.8,0
+ORD-10796,2024-02-05,Office Chair,Furniture,1,2448.0,0,2448.0,1100,1348.0,55.1,Luxor,Online,Mariam Saad,Cash,4.7,0
+ORD-10103,2024-02-05,Blender Pro,Appliances,13,757.5,10,8862.75,3900,4962.75,56.0,Cairo,Wholesale,Omar Ali,Cash,3.1,0
+ORD-10558,2024-02-05,Yoga Mat,Sports,4,294.4,15,1000.96,480,520.96,52.0,Mansoura,Retail Store,Khaled Mostafa,Installment,4.8,0
+ORD-10802,2024-02-06,Air Purifier,Appliances,15,2046.0,0,30690.0,15000,15690.0,51.1,Alexandria,Retail Store,Mariam Saad,Bank Transfer,2.2,0
+ORD-10261,2024-02-06,Office Chair,Furniture,7,2232.0,20,12499.2,7700,4799.2,38.4,Cairo,Online,Omar Ali,Cash,5.0,0
+ORD-11008,2024-02-06,Coffee Machine,Appliances,3,1854.0,15,4727.7,2700,2027.7,42.9,Giza,Retail Store,Mohamed Taha,Cash,4.0,0
+ORD-11235,2024-02-06,Protein Powder,Sports,2,580.0,15,986.0,500,486.0,49.3,Cairo,Online,Khaled Mostafa,Cash,2.6,1
+ORD-11005,2024-02-07,Running Shoes,Sports,13,931.0,15,10287.55,5200,5087.55,49.5,Aswan,Social Media,Omar Ali,Credit Card,3.9,1
+ORD-10556,2024-02-07,Wireless Earbuds,Electronics,10,1248.0,20,9984.0,6000,3984.0,39.9,Alexandria,Wholesale,Mariam Saad,Credit Card,2.1,0
+ORD-10164,2024-02-07,Business Course,Education,1,1425.0,5,1353.75,300,1053.75,77.8,Alexandria,Online,Khaled Mostafa,Cash,5.0,0
+ORD-10742,2024-02-07,Drawing Tablet,Electronics,10,2856.0,20,22848.0,14000,8848.0,38.7,Cairo,Online,Ahmed Hassan,Credit Card,1.3,0
+ORD-11285,2024-02-08,Laptop Pro X,Electronics,12,7820.0,20,75072.0,62400,12672.0,16.9,Cairo,Social Media,Ahmed Hassan,Cash,4.4,1
+ORD-11038,2024-02-09,Gaming Keyboard,Electronics,4,1111.0,10,3999.6,2000,1999.6,50.0,Giza,Retail Store,Khaled Mostafa,Credit Card,3.0,0
+ORD-11428,2024-02-09,Smart Watch,Electronics,14,3008.0,0,42112.0,25200,16912.0,40.2,Port Said,Online,Mohamed Taha,Installment,1.7,0
+ORD-11069,2024-02-09,Wireless Earbuds,Electronics,9,1248.0,20,8985.6,5400,3585.6,39.9,Mansoura,Online,Sara Youssef,Cash,5.0,0
+ORD-10462,2024-02-09,Office Chair,Furniture,9,2256.0,15,17258.4,9900,7358.4,42.6,Cairo,Online,Mariam Saad,Cash,4.4,0
+ORD-10220,2024-02-09,Standing Desk,Furniture,3,4545.0,10,12271.5,6600,5671.5,46.2,Aswan,Online,Khaled Mostafa,Installment,5.0,0
+ORD-10153,2024-02-09,Protein Powder,Sports,3,580.0,5,1653.0,750,903.0,54.6,Cairo,Online,Ahmed Hassan,Credit Card,4.0,0
+ORD-10764,2024-02-10,Drawing Tablet,Electronics,5,2996.0,0,14980.0,7000,7980.0,53.3,Cairo,Online,Khaled Mostafa,Cash,5.0,0
+ORD-11088,2024-02-10,Gaming Keyboard,Electronics,10,1155.0,0,11550.0,5000,6550.0,56.7,Luxor,Wholesale,Sara Youssef,Cash,3.0,0
+ORD-11380,2024-02-10,Yoga Mat,Sports,15,307.2,0,4608.0,1800,2808.0,60.9,Cairo,Wholesale,Omar Ali,Cash,4.8,0
+ORD-10817,2024-02-11,Coffee Machine,Appliances,7,1926.0,5,12807.9,6300,6507.9,50.8,Port Said,Wholesale,Ahmed Hassan,Bank Transfer,4.8,0
+ORD-10139,2024-02-11,Coffee Machine,Appliances,4,1656.0,0,6624.0,3600,3024.0,45.7,Aswan,Retail Store,Mohamed Taha,Cash,4.8,0
+ORD-10192,2024-02-11,Yoga Mat,Sports,8,320.0,0,2560.0,960,1600.0,62.5,Cairo,Retail Store,Ahmed Hassan,Cash,3.7,0
+ORD-10051,2024-02-12,Novel Collection,Books,7,169.2,5,1125.18,420,705.18,62.7,Cairo,Online,Omar Ali,Cash,3.9,0
+ORD-11117,2024-02-12,Coffee Machine,Appliances,11,1872.0,15,17503.2,9900,7603.2,43.4,Aswan,Wholesale,Ahmed Hassan,Cash,5.0,0
+ORD-10247,2024-02-12,Protein Powder,Sports,1,609.0,0,609.0,250,359.0,58.9,Cairo,Online,Khaled Mostafa,Installment,5.0,0
+ORD-10408,2024-02-12,Standing Desk,Furniture,10,4770.0,5,45315.0,22000,23315.0,51.5,Cairo,Online,Sara Youssef,Credit Card,3.7,0
+ORD-11202,2024-02-12,Blender Pro,Appliances,9,712.5,20,5130.0,2700,2430.0,47.4,Luxor,Social Media,Mariam Saad,Cash,2.8,0
+ORD-11094,2024-02-12,Air Purifier,Appliances,14,2332.0,0,32648.0,14000,18648.0,57.1,Alexandria,Retail Store,Omar Ali,Credit Card,2.8,0
+ORD-11279,2024-02-12,Coffee Machine,Appliances,10,1944.0,5,18468.0,9000,9468.0,51.3,Cairo,Wholesale,Nour Ibrahim,Cash,4.8,0
+ORD-10067,2024-02-13,Office Chair,Furniture,2,2424.0,5,4605.6,2200,2405.6,52.2,Giza,Wholesale,Mariam Saad,Bank Transfer,4.0,0
+ORD-10893,2024-02-13,Gaming Keyboard,Electronics,1,1122.0,0,1122.0,500,622.0,55.4,Alexandria,Online,Mariam Saad,Bank Transfer,5.0,0
+ORD-11491,2024-02-13,Running Shoes,Sports,7,921.5,20,5160.4,2800,2360.4,45.7,Cairo,Online,Khaled Mostafa,Credit Card,3.2,0
+ORD-10485,2024-02-14,Business Course,Education,7,1500.0,15,8925.0,2100,6825.0,76.5,Giza,Retail Store,Mariam Saad,Bank Transfer,4.7,1
+ORD-11007,2024-02-14,Protein Powder,Sports,1,591.6,15,502.86,250,252.86,50.3,Cairo,Online,Mariam Saad,Credit Card,4.9,0
+ORD-10873,2024-02-14,Gaming Keyboard,Electronics,2,1034.0,15,1757.8,1000,757.8,43.1,Giza,Online,Sara Youssef,Cash,5.0,0
+ORD-10840,2024-02-14,Yoga Mat,Sports,5,339.2,0,1696.0,600,1096.0,64.6,Cairo,Online,Omar Ali,Installment,1.7,1
+ORD-10823,2024-02-14,Wireless Earbuds,Electronics,2,1164.0,10,2095.2,1200,895.2,42.7,Luxor,Retail Store,Ahmed Hassan,Installment,4.9,0
+ORD-11343,2024-02-14,Running Shoes,Sports,5,959.5,0,4797.5,2000,2797.5,58.3,Cairo,Wholesale,Sara Youssef,Credit Card,4.2,0
+ORD-10674,2024-02-15,Laptop Pro X,Electronics,14,8075.0,5,107397.5,72800,34597.5,32.2,Mansoura,Online,Mohamed Taha,Cash,5.0,0
+ORD-10835,2024-02-15,Drawing Tablet,Electronics,8,2968.0,15,20182.4,11200,8982.4,44.5,Alexandria,Retail Store,Nour Ibrahim,Installment,4.7,0
+ORD-10807,2024-02-15,Wireless Earbuds,Electronics,11,1212.0,20,10665.6,6600,4065.6,38.1,Cairo,Online,Sara Youssef,Cash,1.9,0
+ORD-10441,2024-02-15,Running Shoes,Sports,5,931.0,0,4655.0,2000,2655.0,57.0,Cairo,Online,Khaled Mostafa,Cash,5.0,0
+ORD-11110,2024-02-16,Standing Desk,Furniture,13,4680.0,20,48672.0,28600,20072.0,41.2,Cairo,Online,Nour Ibrahim,Credit Card,3.8,0
+ORD-10413,2024-02-16,Blender Pro,Appliances,3,750.0,10,2025.0,900,1125.0,55.6,Alexandria,Online,Mariam Saad,Installment,4.6,0
+ORD-11287,2024-02-16,Laptop Pro X,Electronics,7,8925.0,0,62475.0,36400,26075.0,41.7,Cairo,Retail Store,Nour Ibrahim,Installment,3.8,0
+ORD-10255,2024-02-17,Business Course,Education,8,1530.0,15,10404.0,2400,8004.0,76.9,Alexandria,Online,Khaled Mostafa,Bank Transfer,4.9,0
+ORD-10944,2024-02-17,Wireless Earbuds,Electronics,8,1272.0,20,8140.8,4800,3340.8,41.0,Cairo,Online,Mohamed Taha,Credit Card,4.0,0
+ORD-10254,2024-02-17,Air Purifier,Appliances,9,2288.0,15,17503.2,9000,8503.2,48.6,Luxor,Online,Nour Ibrahim,Installment,4.3,0
+ORD-10925,2024-02-17,Gaming Keyboard,Electronics,15,1089.0,20,13068.0,7500,5568.0,42.6,Cairo,Online,Nour Ibrahim,Bank Transfer,4.2,0
+ORD-10598,2024-02-17,Coffee Machine,Appliances,1,1836.0,0,1836.0,900,936.0,51.0,Giza,Online,Mohamed Taha,Installment,4.7,0
+ORD-11082,2024-02-18,Laptop Pro X,Electronics,10,8415.0,0,84150.0,52000,32150.0,38.2,Cairo,Retail Store,Mariam Saad,Installment,4.3,0
+ORD-11304,2024-02-18,Air Purifier,Appliances,13,2068.0,0,26884.0,13000,13884.0,51.6,Cairo,Retail Store,Khaled Mostafa,Installment,4.9,0
+ORD-10018,2024-02-18,Wireless Earbuds,Electronics,11,1188.0,5,12414.6,6600,5814.6,46.8,Alexandria,Wholesale,Ahmed Hassan,Credit Card,5.0,0
+ORD-11201,2024-02-18,Office Chair,Furniture,8,2520.0,0,20160.0,8800,11360.0,56.3,Giza,Online,Mohamed Taha,Installment,4.9,1
+ORD-10470,2024-02-18,Protein Powder,Sports,11,562.6,15,5260.31,2750,2510.31,47.7,Mansoura,Online,Mohamed Taha,Credit Card,1.9,0
+ORD-10111,2024-02-19,Business Course,Education,12,1470.0,0,17640.0,3600,14040.0,79.6,Giza,Retail Store,Khaled Mostafa,Installment,3.9,0
+ORD-10529,2024-02-19,Blender Pro,Appliances,8,712.5,5,5415.0,2400,3015.0,55.7,Cairo,Online,Mohamed Taha,Bank Transfer,5.0,0
+ORD-10215,2024-02-19,Yoga Mat,Sports,3,307.2,10,829.44,360,469.44,56.6,Alexandria,Wholesale,Omar Ali,Bank Transfer,5.0,0
+ORD-10933,2024-02-20,Wireless Earbuds,Electronics,13,1260.0,0,16380.0,7800,8580.0,52.4,Giza,Retail Store,Nour Ibrahim,Credit Card,4.2,1
+ORD-10320,2024-02-20,Blender Pro,Appliances,4,705.0,15,2397.0,1200,1197.0,49.9,Alexandria,Wholesale,Omar Ali,Bank Transfer,3.7,0
+ORD-11044,2024-02-21,Smart Watch,Electronics,14,2976.0,5,39580.8,25200,14380.8,36.3,Cairo,Online,Ahmed Hassan,Cash,4.0,0
+ORD-11439,2024-02-21,Coffee Machine,Appliances,2,1692.0,0,3384.0,1800,1584.0,46.8,Mansoura,Online,Ahmed Hassan,Cash,4.1,0
+ORD-10026,2024-02-21,Wireless Earbuds,Electronics,9,1140.0,0,10260.0,5400,4860.0,47.4,Cairo,Online,Ahmed Hassan,Cash,4.7,0
+ORD-10317,2024-02-21,Gaming Keyboard,Electronics,2,1111.0,0,2222.0,1000,1222.0,55.0,Mansoura,Wholesale,Omar Ali,Bank Transfer,5.0,0
+ORD-10934,2024-02-21,Novel Collection,Books,8,180.0,20,1152.0,480,672.0,58.3,Cairo,Online,Nour Ibrahim,Cash,5.0,0
+ORD-10294,2024-02-21,Office Chair,Furniture,11,2304.0,10,22809.6,12100,10709.6,47.0,Mansoura,Social Media,Ahmed Hassan,Cash,4.4,0
+ORD-11106,2024-02-21,Smart Watch,Electronics,15,3136.0,0,47040.0,27000,20040.0,42.6,Alexandria,Online,Ahmed Hassan,Bank Transfer,3.0,0
+ORD-11010,2024-02-21,Wireless Earbuds,Electronics,8,1152.0,10,8294.4,4800,3494.4,42.1,Alexandria,Online,Mohamed Taha,Installment,1.8,0
+ORD-10056,2024-02-22,Business Course,Education,13,1455.0,15,16077.75,3900,12177.75,75.7,Giza,Online,Khaled Mostafa,Credit Card,4.9,0
+ORD-10446,2024-02-22,Standing Desk,Furniture,5,4230.0,5,20092.5,11000,9092.5,45.3,Giza,Online,Mariam Saad,Credit Card,3.9,0
+ORD-10032,2024-02-22,Coffee Machine,Appliances,13,1818.0,20,18907.2,11700,7207.2,38.1,Alexandria,Retail Store,Mariam Saad,Cash,3.4,0
+ORD-10287,2024-02-22,Drawing Tablet,Electronics,13,2632.0,0,34216.0,18200,16016.0,46.8,Cairo,Wholesale,Mariam Saad,Cash,4.9,0
+ORD-11432,2024-02-23,Drawing Tablet,Electronics,9,2912.0,5,24897.6,12600,12297.6,49.4,Cairo,Online,Sara Youssef,Bank Transfer,3.2,0
+ORD-10364,2024-02-23,Air Purifier,Appliances,11,2244.0,0,24684.0,11000,13684.0,55.4,Alexandria,Online,Khaled Mostafa,Cash,5.0,1
+ORD-11402,2024-02-24,Blender Pro,Appliances,3,757.5,20,1818.0,900,918.0,50.5,Mansoura,Wholesale,Mariam Saad,Bank Transfer,2.3,0
+ORD-11051,2024-02-24,Gaming Keyboard,Electronics,4,1133.0,0,4532.0,2000,2532.0,55.9,Cairo,Retail Store,Khaled Mostafa,Cash,5.0,1
+ORD-10424,2024-02-24,Wireless Earbuds,Electronics,15,1116.0,15,14229.0,9000,5229.0,36.7,Alexandria,Online,Mohamed Taha,Credit Card,2.9,0
+ORD-10345,2024-02-24,Running Shoes,Sports,4,969.0,20,3100.8,1600,1500.8,48.4,Cairo,Retail Store,Mariam Saad,Installment,3.8,0
+ORD-10368,2024-02-24,Laptop Pro X,Electronics,7,7990.0,15,47540.5,36400,11140.5,23.4,Cairo,Online,Mohamed Taha,Cash,1.1,0
+ORD-10820,2024-02-24,Air Purifier,Appliances,12,2024.0,0,24288.0,12000,12288.0,50.6,Luxor,Wholesale,Mariam Saad,Installment,4.4,0
+ORD-10019,2024-02-25,Office Chair,Furniture,4,2280.0,5,8664.0,4400,4264.0,49.2,Cairo,Online,Nour Ibrahim,Cash,2.7,0
+ORD-10445,2024-02-26,Novel Collection,Books,8,183.6,0,1468.8,480,988.8,67.3,Giza,Retail Store,Omar Ali,Credit Card,5.0,0
+ORD-10755,2024-02-26,Coffee Machine,Appliances,15,1710.0,5,24367.5,13500,10867.5,44.6,Cairo,Wholesale,Sara Youssef,Cash,2.4,1
+ORD-11012,2024-02-26,Protein Powder,Sports,8,620.6,0,4964.8,2000,2964.8,59.7,Giza,Online,Nour Ibrahim,Installment,5.0,0
+ORD-10614,2024-02-27,Wireless Earbuds,Electronics,1,1248.0,20,998.4,600,398.4,39.9,Alexandria,Online,Ahmed Hassan,Credit Card,4.3,0
+ORD-10892,2024-02-27,Running Shoes,Sports,3,1026.0,0,3078.0,1200,1878.0,61.0,Cairo,Social Media,Omar Ali,Credit Card,3.7,1
+ORD-10351,2024-02-27,Smart Watch,Electronics,12,3328.0,20,31948.8,21600,10348.8,32.4,Cairo,Online,Khaled Mostafa,Bank Transfer,3.1,0
+ORD-10199,2024-02-27,Laptop Pro X,Electronics,13,8755.0,10,102433.5,67600,34833.5,34.0,Mansoura,Wholesale,Ahmed Hassan,Cash,4.7,0
+ORD-10496,2024-02-27,Smart Watch,Electronics,13,3232.0,15,35713.6,23400,12313.6,34.5,Alexandria,Online,Omar Ali,Bank Transfer,5.0,0
+ORD-11193,2024-02-27,Running Shoes,Sports,8,1026.0,20,6566.4,3200,3366.4,51.3,Luxor,Online,Mohamed Taha,Credit Card,5.0,0
+ORD-10096,2024-02-28,Running Shoes,Sports,2,893.0,0,1786.0,800,986.0,55.2,Aswan,Retail Store,Nour Ibrahim,Installment,4.9,0
+ORD-10239,2024-02-28,Laptop Pro X,Electronics,14,8245.0,0,115430.0,72800,42630.0,36.9,Giza,Online,Sara Youssef,Cash,4.0,0
+ORD-10378,2024-02-28,Air Purifier,Appliances,5,2222.0,0,11110.0,5000,6110.0,55.0,Cairo,Retail Store,Mohamed Taha,Installment,4.0,0
+ORD-11284,2024-02-28,Laptop Pro X,Electronics,13,7990.0,20,83096.0,67600,15496.0,18.6,Cairo,Online,Omar Ali,Credit Card,5.0,0
+ORD-10109,2024-02-28,Blender Pro,Appliances,11,765.0,20,6732.0,3300,3432.0,51.0,Giza,Wholesale,Nour Ibrahim,Bank Transfer,2.9,0
+ORD-10244,2024-02-29,Smart Watch,Electronics,6,3296.0,10,17798.4,10800,6998.4,39.3,Alexandria,Retail Store,Khaled Mostafa,Bank Transfer,4.0,0
+ORD-10367,2024-02-29,Drawing Tablet,Electronics,6,2828.0,10,15271.2,8400,6871.2,45.0,Giza,Retail Store,Nour Ibrahim,Installment,2.9,0
+ORD-11251,2024-02-29,Gaming Keyboard,Electronics,5,1012.0,0,5060.0,2500,2560.0,50.6,Giza,Social Media,Omar Ali,Cash,1.3,0
+ORD-10839,2024-03-01,Smart Watch,Electronics,14,3264.0,0,45696.0,25200,20496.0,44.9,Cairo,Online,Omar Ali,Credit Card,5.0,0
+ORD-10250,2024-03-01,Drawing Tablet,Electronics,13,2688.0,20,27955.2,18200,9755.2,34.9,Mansoura,Retail Store,Mohamed Taha,Bank Transfer,4.7,0
+ORD-10400,2024-03-01,Novel Collection,Books,4,178.2,0,712.8,240,472.8,66.3,Giza,Retail Store,Nour Ibrahim,Bank Transfer,4.7,0
+ORD-10613,2024-03-01,Office Chair,Furniture,3,2544.0,0,7632.0,3300,4332.0,56.8,Giza,Online,Mariam Saad,Cash,1.0,0
+ORD-10628,2024-03-01,Air Purifier,Appliances,8,2134.0,5,16218.4,8000,8218.4,50.7,Alexandria,Online,Mariam Saad,Installment,2.7,0
+ORD-11175,2024-03-02,Novel Collection,Books,7,178.2,20,997.92,420,577.92,57.9,Alexandria,Online,Khaled Mostafa,Credit Card,2.0,0
+ORD-10552,2024-03-02,Wireless Earbuds,Electronics,14,1224.0,5,16279.2,8400,7879.2,48.4,Giza,Wholesale,Khaled Mostafa,Cash,3.2,0
+ORD-10024,2024-03-02,Gaming Keyboard,Electronics,10,1056.0,10,9504.0,5000,4504.0,47.4,Cairo,Online,Sara Youssef,Installment,1.8,0
+ORD-11236,2024-03-02,Coffee Machine,Appliances,2,1692.0,5,3214.8,1800,1414.8,44.0,Giza,Social Media,Nour Ibrahim,Bank Transfer,5.0,0
+ORD-10645,2024-03-02,Yoga Mat,Sports,11,336.0,20,2956.8,1320,1636.8,55.4,Luxor,Online,Ahmed Hassan,Cash,4.2,0
+ORD-11414,2024-03-03,Gaming Keyboard,Electronics,11,1133.0,15,10593.55,5500,5093.55,48.1,Giza,Retail Store,Sara Youssef,Cash,3.1,0
+ORD-11429,2024-03-03,Yoga Mat,Sports,13,336.0,10,3931.2,1560,2371.2,60.3,Alexandria,Online,Sara Youssef,Installment,2.9,0
+ORD-10995,2024-03-03,Standing Desk,Furniture,7,4500.0,0,31500.0,15400,16100.0,51.1,Mansoura,Wholesale,Khaled Mostafa,Installment,3.1,0
+ORD-10097,2024-03-04,Running Shoes,Sports,6,978.5,15,4990.35,2400,2590.35,51.9,Cairo,Online,Sara Youssef,Installment,4.8,0
+ORD-11446,2024-03-04,Business Course,Education,7,1440.0,10,9072.0,2100,6972.0,76.9,Alexandria,Social Media,Nour Ibrahim,Cash,4.2,0
+ORD-10827,2024-03-04,Standing Desk,Furniture,14,4635.0,5,61645.5,30800,30845.5,50.0,Giza,Online,Omar Ali,Bank Transfer,5.0,0
+ORD-10733,2024-03-04,Running Shoes,Sports,6,1016.5,5,5794.05,2400,3394.05,58.6,Cairo,Retail Store,Mohamed Taha,Installment,4.2,0
+ORD-10917,2024-03-04,Protein Powder,Sports,8,539.4,20,3452.16,2000,1452.16,42.1,Cairo,Online,Khaled Mostafa,Cash,4.0,0
+ORD-11473,2024-03-05,Office Chair,Furniture,15,2232.0,20,26784.0,16500,10284.0,38.4,Giza,Wholesale,Mariam Saad,Credit Card,5.0,0
+ORD-10152,2024-03-05,Wireless Earbuds,Electronics,4,1248.0,0,4992.0,2400,2592.0,51.9,Alexandria,Social Media,Ahmed Hassan,Cash,4.4,0
+ORD-11032,2024-03-06,Office Chair,Furniture,11,2280.0,20,20064.0,12100,7964.0,39.7,Giza,Online,Ahmed Hassan,Credit Card,5.0,0
+ORD-11077,2024-03-06,Drawing Tablet,Electronics,1,2660.0,15,2261.0,1400,861.0,38.1,Cairo,Online,Mohamed Taha,Credit Card,4.9,0
+ORD-11301,2024-03-06,Coffee Machine,Appliances,10,1944.0,0,19440.0,9000,10440.0,53.7,Cairo,Online,Mariam Saad,Cash,2.2,0
+ORD-11194,2024-03-06,Coffee Machine,Appliances,11,1818.0,10,17998.2,9900,8098.2,45.0,Giza,Online,Nour Ibrahim,Cash,5.0,0
+ORD-10459,2024-03-07,Smart Watch,Electronics,14,2976.0,0,41664.0,25200,16464.0,39.5,Alexandria,Online,Khaled Mostafa,Bank Transfer,4.0,0
+ORD-10119,2024-03-07,Air Purifier,Appliances,9,2266.0,10,18354.6,9000,9354.6,51.0,Giza,Retail Store,Omar Ali,Credit Card,5.0,0
+ORD-10872,2024-03-07,Coffee Machine,Appliances,6,1872.0,0,11232.0,5400,5832.0,51.9,Mansoura,Retail Store,Khaled Mostafa,Installment,4.8,0
+ORD-10260,2024-03-08,Protein Powder,Sports,4,580.0,5,2204.0,1000,1204.0,54.6,Cairo,Retail Store,Mohamed Taha,Credit Card,1.0,0
+ORD-11466,2024-03-08,Standing Desk,Furniture,8,4185.0,5,31806.0,17600,14206.0,44.7,Cairo,Online,Ahmed Hassan,Cash,5.0,0
+ORD-10258,2024-03-08,Gaming Keyboard,Electronics,11,1067.0,20,9389.6,5500,3889.6,41.4,Luxor,Online,Sara Youssef,Installment,4.9,0
+ORD-10612,2024-03-08,Gaming Keyboard,Electronics,1,1100.0,0,1100.0,500,600.0,54.5,Giza,Online,Nour Ibrahim,Installment,4.8,0
+ORD-11113,2024-03-09,Air Purifier,Appliances,13,2134.0,0,27742.0,13000,14742.0,53.1,Mansoura,Retail Store,Nour Ibrahim,Bank Transfer,3.9,0
+ORD-11233,2024-03-09,Air Purifier,Appliances,4,2266.0,0,9064.0,4000,5064.0,55.9,Alexandria,Retail Store,Omar Ali,Cash,4.3,1
+ORD-10843,2024-03-09,Protein Powder,Sports,9,551.0,0,4959.0,2250,2709.0,54.6,Cairo,Retail Store,Nour Ibrahim,Credit Card,3.8,0
+ORD-11461,2024-03-10,Office Chair,Furniture,12,2280.0,0,27360.0,13200,14160.0,51.8,Cairo,Online,Khaled Mostafa,Bank Transfer,4.8,0
+ORD-11351,2024-03-11,Wireless Earbuds,Electronics,1,1140.0,10,1026.0,600,426.0,41.5,Cairo,Online,Sara Youssef,Installment,4.0,1
+ORD-11054,2024-03-11,Standing Desk,Furniture,12,4635.0,0,55620.0,26400,29220.0,52.5,Mansoura,Retail Store,Mariam Saad,Credit Card,5.0,0
+ORD-10536,2024-03-11,Novel Collection,Books,13,178.2,5,2200.77,780,1420.77,64.6,Luxor,Retail Store,Nour Ibrahim,Cash,3.9,0
+ORD-10566,2024-03-11,Coffee Machine,Appliances,14,1926.0,0,26964.0,12600,14364.0,53.3,Mansoura,Retail Store,Omar Ali,Credit Card,4.7,0
+ORD-10988,2024-03-11,Yoga Mat,Sports,8,329.6,10,2373.12,960,1413.12,59.5,Luxor,Retail Store,Nour Ibrahim,Installment,3.9,0
+ORD-11333,2024-03-11,Coffee Machine,Appliances,15,1764.0,5,25137.0,13500,11637.0,46.3,Alexandria,Retail Store,Sara Youssef,Cash,2.9,0
+ORD-10747,2024-03-11,Drawing Tablet,Electronics,1,2604.0,0,2604.0,1400,1204.0,46.2,Giza,Retail Store,Sara Youssef,Installment,5.0,0
+ORD-11001,2024-03-12,Standing Desk,Furniture,13,4680.0,0,60840.0,28600,32240.0,53.0,Luxor,Online,Mohamed Taha,Bank Transfer,5.0,0
+ORD-10392,2024-03-12,Gaming Keyboard,Electronics,9,1045.0,15,7994.25,4500,3494.25,43.7,Aswan,Online,Ahmed Hassan,Credit Card,3.1,0
+ORD-10561,2024-03-12,Laptop Pro X,Electronics,4,7820.0,10,28152.0,20800,7352.0,26.1,Cairo,Online,Mohamed Taha,Installment,4.4,0
+ORD-10172,2024-03-12,Coffee Machine,Appliances,15,1836.0,0,27540.0,13500,14040.0,51.0,Alexandria,Retail Store,Mohamed Taha,Installment,4.0,0
+ORD-10296,2024-03-13,Protein Powder,Sports,4,609.0,20,1948.8,1000,948.8,48.7,Aswan,Retail Store,Omar Ali,Cash,3.7,0
+ORD-10281,2024-03-13,Business Course,Education,5,1395.0,0,6975.0,1500,5475.0,78.5,Luxor,Retail Store,Sara Youssef,Installment,4.2,0
+ORD-11023,2024-03-13,Laptop Pro X,Electronics,4,8755.0,15,29767.0,20800,8967.0,30.1,Mansoura,Social Media,Ahmed Hassan,Bank Transfer,2.8,0
+ORD-10521,2024-03-13,Business Course,Education,13,1455.0,0,18915.0,3900,15015.0,79.4,Cairo,Online,Omar Ali,Bank Transfer,4.6,0
+ORD-11487,2024-03-13,Business Course,Education,7,1530.0,0,10710.0,2100,8610.0,80.4,Giza,Retail Store,Sara Youssef,Installment,3.7,0
+ORD-11195,2024-03-14,Office Chair,Furniture,11,2232.0,0,24552.0,12100,12452.0,50.7,Giza,Online,Khaled Mostafa,Credit Card,4.8,0
+ORD-10943,2024-03-14,Novel Collection,Books,1,183.6,10,165.24,60,105.24,63.7,Aswan,Online,Khaled Mostafa,Credit Card,4.8,0
+ORD-11258,2024-03-14,Running Shoes,Sports,10,988.0,15,8398.0,4000,4398.0,52.4,Luxor,Wholesale,Mariam Saad,Cash,3.6,0
+ORD-11234,2024-03-14,Drawing Tablet,Electronics,9,3024.0,10,24494.4,12600,11894.4,48.6,Cairo,Online,Khaled Mostafa,Credit Card,3.9,0
+ORD-11306,2024-03-15,Drawing Tablet,Electronics,5,2996.0,5,14231.0,7000,7231.0,50.8,Port Said,Retail Store,Khaled Mostafa,Cash,3.1,1
+ORD-10648,2024-03-15,Coffee Machine,Appliances,8,1854.0,20,11865.6,7200,4665.6,39.3,Cairo,Retail Store,Khaled Mostafa,Credit Card,3.1,1
+ORD-10180,2024-03-15,Standing Desk,Furniture,1,4365.0,15,3710.25,2200,1510.25,40.7,Cairo,Social Media,Sara Youssef,Installment,3.8,0
+ORD-10896,2024-03-15,Wireless Earbuds,Electronics,6,1296.0,0,7776.0,3600,4176.0,53.7,Mansoura,Online,Nour Ibrahim,Bank Transfer,4.4,0
+ORD-10104,2024-03-15,Smart Watch,Electronics,9,3072.0,0,27648.0,16200,11448.0,41.4,Cairo,Wholesale,Mariam Saad,Credit Card,5.0,0
+ORD-11309,2024-03-16,Running Shoes,Sports,11,931.0,0,10241.0,4400,5841.0,57.0,Giza,Wholesale,Ahmed Hassan,Installment,3.8,0
+ORD-10976,2024-03-16,Drawing Tablet,Electronics,2,2632.0,20,4211.2,2800,1411.2,33.5,Mansoura,Retail Store,Sara Youssef,Installment,1.0,0
+ORD-11479,2024-03-16,Protein Powder,Sports,11,585.8,5,6121.61,2750,3371.61,55.1,Cairo,Retail Store,Mohamed Taha,Credit Card,5.0,0
+ORD-10043,2024-03-16,Novel Collection,Books,12,165.6,20,1589.76,720,869.76,54.7,Aswan,Wholesale,Mohamed Taha,Bank Transfer,5.0,0
+ORD-10478,2024-03-16,Blender Pro,Appliances,14,787.5,0,11025.0,4200,6825.0,61.9,Cairo,Wholesale,Omar Ali,Bank Transfer,3.9,0
+ORD-10031,2024-03-16,Air Purifier,Appliances,3,2046.0,0,6138.0,3000,3138.0,51.1,Luxor,Wholesale,Mohamed Taha,Credit Card,2.8,0
+ORD-11413,2024-03-16,Wireless Earbuds,Electronics,8,1128.0,15,7670.4,4800,2870.4,37.4,Cairo,Wholesale,Sara Youssef,Installment,4.2,0
+ORD-10748,2024-03-16,Running Shoes,Sports,5,969.0,0,4845.0,2000,2845.0,58.7,Alexandria,Online,Khaled Mostafa,Cash,5.0,0
+ORD-11449,2024-03-16,Business Course,Education,11,1575.0,20,13860.0,3300,10560.0,76.2,Alexandria,Social Media,Nour Ibrahim,Installment,3.8,0
+ORD-10669,2024-03-16,Wireless Earbuds,Electronics,6,1116.0,20,5356.8,3600,1756.8,32.8,Cairo,Wholesale,Sara Youssef,Installment,4.1,0
+ORD-11086,2024-03-16,Smart Watch,Electronics,3,3200.0,0,9600.0,5400,4200.0,43.8,Cairo,Wholesale,Ahmed Hassan,Cash,4.0,0
+ORD-11482,2024-03-17,Drawing Tablet,Electronics,5,2800.0,0,14000.0,7000,7000.0,50.0,Alexandria,Online,Omar Ali,Cash,2.9,0
+ORD-10347,2024-03-17,Wireless Earbuds,Electronics,13,1200.0,15,13260.0,7800,5460.0,41.2,Giza,Social Media,Sara Youssef,Cash,4.4,0
+ORD-10640,2024-03-18,Business Course,Education,11,1560.0,20,13728.0,3300,10428.0,76.0,Alexandria,Online,Mohamed Taha,Credit Card,4.3,0
+ORD-10381,2024-03-19,Laptop Pro X,Electronics,8,8755.0,0,70040.0,41600,28440.0,40.6,Cairo,Online,Mohamed Taha,Installment,4.1,0
+ORD-11316,2024-03-19,Blender Pro,Appliances,3,750.0,0,2250.0,900,1350.0,60.0,Alexandria,Retail Store,Nour Ibrahim,Credit Card,3.8,0
+ORD-10224,2024-03-19,Business Course,Education,7,1455.0,0,10185.0,2100,8085.0,79.4,Cairo,Social Media,Nour Ibrahim,Installment,2.7,0
+ORD-10545,2024-03-19,Blender Pro,Appliances,8,780.0,5,5928.0,2400,3528.0,59.5,Mansoura,Online,Nour Ibrahim,Cash,5.0,0
+ORD-10233,2024-03-19,Business Course,Education,7,1575.0,0,11025.0,2100,8925.0,81.0,Alexandria,Retail Store,Khaled Mostafa,Bank Transfer,4.3,0
+ORD-11259,2024-03-19,Coffee Machine,Appliances,14,1926.0,0,26964.0,12600,14364.0,53.3,Alexandria,Online,Sara Youssef,Credit Card,4.7,0
+ORD-10966,2024-03-19,Blender Pro,Appliances,9,705.0,0,6345.0,2700,3645.0,57.4,Cairo,Online,Nour Ibrahim,Cash,2.8,0
+ORD-10085,2024-03-20,Wireless Earbuds,Electronics,8,1260.0,0,10080.0,4800,5280.0,52.4,Cairo,Retail Store,Sara Youssef,Credit Card,3.3,0
+ORD-10902,2024-03-21,Laptop Pro X,Electronics,3,8330.0,0,24990.0,15600,9390.0,37.6,Cairo,Online,Mohamed Taha,Bank Transfer,4.7,0
+ORD-11270,2024-03-21,Novel Collection,Books,7,192.6,5,1280.79,420,860.79,67.2,Cairo,Online,Sara Youssef,Cash,5.0,0
+ORD-10697,2024-03-21,Business Course,Education,5,1545.0,20,6180.0,1500,4680.0,75.7,Alexandria,Retail Store,Ahmed Hassan,Cash,3.9,0
+ORD-10011,2024-03-21,Running Shoes,Sports,1,1016.5,15,864.02,400,464.02,53.7,Cairo,Retail Store,Mariam Saad,Credit Card,2.8,0
+ORD-11165,2024-03-21,Protein Powder,Sports,11,551.0,10,5454.9,2750,2704.9,49.6,Port Said,Retail Store,Mohamed Taha,Bank Transfer,2.8,1
+ORD-10712,2024-03-21,Yoga Mat,Sports,6,342.4,0,2054.4,720,1334.4,65.0,Giza,Online,Ahmed Hassan,Installment,3.6,0
+ORD-10285,2024-03-21,Drawing Tablet,Electronics,11,2716.0,15,25394.6,15400,9994.6,39.4,Giza,Online,Mohamed Taha,Installment,5.0,1
+ORD-11406,2024-03-22,Protein Powder,Sports,6,585.8,20,2811.84,1500,1311.84,46.7,Cairo,Online,Mohamed Taha,Credit Card,4.9,0
+ORD-10002,2024-03-22,Business Course,Education,7,1455.0,0,10185.0,2100,8085.0,79.4,Cairo,Wholesale,Ahmed Hassan,Credit Card,4.9,0
+ORD-10167,2024-03-22,Running Shoes,Sports,9,940.5,0,8464.5,3600,4864.5,57.5,Alexandria,Online,Nour Ibrahim,Bank Transfer,1.8,0
+ORD-10412,2024-03-23,Wireless Earbuds,Electronics,4,1200.0,20,3840.0,2400,1440.0,37.5,Cairo,Retail Store,Sara Youssef,Credit Card,5.0,0
+ORD-10651,2024-03-23,Gaming Keyboard,Electronics,8,1122.0,20,7180.8,4000,3180.8,44.3,Mansoura,Online,Ahmed Hassan,Installment,3.3,1
+ORD-11427,2024-03-23,Gaming Keyboard,Electronics,7,1045.0,0,7315.0,3500,3815.0,52.2,Alexandria,Wholesale,Omar Ali,Installment,1.2,0
+ORD-11198,2024-03-23,Air Purifier,Appliances,6,2024.0,5,11536.8,6000,5536.8,48.0,Alexandria,Online,Sara Youssef,Bank Transfer,3.8,0
+ORD-11207,2024-03-23,Drawing Tablet,Electronics,13,3024.0,0,39312.0,18200,21112.0,53.7,Alexandria,Online,Nour Ibrahim,Bank Transfer,3.8,0
+ORD-10075,2024-03-23,Coffee Machine,Appliances,7,1854.0,0,12978.0,6300,6678.0,51.5,Giza,Online,Mohamed Taha,Credit Card,3.9,0
+ORD-10668,2024-03-24,Business Course,Education,8,1485.0,5,11286.0,2400,8886.0,78.7,Cairo,Online,Sara Youssef,Bank Transfer,3.7,0
+ORD-10006,2024-03-24,Running Shoes,Sports,7,912.0,15,5426.4,2800,2626.4,48.4,Giza,Online,Omar Ali,Credit Card,4.6,0
+ORD-10844,2024-03-24,Air Purifier,Appliances,8,2046.0,0,16368.0,8000,8368.0,51.1,Giza,Social Media,Mariam Saad,Cash,5.0,1
+ORD-10932,2024-03-24,Yoga Mat,Sports,7,313.6,20,1756.16,840,916.16,52.2,Giza,Retail Store,Sara Youssef,Installment,4.4,0
+ORD-10595,2024-03-24,Yoga Mat,Sports,5,300.8,0,1504.0,600,904.0,60.1,Alexandria,Retail Store,Mariam Saad,Bank Transfer,1.7,1
+ORD-11323,2024-03-25,Gaming Keyboard,Electronics,8,1100.0,10,7920.0,4000,3920.0,49.5,Cairo,Social Media,Mohamed Taha,Cash,4.7,0
+ORD-10259,2024-03-25,Laptop Pro X,Electronics,7,8670.0,15,51586.5,36400,15186.5,29.4,Giza,Online,Sara Youssef,Credit Card,3.6,0
+ORD-11336,2024-03-25,Business Course,Education,4,1545.0,20,4944.0,1200,3744.0,75.7,Cairo,Online,Sara Youssef,Installment,3.9,0
+ORD-10967,2024-03-25,Novel Collection,Books,5,192.6,10,866.7,300,566.7,65.4,Giza,Online,Ahmed Hassan,Credit Card,5.0,0
+ORD-10284,2024-03-25,Running Shoes,Sports,8,921.5,0,7372.0,3200,4172.0,56.6,Alexandria,Social Media,Mariam Saad,Bank Transfer,4.8,0
+ORD-11382,2024-03-26,Office Chair,Furniture,1,2520.0,0,2520.0,1100,1420.0,56.3,Giza,Online,Mohamed Taha,Credit Card,5.0,0
+ORD-10235,2024-03-26,Novel Collection,Books,10,167.4,15,1422.9,600,822.9,57.8,Giza,Online,Mohamed Taha,Installment,1.9,0
+ORD-10609,2024-03-26,Yoga Mat,Sports,6,339.2,20,1628.16,720,908.16,55.8,Aswan,Wholesale,Omar Ali,Installment,5.0,0
+ORD-10436,2024-03-26,Smart Watch,Electronics,14,2944.0,15,35033.6,25200,9833.6,28.1,Cairo,Online,Sara Youssef,Credit Card,4.9,0
+ORD-10314,2024-03-26,Office Chair,Furniture,13,2280.0,0,29640.0,14300,15340.0,51.8,Alexandria,Social Media,Nour Ibrahim,Cash,1.1,0
+ORD-10434,2024-03-26,Novel Collection,Books,13,192.6,5,2378.61,780,1598.61,67.2,Giza,Retail Store,Mohamed Taha,Credit Card,4.9,0
+ORD-11204,2024-03-26,Coffee Machine,Appliances,3,1692.0,0,5076.0,2700,2376.0,46.8,Giza,Wholesale,Mariam Saad,Cash,4.4,0
+ORD-11239,2024-03-27,Laptop Pro X,Electronics,9,7820.0,0,70380.0,46800,23580.0,33.5,Alexandria,Online,Khaled Mostafa,Installment,3.4,0
+ORD-10833,2024-03-27,Gaming Keyboard,Electronics,1,1034.0,5,982.3,500,482.3,49.1,Cairo,Online,Khaled Mostafa,Installment,4.4,0
+ORD-10041,2024-03-27,Novel Collection,Books,2,174.6,15,296.82,120,176.82,59.6,Giza,Online,Mohamed Taha,Cash,3.8,0
+ORD-10808,2024-03-27,Blender Pro,Appliances,8,690.0,0,5520.0,2400,3120.0,56.5,Mansoura,Online,Nour Ibrahim,Installment,3.7,0
+ORD-10121,2024-03-28,Drawing Tablet,Electronics,10,2772.0,15,23562.0,14000,9562.0,40.6,Luxor,Online,Mohamed Taha,Credit Card,5.0,0
+ORD-10403,2024-03-28,Office Chair,Furniture,14,2376.0,0,33264.0,15400,17864.0,53.7,Mansoura,Wholesale,Mariam Saad,Installment,5.0,1
+ORD-10295,2024-03-29,Smart Watch,Electronics,4,3232.0,20,10342.4,7200,3142.4,30.4,Mansoura,Online,Khaled Mostafa,Credit Card,3.9,0
+ORD-11248,2024-03-29,Novel Collection,Books,6,187.2,10,1010.88,360,650.88,64.4,Cairo,Social Media,Nour Ibrahim,Cash,5.0,0
+ORD-10939,2024-03-29,Air Purifier,Appliances,15,2134.0,0,32010.0,15000,17010.0,53.1,Alexandria,Online,Mohamed Taha,Cash,4.1,0
+ORD-10155,2024-03-29,Gaming Keyboard,Electronics,12,1089.0,0,13068.0,6000,7068.0,54.1,Mansoura,Social Media,Omar Ali,Installment,4.0,0
+ORD-10373,2024-03-29,Business Course,Education,9,1410.0,0,12690.0,2700,9990.0,78.7,Alexandria,Retail Store,Mariam Saad,Cash,3.8,0
+ORD-10754,2024-03-30,Coffee Machine,Appliances,14,1818.0,0,25452.0,12600,12852.0,50.5,Cairo,Online,Omar Ali,Credit Card,5.0,0
+ORD-10848,2024-03-30,Yoga Mat,Sports,12,339.2,10,3663.36,1440,2223.36,60.7,Mansoura,Retail Store,Khaled Mostafa,Installment,4.3,0
+ORD-10511,2024-03-30,Office Chair,Furniture,6,2520.0,15,12852.0,6600,6252.0,48.6,Alexandria,Retail Store,Ahmed Hassan,Cash,4.1,0
+ORD-11241,2024-03-31,Yoga Mat,Sports,3,336.0,5,957.6,360,597.6,62.4,Cairo,Online,Khaled Mostafa,Credit Card,2.8,0
+ORD-10886,2024-03-31,Blender Pro,Appliances,7,772.5,0,5407.5,2100,3307.5,61.2,Cairo,Online,Mariam Saad,Bank Transfer,2.4,0
+ORD-11430,2024-03-31,Air Purifier,Appliances,13,2090.0,0,27170.0,13000,14170.0,52.2,Giza,Social Media,Khaled Mostafa,Credit Card,1.0,0
+ORD-10124,2024-03-31,Drawing Tablet,Electronics,11,2800.0,20,24640.0,15400,9240.0,37.5,Giza,Retail Store,Sara Youssef,Installment,3.1,0
+ORD-10230,2024-03-31,Air Purifier,Appliances,6,2134.0,15,10883.4,6000,4883.4,44.9,Giza,Social Media,Mohamed Taha,Cash,4.8,0
+ORD-10573,2024-03-31,Smart Watch,Electronics,13,2944.0,10,34444.8,23400,11044.8,32.1,Cairo,Wholesale,Sara Youssef,Bank Transfer,3.9,0
+ORD-11048,2024-03-31,Yoga Mat,Sports,12,323.2,20,3102.72,1440,1662.72,53.6,Cairo,Online,Omar Ali,Credit Card,4.3,0
+ORD-10036,2024-04-01,Protein Powder,Sports,5,539.4,10,2427.3,1250,1177.3,48.5,Alexandria,Retail Store,Omar Ali,Bank Transfer,4.0,0
+ORD-10589,2024-04-01,Standing Desk,Furniture,2,4230.0,0,8460.0,4400,4060.0,48.0,Cairo,Online,Mariam Saad,Cash,4.1,0
+ORD-11368,2024-04-02,Wireless Earbuds,Electronics,6,1248.0,0,7488.0,3600,3888.0,51.9,Cairo,Online,Ahmed Hassan,Installment,4.7,0
+ORD-10885,2024-04-02,Running Shoes,Sports,3,997.5,0,2992.5,1200,1792.5,59.9,Cairo,Retail Store,Sara Youssef,Cash,3.6,0
+ORD-10448,2024-04-02,Office Chair,Furniture,15,2520.0,20,30240.0,16500,13740.0,45.4,Alexandria,Online,Mohamed Taha,Cash,5.0,0
+ORD-11162,2024-04-03,Running Shoes,Sports,1,921.5,10,829.35,400,429.35,51.8,Alexandria,Online,Ahmed Hassan,Bank Transfer,3.7,0
+ORD-11156,2024-04-03,Business Course,Education,15,1530.0,0,22950.0,4500,18450.0,80.4,Cairo,Retail Store,Mariam Saad,Credit Card,1.0,0
+ORD-10350,2024-04-03,Wireless Earbuds,Electronics,7,1176.0,5,7820.4,4200,3620.4,46.3,Cairo,Online,Mohamed Taha,Bank Transfer,3.1,0
+ORD-11047,2024-04-03,Business Course,Education,13,1515.0,20,15756.0,3900,11856.0,75.2,Luxor,Online,Ahmed Hassan,Installment,4.0,0
+ORD-11237,2024-04-03,Wireless Earbuds,Electronics,5,1176.0,15,4998.0,3000,1998.0,40.0,Alexandria,Online,Ahmed Hassan,Cash,4.8,0
+ORD-10488,2024-04-04,Coffee Machine,Appliances,14,1908.0,15,22705.2,12600,10105.2,44.5,Cairo,Online,Nour Ibrahim,Bank Transfer,5.0,0
+ORD-11417,2024-04-04,Laptop Pro X,Electronics,14,8925.0,0,124950.0,72800,52150.0,41.7,Alexandria,Retail Store,Omar Ali,Cash,4.7,0
+ORD-10387,2024-04-04,Office Chair,Furniture,10,2520.0,0,25200.0,11000,14200.0,56.3,Cairo,Retail Store,Khaled Mostafa,Credit Card,3.3,1
+ORD-11025,2024-04-04,Novel Collection,Books,7,181.8,15,1081.71,420,661.71,61.2,Cairo,Retail Store,Omar Ali,Credit Card,2.2,0
+ORD-10428,2024-04-04,Running Shoes,Sports,7,902.5,15,5369.88,2800,2569.88,47.9,Mansoura,Online,Nour Ibrahim,Installment,4.1,1
+ORD-10457,2024-04-04,Gaming Keyboard,Electronics,1,1122.0,0,1122.0,500,622.0,55.4,Mansoura,Online,Sara Youssef,Credit Card,4.0,0
+ORD-10942,2024-04-05,Office Chair,Furniture,11,2544.0,0,27984.0,12100,15884.0,56.8,Cairo,Wholesale,Sara Youssef,Bank Transfer,3.1,0
+ORD-10143,2024-04-05,Novel Collection,Books,11,167.4,0,1841.4,660,1181.4,64.2,Cairo,Retail Store,Khaled Mostafa,Credit Card,5.0,0
+ORD-10806,2024-04-06,Gaming Keyboard,Electronics,7,1045.0,5,6949.25,3500,3449.25,49.6,Cairo,Online,Khaled Mostafa,Bank Transfer,4.2,0
+ORD-11101,2024-04-06,Standing Desk,Furniture,15,4275.0,0,64125.0,33000,31125.0,48.5,Cairo,Online,Ahmed Hassan,Bank Transfer,4.9,0
+ORD-10341,2024-04-06,Smart Watch,Electronics,15,3424.0,5,48792.0,27000,21792.0,44.7,Cairo,Online,Mariam Saad,Cash,4.1,0
+ORD-11363,2024-04-06,Drawing Tablet,Electronics,10,2968.0,0,29680.0,14000,15680.0,52.8,Mansoura,Retail Store,Mariam Saad,Installment,4.0,0
+ORD-10423,2024-04-07,Running Shoes,Sports,12,902.5,15,9205.5,4800,4405.5,47.9,Cairo,Online,Mariam Saad,Cash,3.3,0
+ORD-10684,2024-04-07,Wireless Earbuds,Electronics,14,1104.0,0,15456.0,8400,7056.0,45.7,Aswan,Online,Sara Youssef,Cash,3.9,0
+ORD-11100,2024-04-07,Business Course,Education,13,1560.0,0,20280.0,3900,16380.0,80.8,Cairo,Retail Store,Mariam Saad,Installment,4.9,0
+ORD-11056,2024-04-07,Blender Pro,Appliances,9,772.5,15,5909.62,2700,3209.62,54.3,Cairo,Retail Store,Ahmed Hassan,Cash,4.9,1
+ORD-11157,2024-04-07,Business Course,Education,14,1605.0,0,22470.0,4200,18270.0,81.3,Alexandria,Online,Mariam Saad,Cash,4.1,0
+ORD-11298,2024-04-07,Running Shoes,Sports,10,988.0,5,9386.0,4000,5386.0,57.4,Alexandria,Wholesale,Nour Ibrahim,Credit Card,4.7,1
+ORD-10947,2024-04-08,Protein Powder,Sports,1,585.8,10,527.22,250,277.22,52.6,Alexandria,Online,Mohamed Taha,Installment,4.8,0
+ORD-10810,2024-04-08,Standing Desk,Furniture,15,4770.0,5,67972.5,33000,34972.5,51.5,Giza,Retail Store,Mohamed Taha,Cash,4.7,0
+ORD-10039,2024-04-08,Air Purifier,Appliances,11,2354.0,15,22009.9,11000,11009.9,50.0,Mansoura,Online,Khaled Mostafa,Installment,4.3,0
+ORD-10718,2024-04-08,Protein Powder,Sports,9,585.8,0,5272.2,2250,3022.2,57.3,Port Said,Retail Store,Mohamed Taha,Bank Transfer,3.6,0
+ORD-11409,2024-04-08,Drawing Tablet,Electronics,3,2968.0,20,7123.2,4200,2923.2,41.0,Port Said,Online,Khaled Mostafa,Installment,4.0,0
+ORD-10063,2024-04-08,Coffee Machine,Appliances,2,1872.0,20,2995.2,1800,1195.2,39.9,Giza,Online,Sara Youssef,Bank Transfer,5.0,0
+ORD-10418,2024-04-09,Running Shoes,Sports,15,931.0,0,13965.0,6000,7965.0,57.0,Cairo,Online,Ahmed Hassan,Credit Card,3.9,0
+ORD-10832,2024-04-10,Business Course,Education,11,1380.0,15,12903.0,3300,9603.0,74.4,Aswan,Online,Mohamed Taha,Cash,5.0,0
+ORD-11016,2024-04-10,Yoga Mat,Sports,10,339.2,15,2883.2,1200,1683.2,58.4,Giza,Online,Nour Ibrahim,Credit Card,4.9,0
+ORD-10475,2024-04-10,Yoga Mat,Sports,10,345.6,10,3110.4,1200,1910.4,61.4,Cairo,Online,Mohamed Taha,Bank Transfer,5.0,0
+ORD-10935,2024-04-10,Blender Pro,Appliances,8,802.5,0,6420.0,2400,4020.0,62.6,Port Said,Social Media,Nour Ibrahim,Bank Transfer,4.9,0
+ORD-10323,2024-04-11,Standing Desk,Furniture,6,4725.0,10,25515.0,13200,12315.0,48.3,Alexandria,Social Media,Sara Youssef,Credit Card,5.0,0
+ORD-10863,2024-04-11,Running Shoes,Sports,11,1026.0,0,11286.0,4400,6886.0,61.0,Alexandria,Retail Store,Mohamed Taha,Cash,5.0,0
+ORD-11289,2024-04-11,Standing Desk,Furniture,3,4770.0,10,12879.0,6600,6279.0,48.8,Port Said,Retail Store,Sara Youssef,Credit Card,5.0,0
+ORD-10860,2024-04-11,Wireless Earbuds,Electronics,9,1200.0,0,10800.0,5400,5400.0,50.0,Alexandria,Social Media,Ahmed Hassan,Cash,2.8,0
+ORD-11066,2024-04-11,Smart Watch,Electronics,14,3232.0,20,36198.4,25200,10998.4,30.4,Giza,Online,Mariam Saad,Installment,4.8,0
+ORD-10867,2024-04-11,Running Shoes,Sports,12,997.5,0,11970.0,4800,7170.0,59.9,Giza,Retail Store,Mariam Saad,Cash,1.1,0
+ORD-11389,2024-04-11,Drawing Tablet,Electronics,1,2660.0,20,2128.0,1400,728.0,34.2,Giza,Online,Mohamed Taha,Cash,3.8,0
+ORD-11169,2024-04-12,Drawing Tablet,Electronics,4,2856.0,5,10852.8,5600,5252.8,48.4,Aswan,Online,Mariam Saad,Cash,5.0,0
+ORD-10278,2024-04-12,Standing Desk,Furniture,10,4725.0,15,40162.5,22000,18162.5,45.2,Giza,Retail Store,Khaled Mostafa,Bank Transfer,1.2,0
+ORD-10366,2024-04-12,Office Chair,Furniture,10,2472.0,15,21012.0,11000,10012.0,47.6,Cairo,Retail Store,Sara Youssef,Cash,4.2,0
+ORD-10497,2024-04-13,Gaming Keyboard,Electronics,8,1023.0,0,8184.0,4000,4184.0,51.1,Giza,Social Media,Mohamed Taha,Cash,3.7,0
+ORD-10698,2024-04-13,Running Shoes,Sports,7,988.0,0,6916.0,2800,4116.0,59.5,Cairo,Wholesale,Omar Ali,Installment,3.7,0
+ORD-10492,2024-04-13,Drawing Tablet,Electronics,4,2604.0,5,9895.2,5600,4295.2,43.4,Aswan,Retail Store,Omar Ali,Bank Transfer,2.9,0
+ORD-10516,2024-04-13,Gaming Keyboard,Electronics,2,1089.0,0,2178.0,1000,1178.0,54.1,Mansoura,Social Media,Mariam Saad,Cash,5.0,0
+ORD-11205,2024-04-13,Standing Desk,Furniture,1,4815.0,5,4574.25,2200,2374.25,51.9,Cairo,Social Media,Nour Ibrahim,Bank Transfer,3.7,1
+ORD-11319,2024-04-13,Drawing Tablet,Electronics,10,2688.0,0,26880.0,14000,12880.0,47.9,Cairo,Online,Ahmed Hassan,Installment,4.0,1
+ORD-10775,2024-04-13,Yoga Mat,Sports,12,329.6,0,3955.2,1440,2515.2,63.6,Cairo,Social Media,Nour Ibrahim,Credit Card,3.1,0
+ORD-10205,2024-04-14,Coffee Machine,Appliances,11,1674.0,5,17493.3,9900,7593.3,43.4,Aswan,Online,Sara Youssef,Cash,4.9,0
+ORD-11013,2024-04-14,Yoga Mat,Sports,14,332.8,20,3727.36,1680,2047.36,54.9,Giza,Wholesale,Mariam Saad,Bank Transfer,5.0,0
+ORD-11326,2024-04-14,Wireless Earbuds,Electronics,15,1224.0,15,15606.0,9000,6606.0,42.3,Mansoura,Wholesale,Nour Ibrahim,Cash,4.7,0
+ORD-10979,2024-04-15,Business Course,Education,2,1425.0,5,2707.5,600,2107.5,77.8,Giza,Social Media,Sara Youssef,Bank Transfer,1.3,0
+ORD-11388,2024-04-15,Wireless Earbuds,Electronics,10,1296.0,20,10368.0,6000,4368.0,42.1,Cairo,Retail Store,Nour Ibrahim,Bank Transfer,4.9,0
+ORD-10251,2024-04-15,Drawing Tablet,Electronics,1,2828.0,10,2545.2,1400,1145.2,45.0,Cairo,Retail Store,Omar Ali,Installment,4.8,0
+ORD-10660,2024-04-15,Protein Powder,Sports,4,626.4,0,2505.6,1000,1505.6,60.1,Giza,Online,Mariam Saad,Bank Transfer,2.6,1
+ORD-11450,2024-04-15,Air Purifier,Appliances,6,2090.0,15,10659.0,6000,4659.0,43.7,Aswan,Retail Store,Nour Ibrahim,Bank Transfer,1.9,0
+ORD-11184,2024-04-16,Air Purifier,Appliances,1,2178.0,5,2069.1,1000,1069.1,51.7,Cairo,Wholesale,Khaled Mostafa,Credit Card,4.7,0
+ORD-10509,2024-04-16,Drawing Tablet,Electronics,10,3024.0,5,28728.0,14000,14728.0,51.3,Cairo,Online,Mohamed Taha,Cash,4.8,0
+ORD-10602,2024-04-16,Standing Desk,Furniture,8,4860.0,10,34992.0,17600,17392.0,49.7,Port Said,Online,Khaled Mostafa,Bank Transfer,4.9,0
+ORD-11398,2024-04-17,Laptop Pro X,Electronics,2,8075.0,0,16150.0,10400,5750.0,35.6,Cairo,Retail Store,Ahmed Hassan,Cash,4.4,1
+ORD-10735,2024-04-17,Laptop Pro X,Electronics,4,9180.0,15,31212.0,20800,10412.0,33.4,Alexandria,Wholesale,Khaled Mostafa,Bank Transfer,4.8,0
+ORD-10337,2024-04-17,Drawing Tablet,Electronics,13,2660.0,20,27664.0,18200,9464.0,34.2,Cairo,Wholesale,Mohamed Taha,Credit Card,4.9,0
+ORD-10767,2024-04-17,Running Shoes,Sports,4,950.0,20,3040.0,1600,1440.0,47.4,Giza,Retail Store,Mohamed Taha,Bank Transfer,4.7,0
+ORD-10828,2024-04-17,Blender Pro,Appliances,12,802.5,0,9630.0,3600,6030.0,62.6,Giza,Online,Mohamed Taha,Cash,3.2,0
+ORD-10945,2024-04-17,Novel Collection,Books,7,176.4,0,1234.8,420,814.8,66.0,Giza,Retail Store,Mariam Saad,Cash,5.0,0
+ORD-10040,2024-04-17,Air Purifier,Appliances,13,2222.0,15,24553.1,13000,11553.1,47.1,Cairo,Online,Sara Youssef,Cash,4.2,1
+ORD-10479,2024-04-18,Office Chair,Furniture,9,2400.0,0,21600.0,9900,11700.0,54.2,Alexandria,Retail Store,Mariam Saad,Credit Card,5.0,0
+ORD-11174,2024-04-19,Smart Watch,Electronics,6,3168.0,5,18057.6,10800,7257.6,40.2,Alexandria,Online,Sara Youssef,Installment,5.0,0
+ORD-11354,2024-04-19,Office Chair,Furniture,11,2400.0,5,25080.0,12100,12980.0,51.8,Cairo,Online,Khaled Mostafa,Credit Card,4.7,0
+ORD-10380,2024-04-19,Blender Pro,Appliances,11,742.5,0,8167.5,3300,4867.5,59.6,Cairo,Wholesale,Sara Youssef,Bank Transfer,4.4,0
+ORD-10376,2024-04-19,Novel Collection,Books,6,174.6,0,1047.6,360,687.6,65.6,Cairo,Wholesale,Khaled Mostafa,Bank Transfer,1.3,1
+ORD-11058,2024-04-19,Laptop Pro X,Electronics,7,7905.0,10,49801.5,36400,13401.5,26.9,Giza,Retail Store,Ahmed Hassan,Bank Transfer,4.1,0
+ORD-10714,2024-04-20,Smart Watch,Electronics,14,3328.0,0,46592.0,25200,21392.0,45.9,Cairo,Online,Mohamed Taha,Credit Card,4.1,0
+ORD-10784,2024-04-20,Running Shoes,Sports,12,883.5,15,9011.7,4800,4211.7,46.7,Mansoura,Retail Store,Sara Youssef,Credit Card,4.8,0
+ORD-11496,2024-04-20,Smart Watch,Electronics,7,3264.0,0,22848.0,12600,10248.0,44.9,Cairo,Online,Ahmed Hassan,Credit Card,2.3,0
+ORD-11159,2024-04-20,Protein Powder,Sports,8,562.6,0,4500.8,2000,2500.8,55.6,Giza,Wholesale,Ahmed Hassan,Bank Transfer,2.8,0
+ORD-10101,2024-04-21,Running Shoes,Sports,8,1016.5,20,6505.6,3200,3305.6,50.8,Alexandria,Social Media,Omar Ali,Installment,4.8,1
+ORD-10054,2024-04-21,Running Shoes,Sports,12,912.0,0,10944.0,4800,6144.0,56.1,Cairo,Retail Store,Sara Youssef,Credit Card,2.7,0
+ORD-10530,2024-04-21,Blender Pro,Appliances,3,795.0,20,1908.0,900,1008.0,52.8,Giza,Online,Mariam Saad,Cash,3.8,0
+ORD-11448,2024-04-21,Standing Desk,Furniture,2,4545.0,15,7726.5,4400,3326.5,43.1,Cairo,Online,Sara Youssef,Credit Card,3.9,0
+ORD-10789,2024-04-21,Air Purifier,Appliances,5,2288.0,5,10868.0,5000,5868.0,54.0,Port Said,Online,Khaled Mostafa,Cash,4.7,0
+ORD-10451,2024-04-21,Wireless Earbuds,Electronics,4,1224.0,0,4896.0,2400,2496.0,51.0,Cairo,Wholesale,Khaled Mostafa,Credit Card,4.8,1
+ORD-10617,2024-04-21,Business Course,Education,4,1605.0,0,6420.0,1200,5220.0,81.3,Luxor,Retail Store,Sara Youssef,Credit Card,2.3,0
+ORD-10293,2024-04-22,Laptop Pro X,Electronics,15,8925.0,0,133875.0,78000,55875.0,41.7,Cairo,Social Media,Khaled Mostafa,Installment,3.4,1
+ORD-10396,2024-04-22,Drawing Tablet,Electronics,8,2688.0,0,21504.0,11200,10304.0,47.9,Alexandria,Online,Mariam Saad,Installment,5.0,0
+ORD-10297,2024-04-22,Laptop Pro X,Electronics,9,8500.0,0,76500.0,46800,29700.0,38.8,Luxor,Online,Mariam Saad,Installment,4.3,0
+ORD-10948,2024-04-22,Wireless Earbuds,Electronics,12,1236.0,0,14832.0,7200,7632.0,51.5,Cairo,Retail Store,Ahmed Hassan,Installment,4.1,0
+ORD-11454,2024-04-22,Yoga Mat,Sports,9,326.4,0,2937.6,1080,1857.6,63.2,Cairo,Retail Store,Khaled Mostafa,Installment,3.8,0
+ORD-11250,2024-04-23,Business Course,Education,6,1395.0,0,8370.0,1800,6570.0,78.5,Alexandria,Retail Store,Khaled Mostafa,Credit Card,4.9,0
+ORD-10277,2024-04-24,Drawing Tablet,Electronics,9,3024.0,5,25855.2,12600,13255.2,51.3,Cairo,Retail Store,Omar Ali,Installment,5.0,0
+ORD-10739,2024-04-24,Laptop Pro X,Electronics,5,9095.0,10,40927.5,26000,14927.5,36.5,Alexandria,Online,Mariam Saad,Installment,5.0,0
+ORD-10370,2024-04-24,Business Course,Education,11,1515.0,0,16665.0,3300,13365.0,80.2,Alexandria,Wholesale,Sara Youssef,Installment,3.6,0
+ORD-11263,2024-04-24,Drawing Tablet,Electronics,11,2604.0,10,25779.6,15400,10379.6,40.3,Cairo,Retail Store,Nour Ibrahim,Bank Transfer,5.0,0
+ORD-10740,2024-04-25,Business Course,Education,7,1605.0,0,11235.0,2100,9135.0,81.3,Cairo,Online,Ahmed Hassan,Credit Card,4.9,0
+ORD-10204,2024-04-25,Standing Desk,Furniture,14,4635.0,20,51912.0,30800,21112.0,40.7,Alexandria,Online,Nour Ibrahim,Bank Transfer,3.7,0
+ORD-11208,2024-04-25,Standing Desk,Furniture,3,4770.0,0,14310.0,6600,7710.0,53.9,Giza,Retail Store,Sara Youssef,Cash,4.7,0
+ORD-10694,2024-04-26,Wireless Earbuds,Electronics,9,1152.0,0,10368.0,5400,4968.0,47.9,Port Said,Wholesale,Mohamed Taha,Credit Card,3.0,0
+ORD-10087,2024-04-26,Business Course,Education,2,1485.0,0,2970.0,600,2370.0,79.8,Mansoura,Retail Store,Ahmed Hassan,Bank Transfer,4.8,0
+ORD-11290,2024-04-26,Smart Watch,Electronics,7,3264.0,10,20563.2,12600,7963.2,38.7,Cairo,Online,Sara Youssef,Installment,4.8,0
+ORD-11433,2024-04-26,Blender Pro,Appliances,11,802.5,20,7062.0,3300,3762.0,53.3,Alexandria,Wholesale,Nour Ibrahim,Installment,3.8,0
+ORD-11221,2024-04-26,Coffee Machine,Appliances,14,1746.0,15,20777.4,12600,8177.4,39.4,Cairo,Online,Khaled Mostafa,Bank Transfer,4.2,0
+ORD-10093,2024-04-27,Protein Powder,Sports,13,568.4,15,6280.82,3250,3030.82,48.3,Cairo,Online,Mohamed Taha,Cash,4.3,0
+ORD-10898,2024-04-27,Air Purifier,Appliances,2,2222.0,5,4221.8,2000,2221.8,52.6,Alexandria,Wholesale,Mohamed Taha,Cash,3.8,0
+ORD-10868,2024-04-27,Wireless Earbuds,Electronics,3,1176.0,0,3528.0,1800,1728.0,49.0,Port Said,Social Media,Nour Ibrahim,Credit Card,3.7,0
+ORD-10852,2024-04-27,Standing Desk,Furniture,11,4770.0,0,52470.0,24200,28270.0,53.9,Alexandria,Online,Ahmed Hassan,Credit Card,4.8,0
+ORD-10421,2024-04-27,Drawing Tablet,Electronics,6,2772.0,0,16632.0,8400,8232.0,49.5,Alexandria,Online,Mohamed Taha,Installment,4.7,0
+ORD-11464,2024-04-27,Gaming Keyboard,Electronics,10,1056.0,5,10032.0,5000,5032.0,50.2,Giza,Social Media,Mohamed Taha,Bank Transfer,3.7,0
+ORD-10047,2024-04-28,Air Purifier,Appliances,12,2068.0,0,24816.0,12000,12816.0,51.6,Cairo,Online,Khaled Mostafa,Bank Transfer,3.8,0
+ORD-11460,2024-04-28,Air Purifier,Appliances,14,2046.0,5,27211.8,14000,13211.8,48.6,Alexandria,Social Media,Ahmed Hassan,Credit Card,4.4,0
+ORD-10213,2024-04-28,Wireless Earbuds,Electronics,12,1128.0,0,13536.0,7200,6336.0,46.8,Alexandria,Online,Khaled Mostafa,Bank Transfer,3.6,0
+ORD-11018,2024-04-28,Wireless Earbuds,Electronics,10,1104.0,5,10488.0,6000,4488.0,42.8,Mansoura,Wholesale,Mohamed Taha,Credit Card,1.0,0
+ORD-11381,2024-04-28,Blender Pro,Appliances,2,765.0,10,1377.0,600,777.0,56.4,Giza,Wholesale,Mohamed Taha,Cash,5.0,0
+ORD-10490,2024-04-28,Novel Collection,Books,1,176.4,15,149.94,60,89.94,60.0,Mansoura,Online,Mohamed Taha,Bank Transfer,3.9,0
+ORD-11040,2024-04-28,Running Shoes,Sports,6,988.0,0,5928.0,2400,3528.0,59.5,Giza,Online,Nour Ibrahim,Installment,5.0,0
+ORD-11183,2024-04-29,Gaming Keyboard,Electronics,15,1045.0,0,15675.0,7500,8175.0,52.2,Cairo,Wholesale,Nour Ibrahim,Credit Card,2.9,0
+ORD-11108,2024-04-29,Drawing Tablet,Electronics,15,2968.0,10,40068.0,21000,19068.0,47.6,Cairo,Online,Omar Ali,Bank Transfer,3.7,0
+ORD-10001,2024-04-29,Yoga Mat,Sports,10,294.4,0,2944.0,1200,1744.0,59.2,Giza,Retail Store,Nour Ibrahim,Cash,3.8,0
+ORD-10182,2024-04-29,Laptop Pro X,Electronics,2,8415.0,15,14305.5,10400,3905.5,27.3,Alexandria,Retail Store,Mariam Saad,Credit Card,2.4,0
+ORD-10389,2024-04-30,Wireless Earbuds,Electronics,5,1224.0,0,6120.0,3000,3120.0,51.0,Cairo,Retail Store,Khaled Mostafa,Installment,3.7,0
+ORD-11412,2024-04-30,Drawing Tablet,Electronics,14,2716.0,0,38024.0,19600,18424.0,48.5,Cairo,Retail Store,Sara Youssef,Cash,4.6,0
+ORD-10661,2024-04-30,Protein Powder,Sports,8,620.6,0,4964.8,2000,2964.8,59.7,Giza,Retail Store,Ahmed Hassan,Credit Card,4.3,1
+ORD-11059,2024-04-30,Novel Collection,Books,6,180.0,15,918.0,360,558.0,60.8,Port Said,Wholesale,Mohamed Taha,Cash,3.1,0
+ORD-11313,2024-04-30,Wireless Earbuds,Electronics,13,1176.0,0,15288.0,7800,7488.0,49.0,Cairo,Online,Mohamed Taha,Credit Card,4.0,0
+ORD-10723,2024-05-01,Running Shoes,Sports,9,988.0,5,8447.4,3600,4847.4,57.4,Luxor,Online,Omar Ali,Bank Transfer,3.7,0
+ORD-10650,2024-05-01,Blender Pro,Appliances,8,735.0,5,5586.0,2400,3186.0,57.0,Luxor,Social Media,Omar Ali,Credit Card,2.2,0
+ORD-10017,2024-05-01,Standing Desk,Furniture,11,4500.0,10,44550.0,24200,20350.0,45.7,Cairo,Social Media,Khaled Mostafa,Bank Transfer,5.0,0
+ORD-11004,2024-05-01,Wireless Earbuds,Electronics,15,1272.0,15,16218.0,9000,7218.0,44.5,Luxor,Wholesale,Nour Ibrahim,Credit Card,4.8,0
+ORD-11264,2024-05-01,Novel Collection,Books,8,183.6,0,1468.8,480,988.8,67.3,Port Said,Retail Store,Nour Ibrahim,Cash,4.3,0
+ORD-11141,2024-05-02,Smart Watch,Electronics,8,3424.0,0,27392.0,14400,12992.0,47.4,Cairo,Online,Ahmed Hassan,Cash,4.0,0
+ORD-10208,2024-05-02,Yoga Mat,Sports,6,332.8,5,1896.96,720,1176.96,62.0,Alexandria,Retail Store,Omar Ali,Installment,5.0,0
+ORD-10025,2024-05-02,Standing Desk,Furniture,7,4230.0,15,25168.5,15400,9768.5,38.8,Cairo,Online,Mohamed Taha,Credit Card,5.0,0
+ORD-10078,2024-05-02,Business Course,Education,3,1455.0,0,4365.0,900,3465.0,79.4,Giza,Online,Mohamed Taha,Credit Card,3.7,0
+ORD-10069,2024-05-02,Smart Watch,Electronics,9,2976.0,0,26784.0,16200,10584.0,39.5,Alexandria,Retail Store,Nour Ibrahim,Installment,4.8,0
+ORD-11315,2024-05-02,Laptop Pro X,Electronics,11,8755.0,0,96305.0,57200,39105.0,40.6,Cairo,Wholesale,Mariam Saad,Bank Transfer,4.8,0
+ORD-10908,2024-05-02,Standing Desk,Furniture,3,4545.0,0,13635.0,6600,7035.0,51.6,Cairo,Online,Omar Ali,Cash,4.1,0
+ORD-11372,2024-05-03,Running Shoes,Sports,10,902.5,0,9025.0,4000,5025.0,55.7,Luxor,Online,Ahmed Hassan,Cash,3.9,0
+ORD-11291,2024-05-03,Yoga Mat,Sports,1,326.4,15,277.44,120,157.44,56.7,Cairo,Wholesale,Ahmed Hassan,Credit Card,4.9,0
+ORD-10061,2024-05-03,Business Course,Education,8,1530.0,5,11628.0,2400,9228.0,79.4,Alexandria,Online,Omar Ali,Cash,3.8,0
+ORD-10216,2024-05-04,Business Course,Education,4,1455.0,20,4656.0,1200,3456.0,74.2,Aswan,Retail Store,Mohamed Taha,Credit Card,4.9,0
+ORD-10964,2024-05-04,Novel Collection,Books,11,187.2,0,2059.2,660,1399.2,67.9,Giza,Online,Nour Ibrahim,Credit Card,5.0,0
+ORD-10782,2024-05-04,Business Course,Education,8,1410.0,20,9024.0,2400,6624.0,73.4,Cairo,Online,Mohamed Taha,Credit Card,3.7,0
+ORD-11481,2024-05-05,Air Purifier,Appliances,6,2244.0,0,13464.0,6000,7464.0,55.4,Alexandria,Retail Store,Khaled Mostafa,Cash,4.1,0
+ORD-10919,2024-05-05,Business Course,Education,14,1515.0,0,21210.0,4200,17010.0,80.2,Aswan,Online,Mariam Saad,Bank Transfer,2.8,0
+ORD-11443,2024-05-06,Wireless Earbuds,Electronics,6,1140.0,15,5814.0,3600,2214.0,38.1,Luxor,Retail Store,Ahmed Hassan,Credit Card,4.2,0
+ORD-11219,2024-05-07,Standing Desk,Furniture,8,4725.0,0,37800.0,17600,20200.0,53.4,Alexandria,Social Media,Omar Ali,Cash,5.0,0
+ORD-10795,2024-05-07,Drawing Tablet,Electronics,11,2884.0,0,31724.0,15400,16324.0,51.5,Giza,Online,Omar Ali,Cash,3.6,0
+ORD-11089,2024-05-08,Novel Collection,Books,2,181.8,5,345.42,120,225.42,65.3,Giza,Online,Mohamed Taha,Installment,3.2,0
+ORD-10551,2024-05-08,Office Chair,Furniture,1,2208.0,0,2208.0,1100,1108.0,50.2,Cairo,Retail Store,Mohamed Taha,Cash,2.1,0
+ORD-10066,2024-05-09,Blender Pro,Appliances,8,705.0,0,5640.0,2400,3240.0,57.4,Alexandria,Online,Sara Youssef,Credit Card,5.0,1
+ORD-11346,2024-05-09,Protein Powder,Sports,2,597.4,5,1135.06,500,635.06,55.9,Cairo,Retail Store,Mohamed Taha,Cash,5.0,0
+ORD-11340,2024-05-09,Running Shoes,Sports,2,940.5,0,1881.0,800,1081.0,57.5,Giza,Online,Khaled Mostafa,Installment,4.9,0
+ORD-11366,2024-05-09,Wireless Earbuds,Electronics,7,1260.0,5,8379.0,4200,4179.0,49.9,Cairo,Online,Omar Ali,Bank Transfer,4.4,0
+ORD-10875,2024-05-09,Gaming Keyboard,Electronics,15,1144.0,20,13728.0,7500,6228.0,45.4,Luxor,Social Media,Omar Ali,Bank Transfer,3.7,0
+ORD-10480,2024-05-10,Smart Watch,Electronics,1,3104.0,20,2483.2,1800,683.2,27.5,Giza,Online,Nour Ibrahim,Credit Card,5.0,0
+ORD-11211,2024-05-10,Wireless Earbuds,Electronics,11,1188.0,10,11761.2,6600,5161.2,43.9,Cairo,Retail Store,Mohamed Taha,Bank Transfer,2.8,0
+ORD-10647,2024-05-10,Blender Pro,Appliances,10,697.5,10,6277.5,3000,3277.5,52.2,Alexandria,Social Media,Omar Ali,Bank Transfer,3.8,0
+ORD-10460,2024-05-11,Laptop Pro X,Electronics,6,8160.0,15,41616.0,31200,10416.0,25.0,Cairo,Social Media,Mariam Saad,Bank Transfer,2.3,0
+ORD-10211,2024-05-11,Drawing Tablet,Electronics,14,2800.0,15,33320.0,19600,13720.0,41.2,Giza,Retail Store,Mariam Saad,Installment,5.0,0
+ORD-10236,2024-05-12,Office Chair,Furniture,9,2496.0,10,20217.6,9900,10317.6,51.0,Giza,Retail Store,Nour Ibrahim,Installment,5.0,0
+ORD-10382,2024-05-12,Air Purifier,Appliances,7,2178.0,5,14483.7,7000,7483.7,51.7,Alexandria,Online,Sara Youssef,Credit Card,4.1,0
+ORD-10315,2024-05-12,Coffee Machine,Appliances,15,1872.0,20,22464.0,13500,8964.0,39.9,Cairo,Online,Nour Ibrahim,Installment,3.0,0
+ORD-10682,2024-05-12,Blender Pro,Appliances,11,705.0,10,6979.5,3300,3679.5,52.7,Cairo,Online,Ahmed Hassan,Cash,4.0,0
+ORD-11028,2024-05-13,Smart Watch,Electronics,7,3168.0,0,22176.0,12600,9576.0,43.2,Cairo,Online,Mohamed Taha,Installment,4.8,0
+ORD-10986,2024-05-13,Gaming Keyboard,Electronics,5,1122.0,0,5610.0,2500,3110.0,55.4,Giza,Retail Store,Omar Ali,Cash,3.8,0
+ORD-11173,2024-05-13,Yoga Mat,Sports,9,336.0,15,2570.4,1080,1490.4,58.0,Cairo,Wholesale,Ahmed Hassan,Installment,1.9,0
+ORD-11283,2024-05-13,Yoga Mat,Sports,4,320.0,0,1280.0,480,800.0,62.5,Cairo,Online,Sara Youssef,Credit Card,3.3,0
+ORD-11256,2024-05-13,Wireless Earbuds,Electronics,13,1128.0,20,11731.2,7800,3931.2,33.5,Aswan,Online,Ahmed Hassan,Bank Transfer,5.0,0
+ORD-11356,2024-05-14,Air Purifier,Appliances,1,2288.0,0,2288.0,1000,1288.0,56.3,Aswan,Wholesale,Ahmed Hassan,Cash,4.3,0
+ORD-11026,2024-05-14,Drawing Tablet,Electronics,13,2828.0,20,29411.2,18200,11211.2,38.1,Cairo,Retail Store,Khaled Mostafa,Bank Transfer,3.2,1
+ORD-10030,2024-05-14,Smart Watch,Electronics,12,3168.0,15,32313.6,21600,10713.6,33.2,Alexandria,Online,Ahmed Hassan,Cash,4.3,0
+ORD-10311,2024-05-14,Running Shoes,Sports,8,912.0,20,5836.8,3200,2636.8,45.2,Cairo,Online,Mohamed Taha,Credit Card,4.9,0
+ORD-10003,2024-05-15,Drawing Tablet,Electronics,1,2912.0,10,2620.8,1400,1220.8,46.6,Cairo,Social Media,Ahmed Hassan,Installment,3.1,0
+ORD-10028,2024-05-15,Wireless Earbuds,Electronics,15,1128.0,10,15228.0,9000,6228.0,40.9,Cairo,Online,Mariam Saad,Installment,5.0,0
+ORD-10008,2024-05-15,Smart Watch,Electronics,4,3328.0,10,11980.8,7200,4780.8,39.9,Cairo,Retail Store,Khaled Mostafa,Bank Transfer,5.0,0
+ORD-11030,2024-05-15,Blender Pro,Appliances,3,742.5,0,2227.5,900,1327.5,59.6,Alexandria,Retail Store,Omar Ali,Bank Transfer,4.0,0
+ORD-10971,2024-05-16,Office Chair,Furniture,2,2424.0,0,4848.0,2200,2648.0,54.6,Cairo,Retail Store,Sara Youssef,Bank Transfer,4.7,0
+ORD-10587,2024-05-16,Yoga Mat,Sports,11,316.8,0,3484.8,1320,2164.8,62.1,Cairo,Online,Nour Ibrahim,Credit Card,4.0,0
+ORD-10071,2024-05-16,Blender Pro,Appliances,3,697.5,0,2092.5,900,1192.5,57.0,Mansoura,Retail Store,Mohamed Taha,Installment,4.0,0
+ORD-10007,2024-05-17,Wireless Earbuds,Electronics,4,1284.0,10,4622.4,2400,2222.4,48.1,Aswan,Online,Sara Youssef,Bank Transfer,5.0,0
+ORD-10672,2024-05-17,Protein Powder,Sports,11,533.6,0,5869.6,2750,3119.6,53.1,Giza,Social Media,Omar Ali,Cash,4.6,0
+ORD-10227,2024-05-17,Running Shoes,Sports,3,883.5,5,2517.97,1200,1317.97,52.3,Cairo,Online,Mohamed Taha,Credit Card,5.0,0
+ORD-10909,2024-05-17,Wireless Earbuds,Electronics,10,1212.0,10,10908.0,6000,4908.0,45.0,Port Said,Retail Store,Ahmed Hassan,Installment,4.8,1
+ORD-10256,2024-05-17,Coffee Machine,Appliances,14,1746.0,10,21999.6,12600,9399.6,42.7,Giza,Retail Store,Nour Ibrahim,Installment,3.2,0
+ORD-10181,2024-05-18,Gaming Keyboard,Electronics,9,1133.0,0,10197.0,4500,5697.0,55.9,Cairo,Retail Store,Mariam Saad,Cash,5.0,0
+ORD-11079,2024-05-18,Yoga Mat,Sports,6,326.4,0,1958.4,720,1238.4,63.2,Giza,Online,Omar Ali,Cash,3.4,0
+ORD-11281,2024-05-19,Business Course,Education,13,1545.0,15,17072.25,3900,13172.25,77.2,Cairo,Retail Store,Mariam Saad,Credit Card,3.6,0
+ORD-11253,2024-05-19,Air Purifier,Appliances,12,2024.0,20,19430.4,12000,7430.4,38.2,Alexandria,Online,Mariam Saad,Bank Transfer,4.6,0
+ORD-10958,2024-05-20,Coffee Machine,Appliances,13,1764.0,0,22932.0,11700,11232.0,49.0,Giza,Online,Khaled Mostafa,Credit Card,5.0,0
+ORD-10737,2024-05-20,Office Chair,Furniture,14,2472.0,15,29416.8,15400,14016.8,47.6,Giza,Retail Store,Sara Youssef,Bank Transfer,4.9,0
+ORD-11124,2024-05-20,Coffee Machine,Appliances,8,1854.0,0,14832.0,7200,7632.0,51.5,Luxor,Social Media,Sara Youssef,Bank Transfer,4.9,0
+ORD-10970,2024-05-21,Yoga Mat,Sports,10,320.0,5,3040.0,1200,1840.0,60.5,Cairo,Online,Mariam Saad,Credit Card,4.6,0
+ORD-11305,2024-05-21,Business Course,Education,3,1470.0,20,3528.0,900,2628.0,74.5,Cairo,Online,Sara Youssef,Credit Card,5.0,0
+ORD-11085,2024-05-21,Drawing Tablet,Electronics,12,2968.0,15,30273.6,16800,13473.6,44.5,Luxor,Online,Ahmed Hassan,Cash,1.0,0
+ORD-11097,2024-05-21,Protein Powder,Sports,4,597.4,5,2270.12,1000,1270.12,55.9,Cairo,Retail Store,Mohamed Taha,Credit Card,5.0,0
+ORD-10329,2024-05-21,Novel Collection,Books,6,190.8,0,1144.8,360,784.8,68.6,Giza,Social Media,Sara Youssef,Installment,5.0,0
+ORD-11367,2024-05-21,Yoga Mat,Sports,10,316.8,0,3168.0,1200,1968.0,62.1,Cairo,Online,Nour Ibrahim,Credit Card,3.9,0
+ORD-10356,2024-05-22,Laptop Pro X,Electronics,9,8160.0,15,62424.0,46800,15624.0,25.0,Alexandria,Wholesale,Ahmed Hassan,Bank Transfer,4.1,0
+ORD-10059,2024-05-22,Gaming Keyboard,Electronics,8,1056.0,5,8025.6,4000,4025.6,50.2,Giza,Retail Store,Omar Ali,Credit Card,3.9,0
+ORD-10035,2024-05-22,Blender Pro,Appliances,2,802.5,0,1605.0,600,1005.0,62.6,Alexandria,Retail Store,Sara Youssef,Installment,1.7,1
+ORD-10616,2024-05-22,Protein Powder,Sports,6,568.4,20,2728.32,1500,1228.32,45.0,Alexandria,Retail Store,Mariam Saad,Credit Card,5.0,0
+ORD-11136,2024-05-22,Coffee Machine,Appliances,13,1764.0,0,22932.0,11700,11232.0,49.0,Giza,Retail Store,Sara Youssef,Installment,4.0,0
+ORD-11350,2024-05-22,Air Purifier,Appliances,9,2266.0,0,20394.0,9000,11394.0,55.9,Cairo,Online,Sara Youssef,Installment,4.0,0
+ORD-10052,2024-05-22,Drawing Tablet,Electronics,14,2772.0,20,31046.4,19600,11446.4,36.9,Cairo,Online,Khaled Mostafa,Credit Card,1.0,0
+ORD-10543,2024-05-22,Standing Desk,Furniture,3,4590.0,0,13770.0,6600,7170.0,52.1,Aswan,Online,Ahmed Hassan,Cash,2.2,0
+ORD-10717,2024-05-22,Novel Collection,Books,2,190.8,15,324.36,120,204.36,63.0,Cairo,Retail Store,Mohamed Taha,Installment,3.7,0
+ORD-11385,2024-05-22,Running Shoes,Sports,4,940.5,15,3197.7,1600,1597.7,50.0,Cairo,Online,Sara Youssef,Credit Card,4.9,0
+ORD-11084,2024-05-23,Smart Watch,Electronics,5,3232.0,0,16160.0,9000,7160.0,44.3,Mansoura,Retail Store,Mohamed Taha,Bank Transfer,5.0,0
+ORD-11452,2024-05-23,Smart Watch,Electronics,7,3328.0,5,22131.2,12600,9531.2,43.1,Mansoura,Retail Store,Khaled Mostafa,Bank Transfer,5.0,0
+ORD-10871,2024-05-23,Gaming Keyboard,Electronics,10,1034.0,0,10340.0,5000,5340.0,51.6,Cairo,Retail Store,Omar Ali,Installment,5.0,0
+ORD-10870,2024-05-23,Coffee Machine,Appliances,12,1782.0,0,21384.0,10800,10584.0,49.5,Luxor,Online,Ahmed Hassan,Credit Card,3.9,0
+ORD-10758,2024-05-23,Blender Pro,Appliances,3,795.0,10,2146.5,900,1246.5,58.1,Aswan,Online,Ahmed Hassan,Bank Transfer,3.1,0
+ORD-10170,2024-05-23,Blender Pro,Appliances,10,772.5,0,7725.0,3000,4725.0,61.2,Cairo,Online,Omar Ali,Installment,3.9,0
+ORD-10703,2024-05-23,Gaming Keyboard,Electronics,9,1122.0,0,10098.0,4500,5598.0,55.4,Giza,Online,Mariam Saad,Bank Transfer,4.3,0
+ORD-11213,2024-05-23,Blender Pro,Appliances,12,780.0,0,9360.0,3600,5760.0,61.5,Giza,Online,Sara Youssef,Installment,1.0,0
+ORD-10910,2024-05-24,Air Purifier,Appliances,9,2090.0,20,15048.0,9000,6048.0,40.2,Alexandria,Online,Mariam Saad,Credit Card,5.0,0
+ORD-10136,2024-05-24,Drawing Tablet,Electronics,7,2800.0,5,18620.0,9800,8820.0,47.4,Port Said,Wholesale,Mohamed Taha,Cash,2.6,0
+ORD-11410,2024-05-25,Smart Watch,Electronics,2,3168.0,20,5068.8,3600,1468.8,29.0,Cairo,Retail Store,Sara Youssef,Credit Card,3.8,0
+ORD-10433,2024-05-25,Coffee Machine,Appliances,6,1854.0,5,10567.8,5400,5167.8,48.9,Mansoura,Online,Ahmed Hassan,Bank Transfer,4.0,1
+ORD-11134,2024-05-25,Yoga Mat,Sports,12,320.0,0,3840.0,1440,2400.0,62.5,Alexandria,Retail Store,Nour Ibrahim,Credit Card,4.8,1
+ORD-10936,2024-05-25,Standing Desk,Furniture,15,4635.0,0,69525.0,33000,36525.0,52.5,Aswan,Wholesale,Nour Ibrahim,Cash,5.0,0
+ORD-11310,2024-05-25,Smart Watch,Electronics,10,3008.0,0,30080.0,18000,12080.0,40.2,Cairo,Wholesale,Khaled Mostafa,Bank Transfer,4.9,0
+ORD-10641,2024-05-26,Novel Collection,Books,3,172.8,10,466.56,180,286.56,61.4,Cairo,Online,Mariam Saad,Cash,5.0,0
+ORD-10894,2024-05-26,Coffee Machine,Appliances,15,1692.0,5,24111.0,13500,10611.0,44.0,Giza,Social Media,Mohamed Taha,Credit Card,3.3,1
+ORD-10126,2024-05-26,Wireless Earbuds,Electronics,11,1272.0,20,11193.6,6600,4593.6,41.0,Cairo,Retail Store,Nour Ibrahim,Bank Transfer,4.4,0
+ORD-11265,2024-05-26,Novel Collection,Books,12,171.0,5,1949.4,720,1229.4,63.1,Port Said,Wholesale,Omar Ali,Credit Card,3.8,0
+ORD-10495,2024-05-26,Running Shoes,Sports,3,940.5,10,2539.35,1200,1339.35,52.7,Luxor,Retail Store,Mariam Saad,Bank Transfer,3.0,0
+ORD-10090,2024-05-27,Novel Collection,Books,9,171.0,5,1462.05,540,922.05,63.1,Luxor,Social Media,Omar Ali,Bank Transfer,4.0,0
+ORD-11247,2024-05-27,Drawing Tablet,Electronics,11,2884.0,10,28551.6,15400,13151.6,46.1,Aswan,Online,Ahmed Hassan,Installment,3.2,0
+ORD-10535,2024-05-27,Blender Pro,Appliances,11,705.0,0,7755.0,3300,4455.0,57.4,Cairo,Online,Sara Youssef,Bank Transfer,4.4,0
+ORD-10201,2024-05-28,Office Chair,Furniture,14,2568.0,10,32356.8,15400,16956.8,52.4,Cairo,Retail Store,Sara Youssef,Installment,5.0,1
+ORD-10753,2024-05-28,Running Shoes,Sports,4,969.0,20,3100.8,1600,1500.8,48.4,Alexandria,Social Media,Mariam Saad,Cash,4.8,0
+ORD-10166,2024-05-28,Air Purifier,Appliances,14,2244.0,0,31416.0,14000,17416.0,55.4,Port Said,Social Media,Mohamed Taha,Installment,2.2,0
+ORD-10588,2024-05-29,Running Shoes,Sports,10,931.0,15,7913.5,4000,3913.5,49.5,Luxor,Wholesale,Ahmed Hassan,Cash,3.0,0
+ORD-11149,2024-05-29,Standing Desk,Furniture,12,4275.0,15,43605.0,26400,17205.0,39.5,Cairo,Retail Store,Sara Youssef,Installment,5.0,0
+ORD-11133,2024-05-29,Drawing Tablet,Electronics,6,2772.0,5,15800.4,8400,7400.4,46.8,Cairo,Retail Store,Mariam Saad,Installment,3.9,0
+ORD-11225,2024-05-30,Protein Powder,Sports,10,626.4,0,6264.0,2500,3764.0,60.1,Port Said,Online,Ahmed Hassan,Cash,4.1,0
+ORD-10309,2024-05-30,Blender Pro,Appliances,11,765.0,5,7994.25,3300,4694.25,58.7,Cairo,Online,Mariam Saad,Installment,1.0,0
+ORD-10744,2024-05-30,Blender Pro,Appliances,7,735.0,10,4630.5,2100,2530.5,54.6,Mansoura,Online,Khaled Mostafa,Credit Card,4.0,0
+ORD-10900,2024-05-30,Running Shoes,Sports,3,997.5,10,2693.25,1200,1493.25,55.4,Port Said,Social Media,Mariam Saad,Cash,2.6,0
+ORD-11392,2024-05-30,Coffee Machine,Appliances,14,1800.0,5,23940.0,12600,11340.0,47.4,Cairo,Social Media,Mohamed Taha,Bank Transfer,4.9,0
+ORD-10379,2024-05-31,Gaming Keyboard,Electronics,11,1045.0,10,10345.5,5500,4845.5,46.8,Cairo,Online,Mohamed Taha,Credit Card,3.8,0
+ORD-11437,2024-06-02,Novel Collection,Books,3,185.4,20,444.96,180,264.96,59.5,Alexandria,Online,Omar Ali,Bank Transfer,1.4,0
+ORD-11024,2024-06-02,Blender Pro,Appliances,2,697.5,20,1116.0,600,516.0,46.2,Giza,Retail Store,Mohamed Taha,Bank Transfer,4.6,0
+ORD-11294,2024-06-02,Drawing Tablet,Electronics,8,2716.0,15,18468.8,11200,7268.8,39.4,Cairo,Retail Store,Ahmed Hassan,Installment,4.3,0
+ORD-10156,2024-06-02,Blender Pro,Appliances,3,772.5,15,1969.88,900,1069.88,54.3,Giza,Wholesale,Khaled Mostafa,Cash,4.8,0
+ORD-10467,2024-06-02,Office Chair,Furniture,4,2544.0,0,10176.0,4400,5776.0,56.8,Mansoura,Social Media,Mohamed Taha,Installment,2.0,0
+ORD-11109,2024-06-02,Gaming Keyboard,Electronics,10,1177.0,10,10593.0,5000,5593.0,52.8,Cairo,Social Media,Mohamed Taha,Cash,4.9,1
+ORD-11021,2024-06-03,Coffee Machine,Appliances,13,1818.0,20,18907.2,11700,7207.2,38.1,Giza,Retail Store,Omar Ali,Installment,4.0,0
+ORD-11196,2024-06-03,Coffee Machine,Appliances,12,1944.0,15,19828.8,10800,9028.8,45.5,Giza,Retail Store,Omar Ali,Cash,4.9,0
+ORD-10604,2024-06-03,Blender Pro,Appliances,10,727.5,10,6547.5,3000,3547.5,54.2,Mansoura,Online,Mohamed Taha,Credit Card,4.8,0
+ORD-10615,2024-06-03,Novel Collection,Books,1,187.2,20,149.76,60,89.76,59.9,Cairo,Retail Store,Khaled Mostafa,Cash,4.9,0
+ORD-10570,2024-06-03,Coffee Machine,Appliances,7,1656.0,0,11592.0,6300,5292.0,45.7,Cairo,Social Media,Ahmed Hassan,Installment,3.4,0
+ORD-10161,2024-06-04,Protein Powder,Sports,9,539.4,15,4126.41,2250,1876.41,45.5,Cairo,Social Media,Mariam Saad,Cash,4.2,0
+ORD-10592,2024-06-05,Smart Watch,Electronics,13,3072.0,5,37939.2,23400,14539.2,38.3,Alexandria,Online,Mohamed Taha,Credit Card,4.8,1
+ORD-10800,2024-06-05,Running Shoes,Sports,5,931.0,10,4189.5,2000,2189.5,52.3,Alexandria,Online,Sara Youssef,Bank Transfer,5.0,0
+ORD-11064,2024-06-06,Running Shoes,Sports,7,912.0,0,6384.0,2800,3584.0,56.1,Alexandria,Wholesale,Ahmed Hassan,Installment,5.0,1
+ORD-11111,2024-06-06,Wireless Earbuds,Electronics,3,1152.0,0,3456.0,1800,1656.0,47.9,Alexandria,Retail Store,Mariam Saad,Installment,4.7,0
+ORD-10190,2024-06-06,Smart Watch,Electronics,7,3296.0,15,19611.2,12600,7011.2,35.8,Mansoura,Retail Store,Sara Youssef,Installment,4.8,1
+ORD-10411,2024-06-06,Protein Powder,Sports,6,603.2,5,3438.24,1500,1938.24,56.4,Mansoura,Wholesale,Sara Youssef,Credit Card,4.0,0
+ORD-10915,2024-06-07,Yoga Mat,Sports,14,345.6,20,3870.72,1680,2190.72,56.6,Luxor,Retail Store,Nour Ibrahim,Installment,4.8,0
+ORD-11187,2024-06-07,Blender Pro,Appliances,2,742.5,20,1188.0,600,588.0,49.5,Giza,Online,Sara Youssef,Credit Card,4.2,0
+ORD-10094,2024-06-07,Drawing Tablet,Electronics,8,2604.0,0,20832.0,11200,9632.0,46.2,Mansoura,Online,Omar Ali,Installment,3.7,0
+ORD-11455,2024-06-07,Business Course,Education,7,1380.0,10,8694.0,2100,6594.0,75.8,Port Said,Online,Omar Ali,Installment,3.2,0
+ORD-10517,2024-06-07,Drawing Tablet,Electronics,6,2632.0,20,12633.6,8400,4233.6,33.5,Cairo,Social Media,Khaled Mostafa,Cash,4.6,0
+ORD-10675,2024-06-07,Gaming Keyboard,Electronics,11,1122.0,0,12342.0,5500,6842.0,55.4,Giza,Wholesale,Khaled Mostafa,Cash,4.3,0
+ORD-11153,2024-06-07,Office Chair,Furniture,4,2256.0,10,8121.6,4400,3721.6,45.8,Mansoura,Wholesale,Sara Youssef,Cash,5.0,0
+ORD-10792,2024-06-07,Office Chair,Furniture,12,2376.0,0,28512.0,13200,15312.0,53.7,Giza,Online,Omar Ali,Bank Transfer,4.7,0
+ORD-10629,2024-06-08,Business Course,Education,7,1500.0,0,10500.0,2100,8400.0,80.0,Giza,Retail Store,Khaled Mostafa,Bank Transfer,4.3,0
+ORD-10797,2024-06-08,Smart Watch,Electronics,12,3040.0,5,34656.0,21600,13056.0,37.7,Cairo,Online,Omar Ali,Bank Transfer,1.8,0
+ORD-11404,2024-06-09,Gaming Keyboard,Electronics,15,1023.0,5,14577.75,7500,7077.75,48.6,Mansoura,Online,Nour Ibrahim,Credit Card,4.9,0
+ORD-10918,2024-06-09,Coffee Machine,Appliances,2,1854.0,10,3337.2,1800,1537.2,46.1,Alexandria,Wholesale,Sara Youssef,Credit Card,4.1,0
+ORD-11302,2024-06-09,Novel Collection,Books,15,190.8,5,2718.9,900,1818.9,66.9,Mansoura,Retail Store,Khaled Mostafa,Installment,4.3,1
+ORD-10550,2024-06-09,Yoga Mat,Sports,1,329.6,20,263.68,120,143.68,54.5,Cairo,Online,Khaled Mostafa,Credit Card,3.9,0
+ORD-11050,2024-06-09,Wireless Earbuds,Electronics,6,1164.0,0,6984.0,3600,3384.0,48.5,Cairo,Retail Store,Mariam Saad,Cash,5.0,1
+ORD-11422,2024-06-10,Blender Pro,Appliances,10,720.0,0,7200.0,3000,4200.0,58.3,Cairo,Retail Store,Ahmed Hassan,Cash,4.1,0
+ORD-10390,2024-06-10,Air Purifier,Appliances,3,2024.0,0,6072.0,3000,3072.0,50.6,Mansoura,Retail Store,Sara Youssef,Bank Transfer,4.9,0
+ORD-10264,2024-06-10,Drawing Tablet,Electronics,3,2688.0,15,6854.4,4200,2654.4,38.7,Cairo,Retail Store,Khaled Mostafa,Installment,3.2,0
+ORD-10763,2024-06-11,Standing Desk,Furniture,7,4140.0,5,27531.0,15400,12131.0,44.1,Cairo,Retail Store,Omar Ali,Credit Card,5.0,0
+ORD-11081,2024-06-11,Air Purifier,Appliances,3,2068.0,0,6204.0,3000,3204.0,51.6,Port Said,Online,Sara Youssef,Cash,4.7,0
+ORD-11063,2024-06-11,Air Purifier,Appliances,7,2310.0,5,15361.5,7000,8361.5,54.4,Alexandria,Social Media,Omar Ali,Bank Transfer,3.9,0
+ORD-10634,2024-06-11,Air Purifier,Appliances,10,2156.0,10,19404.0,10000,9404.0,48.5,Cairo,Retail Store,Sara Youssef,Cash,5.0,0
+ORD-11033,2024-06-11,Laptop Pro X,Electronics,9,8755.0,0,78795.0,46800,31995.0,40.6,Port Said,Social Media,Omar Ali,Credit Card,4.3,0
+ORD-10729,2024-06-11,Gaming Keyboard,Electronics,11,1177.0,15,11004.95,5500,5504.95,50.0,Cairo,Wholesale,Nour Ibrahim,Installment,5.0,0
+ORD-10665,2024-06-11,Business Course,Education,9,1485.0,0,13365.0,2700,10665.0,79.8,Cairo,Online,Mariam Saad,Bank Transfer,3.3,0
+ORD-10928,2024-06-11,Wireless Earbuds,Electronics,13,1296.0,5,16005.6,7800,8205.6,51.3,Cairo,Retail Store,Nour Ibrahim,Cash,4.1,0
+ORD-10816,2024-06-13,Laptop Pro X,Electronics,11,8330.0,0,91630.0,57200,34430.0,37.6,Port Said,Retail Store,Sara Youssef,Bank Transfer,5.0,0
+ORD-11220,2024-06-13,Business Course,Education,7,1560.0,20,8736.0,2100,6636.0,76.0,Mansoura,Wholesale,Mohamed Taha,Credit Card,5.0,0
+ORD-10253,2024-06-13,Blender Pro,Appliances,4,780.0,15,2652.0,1200,1452.0,54.8,Alexandria,Online,Sara Youssef,Installment,3.9,0
+ORD-10298,2024-06-14,Laptop Pro X,Electronics,1,7990.0,15,6791.5,5200,1591.5,23.4,Luxor,Wholesale,Mohamed Taha,Installment,1.9,1
+ORD-11362,2024-06-14,Gaming Keyboard,Electronics,4,1111.0,0,4444.0,2000,2444.0,55.0,Port Said,Online,Omar Ali,Bank Transfer,5.0,0
+ORD-10673,2024-06-14,Drawing Tablet,Electronics,1,2912.0,10,2620.8,1400,1220.8,46.6,Port Said,Online,Nour Ibrahim,Installment,5.0,0
+ORD-10927,2024-06-14,Novel Collection,Books,14,192.6,15,2291.94,840,1451.94,63.3,Mansoura,Retail Store,Ahmed Hassan,Cash,3.3,0
+ORD-11180,2024-06-14,Air Purifier,Appliances,3,2112.0,0,6336.0,3000,3336.0,52.7,Giza,Wholesale,Khaled Mostafa,Bank Transfer,3.8,0
+ORD-10088,2024-06-15,Drawing Tablet,Electronics,1,2716.0,0,2716.0,1400,1316.0,48.5,Alexandria,Online,Nour Ibrahim,Cash,4.7,0
+ORD-10780,2024-06-15,Air Purifier,Appliances,8,2090.0,0,16720.0,8000,8720.0,52.2,Alexandria,Retail Store,Ahmed Hassan,Bank Transfer,5.0,0
+ORD-10525,2024-06-15,Running Shoes,Sports,8,874.0,5,6642.4,3200,3442.4,51.8,Cairo,Retail Store,Mohamed Taha,Cash,4.9,0
+ORD-10882,2024-06-15,Laptop Pro X,Electronics,11,8925.0,20,78540.0,57200,21340.0,27.2,Alexandria,Retail Store,Omar Ali,Cash,4.6,0
+ORD-10716,2024-06-15,Wireless Earbuds,Electronics,13,1224.0,10,14320.8,7800,6520.8,45.5,Alexandria,Online,Nour Ibrahim,Installment,4.4,0
+ORD-10439,2024-06-15,Blender Pro,Appliances,8,742.5,20,4752.0,2400,2352.0,49.5,Alexandria,Online,Nour Ibrahim,Cash,2.2,0
+ORD-10787,2024-06-16,Coffee Machine,Appliances,9,1836.0,10,14871.6,8100,6771.6,45.5,Cairo,Retail Store,Nour Ibrahim,Credit Card,4.7,0
+ORD-11087,2024-06-16,Standing Desk,Furniture,9,4680.0,0,42120.0,19800,22320.0,53.0,Giza,Online,Nour Ibrahim,Bank Transfer,5.0,0
+ORD-10620,2024-06-16,Running Shoes,Sports,2,931.0,5,1768.9,800,968.9,54.8,Giza,Online,Mohamed Taha,Bank Transfer,4.9,1
+ORD-10956,2024-06-16,Protein Powder,Sports,7,556.8,0,3897.6,1750,2147.6,55.1,Cairo,Retail Store,Mohamed Taha,Credit Card,1.8,0
+ORD-10579,2024-06-16,Air Purifier,Appliances,10,2112.0,10,19008.0,10000,9008.0,47.4,Luxor,Social Media,Ahmed Hassan,Bank Transfer,1.0,0
+ORD-11209,2024-06-16,Laptop Pro X,Electronics,11,7990.0,0,87890.0,57200,30690.0,34.9,Alexandria,Wholesale,Khaled Mostafa,Bank Transfer,5.0,0
+ORD-10776,2024-06-17,Gaming Keyboard,Electronics,10,1166.0,5,11077.0,5000,6077.0,54.9,Alexandria,Online,Ahmed Hassan,Installment,4.3,0
+ORD-11155,2024-06-17,Yoga Mat,Sports,2,307.2,10,552.96,240,312.96,56.6,Aswan,Retail Store,Ahmed Hassan,Credit Card,4.0,0
+ORD-10334,2024-06-18,Coffee Machine,Appliances,5,1818.0,5,8635.5,4500,4135.5,47.9,Aswan,Retail Store,Mohamed Taha,Credit Card,3.8,0
+ORD-10752,2024-06-18,Drawing Tablet,Electronics,12,2744.0,5,31281.6,16800,14481.6,46.3,Cairo,Social Media,Omar Ali,Credit Card,4.6,0
+ORD-11400,2024-06-18,Novel Collection,Books,11,174.6,0,1920.6,660,1260.6,65.6,Giza,Wholesale,Khaled Mostafa,Installment,3.2,0
+ORD-11396,2024-06-18,Novel Collection,Books,12,178.2,15,1817.64,720,1097.64,60.4,Giza,Online,Mohamed Taha,Cash,4.9,0
+ORD-10814,2024-06-18,Drawing Tablet,Electronics,2,2576.0,20,4121.6,2800,1321.6,32.1,Giza,Retail Store,Mariam Saad,Credit Card,4.3,0
+ORD-10038,2024-06-18,Protein Powder,Sports,6,597.4,0,3584.4,1500,2084.4,58.2,Giza,Online,Omar Ali,Bank Transfer,5.0,0
+ORD-10541,2024-06-18,Air Purifier,Appliances,6,2354.0,20,11299.2,6000,5299.2,46.9,Cairo,Online,Sara Youssef,Installment,4.1,0
+ORD-10391,2024-06-18,Gaming Keyboard,Electronics,8,1089.0,0,8712.0,4000,4712.0,54.1,Mansoura,Retail Store,Ahmed Hassan,Cash,3.7,0
+ORD-10289,2024-06-18,Wireless Earbuds,Electronics,1,1284.0,0,1284.0,600,684.0,53.3,Cairo,Retail Store,Mohamed Taha,Bank Transfer,3.9,0
+ORD-10847,2024-06-19,Drawing Tablet,Electronics,5,2632.0,20,10528.0,7000,3528.0,33.5,Cairo,Online,Nour Ibrahim,Cash,4.7,1
+ORD-11421,2024-06-19,Laptop Pro X,Electronics,7,8585.0,20,48076.0,36400,11676.0,24.3,Cairo,Wholesale,Nour Ibrahim,Bank Transfer,2.1,0
+ORD-11474,2024-06-19,Yoga Mat,Sports,3,336.0,0,1008.0,360,648.0,64.3,Alexandria,Wholesale,Mariam Saad,Cash,2.8,0
+ORD-10186,2024-06-20,Standing Desk,Furniture,8,4860.0,10,34992.0,17600,17392.0,49.7,Alexandria,Wholesale,Mariam Saad,Bank Transfer,5.0,0
+ORD-10273,2024-06-20,Drawing Tablet,Electronics,7,2688.0,0,18816.0,9800,9016.0,47.9,Cairo,Social Media,Sara Youssef,Credit Card,4.0,0
+ORD-10280,2024-06-20,Laptop Pro X,Electronics,13,8755.0,20,91052.0,67600,23452.0,25.8,Mansoura,Online,Mariam Saad,Cash,4.4,1
+ORD-10586,2024-06-20,Office Chair,Furniture,9,2256.0,5,19288.8,9900,9388.8,48.7,Mansoura,Wholesale,Mohamed Taha,Cash,3.2,0
+ORD-10499,2024-06-20,Protein Powder,Sports,14,597.4,0,8363.6,3500,4863.6,58.2,Cairo,Online,Mohamed Taha,Credit Card,3.8,0
+ORD-11459,2024-06-21,Coffee Machine,Appliances,8,1872.0,10,13478.4,7200,6278.4,46.6,Cairo,Online,Khaled Mostafa,Credit Card,3.7,0
+ORD-11075,2024-06-21,Blender Pro,Appliances,3,697.5,15,1778.62,900,878.62,49.4,Giza,Online,Ahmed Hassan,Installment,4.2,0
+ORD-10786,2024-06-21,Blender Pro,Appliances,4,772.5,0,3090.0,1200,1890.0,61.2,Cairo,Wholesale,Mohamed Taha,Cash,3.6,0
+ORD-11029,2024-06-21,Protein Powder,Sports,7,539.4,0,3775.8,1750,2025.8,53.7,Alexandria,Retail Store,Mohamed Taha,Credit Card,5.0,0
+ORD-11476,2024-06-21,Laptop Pro X,Electronics,1,8840.0,20,7072.0,5200,1872.0,26.5,Cairo,Retail Store,Ahmed Hassan,Credit Card,4.7,0
+ORD-11122,2024-06-21,Novel Collection,Books,5,187.2,0,936.0,300,636.0,67.9,Alexandria,Online,Omar Ali,Bank Transfer,4.9,0
+ORD-10715,2024-06-21,Drawing Tablet,Electronics,7,2800.0,15,16660.0,9800,6860.0,41.2,Aswan,Online,Mariam Saad,Bank Transfer,3.1,0
+ORD-10129,2024-06-22,Novel Collection,Books,10,167.4,15,1422.9,600,822.9,57.8,Giza,Online,Ahmed Hassan,Bank Transfer,5.0,0
+ORD-10889,2024-06-22,Blender Pro,Appliances,12,697.5,0,8370.0,3600,4770.0,57.0,Alexandria,Retail Store,Nour Ibrahim,Cash,5.0,0
+ORD-11300,2024-06-22,Novel Collection,Books,5,185.4,5,880.65,300,580.65,65.9,Giza,Retail Store,Khaled Mostafa,Installment,4.9,0
+ORD-10597,2024-06-22,Business Course,Education,2,1560.0,0,3120.0,600,2520.0,80.8,Cairo,Retail Store,Omar Ali,Credit Card,4.3,0
+ORD-10701,2024-06-22,Coffee Machine,Appliances,7,1944.0,0,13608.0,6300,7308.0,53.7,Alexandria,Online,Ahmed Hassan,Cash,1.6,0
+ORD-10857,2024-06-22,Gaming Keyboard,Electronics,11,1056.0,10,10454.4,5500,4954.4,47.4,Aswan,Wholesale,Omar Ali,Installment,3.8,0
+ORD-10635,2024-06-22,Smart Watch,Electronics,10,3104.0,5,29488.0,18000,11488.0,39.0,Cairo,Retail Store,Mohamed Taha,Credit Card,3.0,0
+ORD-11493,2024-06-23,Laptop Pro X,Electronics,5,8755.0,0,43775.0,26000,17775.0,40.6,Port Said,Online,Mariam Saad,Cash,5.0,0
+ORD-11348,2024-06-23,Blender Pro,Appliances,11,757.5,5,7915.88,3300,4615.88,58.3,Cairo,Online,Sara Youssef,Credit Card,4.7,0
+ORD-11436,2024-06-23,Wireless Earbuds,Electronics,10,1260.0,20,10080.0,6000,4080.0,40.5,Aswan,Online,Omar Ali,Bank Transfer,5.0,0
+ORD-10360,2024-06-23,Coffee Machine,Appliances,14,1836.0,20,20563.2,12600,7963.2,38.7,Cairo,Retail Store,Sara Youssef,Credit Card,4.7,0
+ORD-10238,2024-06-24,Running Shoes,Sports,13,902.5,5,11145.88,5200,5945.88,53.3,Cairo,Online,Sara Youssef,Bank Transfer,4.8,0
+ORD-10306,2024-06-24,Smart Watch,Electronics,15,3136.0,15,39984.0,27000,12984.0,32.5,Cairo,Social Media,Ahmed Hassan,Installment,4.1,0
+ORD-10422,2024-06-24,Wireless Earbuds,Electronics,9,1284.0,5,10978.2,5400,5578.2,50.8,Cairo,Online,Khaled Mostafa,Installment,5.0,1
+ORD-11131,2024-06-24,Coffee Machine,Appliances,6,1764.0,5,10054.8,5400,4654.8,46.3,Cairo,Wholesale,Nour Ibrahim,Cash,3.7,0
+ORD-11361,2024-06-24,Yoga Mat,Sports,9,326.4,0,2937.6,1080,1857.6,63.2,Cairo,Online,Omar Ali,Installment,3.8,1
+ORD-11163,2024-06-24,Novel Collection,Books,11,181.8,0,1999.8,660,1339.8,67.0,Cairo,Online,Mariam Saad,Cash,4.8,0
+ORD-10128,2024-06-24,Business Course,Education,2,1500.0,0,3000.0,600,2400.0,80.0,Cairo,Retail Store,Nour Ibrahim,Cash,5.0,0
+ORD-10577,2024-06-24,Office Chair,Furniture,15,2328.0,0,34920.0,16500,18420.0,52.7,Mansoura,Retail Store,Khaled Mostafa,Cash,4.0,0
+ORD-10690,2024-06-25,Running Shoes,Sports,4,950.0,10,3420.0,1600,1820.0,53.2,Luxor,Online,Khaled Mostafa,Bank Transfer,4.8,0
+ORD-10203,2024-06-25,Novel Collection,Books,11,176.4,10,1746.36,660,1086.36,62.2,Cairo,Online,Mariam Saad,Installment,5.0,0
+ORD-10165,2024-06-25,Air Purifier,Appliances,3,2288.0,10,6177.6,3000,3177.6,51.4,Giza,Online,Nour Ibrahim,Credit Card,4.8,0
+ORD-10532,2024-06-25,Wireless Earbuds,Electronics,10,1104.0,10,9936.0,6000,3936.0,39.6,Alexandria,Online,Omar Ali,Credit Card,5.0,0
+ORD-10454,2024-06-26,Drawing Tablet,Electronics,15,2772.0,0,41580.0,21000,20580.0,49.5,Cairo,Online,Sara Youssef,Cash,4.6,0
+ORD-11332,2024-06-26,Drawing Tablet,Electronics,5,2632.0,15,11186.0,7000,4186.0,37.4,Mansoura,Retail Store,Khaled Mostafa,Bank Transfer,4.9,0
+ORD-11242,2024-06-27,Novel Collection,Books,3,181.8,0,545.4,180,365.4,67.0,Luxor,Retail Store,Khaled Mostafa,Cash,1.3,1
+ORD-10803,2024-06-27,Yoga Mat,Sports,12,320.0,15,3264.0,1440,1824.0,55.9,Alexandria,Online,Nour Ibrahim,Bank Transfer,3.8,0
+ORD-10243,2024-06-27,Coffee Machine,Appliances,14,1782.0,0,24948.0,12600,12348.0,49.5,Mansoura,Retail Store,Omar Ali,Credit Card,3.9,0
+ORD-10113,2024-06-28,Blender Pro,Appliances,9,735.0,20,5292.0,2700,2592.0,49.0,Cairo,Online,Nour Ibrahim,Credit Card,4.1,0
+ORD-10123,2024-06-28,Business Course,Education,14,1530.0,0,21420.0,4200,17220.0,80.4,Cairo,Online,Mariam Saad,Cash,4.2,0
+ORD-10407,2024-06-28,Protein Powder,Sports,13,603.2,20,6273.28,3250,3023.28,48.2,Aswan,Retail Store,Nour Ibrahim,Cash,5.0,0
+ORD-10984,2024-06-28,Gaming Keyboard,Electronics,5,1155.0,10,5197.5,2500,2697.5,51.9,Giza,Wholesale,Mariam Saad,Credit Card,3.7,0
+ORD-11376,2024-06-29,Air Purifier,Appliances,5,2112.0,0,10560.0,5000,5560.0,52.7,Luxor,Online,Nour Ibrahim,Credit Card,4.1,0
+ORD-10842,2024-06-29,Protein Powder,Sports,9,580.0,15,4437.0,2250,2187.0,49.3,Cairo,Wholesale,Mariam Saad,Credit Card,4.8,0
+ORD-10653,2024-06-29,Air Purifier,Appliances,10,2288.0,10,20592.0,10000,10592.0,51.4,Mansoura,Retail Store,Ahmed Hassan,Credit Card,3.7,0
+ORD-11203,2024-06-30,Yoga Mat,Sports,10,332.8,10,2995.2,1200,1795.2,59.9,Aswan,Retail Store,Mohamed Taha,Installment,4.2,1
+ORD-10060,2024-06-30,Drawing Tablet,Electronics,5,2716.0,10,12222.0,7000,5222.0,42.7,Giza,Online,Ahmed Hassan,Cash,5.0,0
+ORD-11181,2024-06-30,Gaming Keyboard,Electronics,15,1133.0,10,15295.5,7500,7795.5,51.0,Cairo,Wholesale,Mariam Saad,Installment,4.6,0
+ORD-10290,2024-06-30,Office Chair,Furniture,15,2280.0,0,34200.0,16500,17700.0,51.8,Alexandria,Online,Khaled Mostafa,Cash,4.0,0
+ORD-11229,2024-07-01,Wireless Earbuds,Electronics,12,1128.0,20,10828.8,7200,3628.8,33.5,Mansoura,Retail Store,Mohamed Taha,Cash,5.0,1
+ORD-10862,2024-07-02,Gaming Keyboard,Electronics,14,1133.0,0,15862.0,7000,8862.0,55.9,Cairo,Online,Nour Ibrahim,Bank Transfer,4.3,0
+ORD-10466,2024-07-03,Running Shoes,Sports,8,1016.5,0,8132.0,3200,4932.0,60.6,Giza,Social Media,Khaled Mostafa,Credit Card,4.4,0
+ORD-11216,2024-07-03,Protein Powder,Sports,11,597.4,10,5914.26,2750,3164.26,53.5,Alexandria,Online,Sara Youssef,Credit Card,5.0,0
+ORD-10804,2024-07-04,Novel Collection,Books,12,185.4,15,1891.08,720,1171.08,61.9,Giza,Online,Khaled Mostafa,Bank Transfer,1.7,0
+ORD-11041,2024-07-04,Novel Collection,Books,8,183.6,5,1395.36,480,915.36,65.6,Mansoura,Online,Mohamed Taha,Cash,1.8,0
+ORD-10013,2024-07-04,Gaming Keyboard,Electronics,14,1155.0,0,16170.0,7000,9170.0,56.7,Cairo,Wholesale,Ahmed Hassan,Credit Card,4.3,1
+ORD-10132,2024-07-04,Standing Desk,Furniture,3,4815.0,0,14445.0,6600,7845.0,54.3,Luxor,Retail Store,Mariam Saad,Cash,4.8,0
+ORD-10923,2024-07-04,Drawing Tablet,Electronics,7,3024.0,0,21168.0,9800,11368.0,53.7,Cairo,Wholesale,Mohamed Taha,Bank Transfer,5.0,0
+ORD-10623,2024-07-05,Office Chair,Furniture,6,2280.0,20,10944.0,6600,4344.0,39.7,Port Said,Online,Mohamed Taha,Bank Transfer,3.8,0
+ORD-10005,2024-07-05,Smart Watch,Electronics,6,3136.0,15,15993.6,10800,5193.6,32.5,Cairo,Social Media,Sara Youssef,Credit Card,3.7,0
+ORD-10231,2024-07-05,Wireless Earbuds,Electronics,15,1212.0,10,16362.0,9000,7362.0,45.0,Port Said,Online,Mohamed Taha,Credit Card,2.0,0
+ORD-10977,2024-07-05,Running Shoes,Sports,1,997.5,0,997.5,400,597.5,59.9,Giza,Wholesale,Mohamed Taha,Bank Transfer,5.0,0
+ORD-10631,2024-07-06,Coffee Machine,Appliances,13,1872.0,0,24336.0,11700,12636.0,51.9,Mansoura,Retail Store,Nour Ibrahim,Credit Card,4.4,0
+ORD-10242,2024-07-06,Coffee Machine,Appliances,4,1782.0,0,7128.0,3600,3528.0,49.5,Giza,Retail Store,Sara Youssef,Installment,4.1,0
+ORD-10342,2024-07-06,Business Course,Education,11,1575.0,5,16458.75,3300,13158.75,79.9,Aswan,Online,Khaled Mostafa,Credit Card,3.6,0
+ORD-10169,2024-07-06,Drawing Tablet,Electronics,7,2744.0,5,18247.6,9800,8447.6,46.3,Cairo,Retail Store,Omar Ali,Installment,5.0,0
+ORD-10062,2024-07-07,Running Shoes,Sports,9,950.0,5,8122.5,3600,4522.5,55.7,Port Said,Retail Store,Omar Ali,Bank Transfer,4.8,0
+ORD-11318,2024-07-07,Yoga Mat,Sports,15,336.0,5,4788.0,1800,2988.0,62.4,Cairo,Retail Store,Sara Youssef,Installment,4.9,0
+ORD-10544,2024-07-08,Drawing Tablet,Electronics,3,2688.0,15,6854.4,4200,2654.4,38.7,Cairo,Online,Khaled Mostafa,Credit Card,4.7,0
+ORD-11262,2024-07-08,Laptop Pro X,Electronics,3,9010.0,15,22975.5,15600,7375.5,32.1,Cairo,Online,Khaled Mostafa,Credit Card,3.2,0
+ORD-10137,2024-07-09,Yoga Mat,Sports,15,300.8,20,3609.6,1800,1809.6,50.1,Alexandria,Online,Ahmed Hassan,Cash,5.0,0
+ORD-10953,2024-07-09,Smart Watch,Electronics,13,3104.0,0,40352.0,23400,16952.0,42.0,Cairo,Online,Omar Ali,Cash,4.2,0
+ORD-10713,2024-07-09,Standing Desk,Furniture,6,4365.0,5,24880.5,13200,11680.5,46.9,Cairo,Online,Mohamed Taha,Bank Transfer,5.0,0
+ORD-11191,2024-07-10,Gaming Keyboard,Electronics,14,1056.0,0,14784.0,7000,7784.0,52.7,Cairo,Online,Ahmed Hassan,Bank Transfer,5.0,0
+ORD-10861,2024-07-10,Standing Desk,Furniture,6,4455.0,0,26730.0,13200,13530.0,50.6,Alexandria,Online,Nour Ibrahim,Bank Transfer,4.9,0
+ORD-10144,2024-07-10,Standing Desk,Furniture,12,4140.0,20,39744.0,26400,13344.0,33.6,Cairo,Online,Sara Youssef,Credit Card,3.2,0
+ORD-11152,2024-07-12,Blender Pro,Appliances,15,750.0,0,11250.0,4500,6750.0,60.0,Aswan,Retail Store,Nour Ibrahim,Bank Transfer,5.0,0
+ORD-10398,2024-07-12,Coffee Machine,Appliances,10,1836.0,20,14688.0,9000,5688.0,38.7,Cairo,Online,Mariam Saad,Bank Transfer,5.0,0
+ORD-10086,2024-07-13,Coffee Machine,Appliances,11,1854.0,20,16315.2,9900,6415.2,39.3,Alexandria,Retail Store,Khaled Mostafa,Credit Card,5.0,0
+ORD-10427,2024-07-13,Protein Powder,Sports,2,562.6,10,1012.68,500,512.68,50.6,Aswan,Online,Omar Ali,Cash,5.0,0
+ORD-10352,2024-07-13,Drawing Tablet,Electronics,6,2856.0,20,13708.8,8400,5308.8,38.7,Giza,Wholesale,Mariam Saad,Bank Transfer,1.7,0
+ORD-10505,2024-07-13,Blender Pro,Appliances,2,780.0,20,1248.0,600,648.0,51.9,Giza,Online,Mariam Saad,Credit Card,3.8,0
+ORD-10547,2024-07-13,Novel Collection,Books,12,176.4,0,2116.8,720,1396.8,66.0,Cairo,Wholesale,Ahmed Hassan,Installment,2.0,0
+ORD-11374,2024-07-13,Laptop Pro X,Electronics,9,8840.0,0,79560.0,46800,32760.0,41.2,Aswan,Retail Store,Mohamed Taha,Installment,5.0,0
+ORD-10907,2024-07-13,Smart Watch,Electronics,1,3360.0,15,2856.0,1800,1056.0,37.0,Alexandria,Online,Ahmed Hassan,Credit Card,5.0,0
+ORD-10384,2024-07-14,Air Purifier,Appliances,14,2266.0,5,30137.8,14000,16137.8,53.5,Cairo,Online,Sara Youssef,Bank Transfer,3.3,0
+ORD-11296,2024-07-14,Blender Pro,Appliances,11,705.0,0,7755.0,3300,4455.0,57.4,Cairo,Wholesale,Sara Youssef,Cash,5.0,0
+ORD-10534,2024-07-14,Air Purifier,Appliances,7,2178.0,0,15246.0,7000,8246.0,54.1,Giza,Retail Store,Mariam Saad,Bank Transfer,2.9,0
+ORD-10292,2024-07-14,Drawing Tablet,Electronics,12,2744.0,10,29635.2,16800,12835.2,43.3,Mansoura,Online,Khaled Mostafa,Installment,4.7,0
+ORD-10837,2024-07-15,Running Shoes,Sports,11,978.5,0,10763.5,4400,6363.5,59.1,Giza,Online,Ahmed Hassan,Cash,4.2,0
+ORD-11371,2024-07-15,Office Chair,Furniture,9,2448.0,0,22032.0,9900,12132.0,55.1,Cairo,Retail Store,Omar Ali,Bank Transfer,4.8,0
+ORD-11120,2024-07-15,Blender Pro,Appliances,11,697.5,0,7672.5,3300,4372.5,57.0,Cairo,Social Media,Khaled Mostafa,Installment,5.0,0
+ORD-10560,2024-07-15,Novel Collection,Books,4,174.6,5,663.48,240,423.48,63.8,Luxor,Retail Store,Omar Ali,Bank Transfer,5.0,0
+ORD-10091,2024-07-15,Blender Pro,Appliances,8,705.0,5,5358.0,2400,2958.0,55.2,Giza,Retail Store,Sara Youssef,Installment,5.0,0
+ORD-10537,2024-07-15,Coffee Machine,Appliances,4,1710.0,10,6156.0,3600,2556.0,41.5,Cairo,Retail Store,Sara Youssef,Cash,3.8,1
+ORD-11342,2024-07-15,Drawing Tablet,Electronics,9,2912.0,5,24897.6,12600,12297.6,49.4,Giza,Retail Store,Omar Ali,Bank Transfer,1.0,1
+ORD-10266,2024-07-16,Wireless Earbuds,Electronics,4,1200.0,10,4320.0,2400,1920.0,44.4,Cairo,Wholesale,Ahmed Hassan,Installment,1.7,0
+ORD-11373,2024-07-16,Running Shoes,Sports,4,912.0,20,2918.4,1600,1318.4,45.2,Cairo,Retail Store,Nour Ibrahim,Cash,3.9,0
+ORD-10965,2024-07-16,Office Chair,Furniture,8,2256.0,0,18048.0,8800,9248.0,51.2,Mansoura,Wholesale,Khaled Mostafa,Installment,2.8,0
+ORD-10759,2024-07-17,Drawing Tablet,Electronics,15,2856.0,10,38556.0,21000,17556.0,45.5,Alexandria,Retail Store,Mariam Saad,Installment,4.0,0
+ORD-11116,2024-07-17,Novel Collection,Books,14,180.0,0,2520.0,840,1680.0,66.7,Port Said,Online,Mariam Saad,Bank Transfer,4.3,0
+ORD-11228,2024-07-17,Business Course,Education,5,1545.0,0,7725.0,1500,6225.0,80.6,Mansoura,Online,Omar Ali,Installment,2.3,0
+ORD-10438,2024-07-18,Standing Desk,Furniture,4,4320.0,0,17280.0,8800,8480.0,49.1,Alexandria,Online,Khaled Mostafa,Cash,5.0,0
+ORD-10878,2024-07-18,Air Purifier,Appliances,10,2112.0,0,21120.0,10000,11120.0,52.7,Cairo,Retail Store,Khaled Mostafa,Credit Card,3.2,0
+ORD-10774,2024-07-18,Gaming Keyboard,Electronics,14,1045.0,20,11704.0,7000,4704.0,40.2,Cairo,Online,Sara Youssef,Bank Transfer,5.0,0
+ORD-10630,2024-07-19,Standing Desk,Furniture,8,4545.0,5,34542.0,17600,16942.0,49.0,Giza,Online,Omar Ali,Installment,5.0,0
+ORD-10906,2024-07-19,Smart Watch,Electronics,14,3328.0,10,41932.8,25200,16732.8,39.9,Giza,Online,Sara Youssef,Bank Transfer,4.1,0
+ORD-11415,2024-07-19,Office Chair,Furniture,6,2232.0,0,13392.0,6600,6792.0,50.7,Aswan,Wholesale,Nour Ibrahim,Cash,3.0,1
+ORD-10783,2024-07-19,Smart Watch,Electronics,2,3296.0,0,6592.0,3600,2992.0,45.4,Giza,Online,Omar Ali,Cash,4.6,0
+ORD-11485,2024-07-19,Standing Desk,Furniture,14,4500.0,10,56700.0,30800,25900.0,45.7,Luxor,Retail Store,Omar Ali,Installment,2.1,0
+ORD-11337,2024-07-20,Office Chair,Furniture,10,2352.0,5,22344.0,11000,11344.0,50.8,Giza,Social Media,Mariam Saad,Bank Transfer,5.0,0
+ORD-10555,2024-07-20,Smart Watch,Electronics,11,3200.0,0,35200.0,19800,15400.0,43.8,Alexandria,Online,Khaled Mostafa,Credit Card,2.2,0
+ORD-11411,2024-07-20,Blender Pro,Appliances,6,772.5,15,3939.75,1800,2139.75,54.3,Alexandria,Retail Store,Khaled Mostafa,Installment,5.0,0
+ORD-10283,2024-07-20,Business Course,Education,14,1560.0,0,21840.0,4200,17640.0,80.8,Alexandria,Online,Mariam Saad,Cash,3.1,0
+ORD-10622,2024-07-21,Running Shoes,Sports,9,978.5,0,8806.5,3600,5206.5,59.1,Cairo,Online,Sara Youssef,Credit Card,4.3,0
+ORD-10761,2024-07-21,Office Chair,Furniture,5,2376.0,5,11286.0,5500,5786.0,51.3,Giza,Social Media,Omar Ali,Installment,3.7,0
+ORD-10122,2024-07-21,Blender Pro,Appliances,5,780.0,0,3900.0,1500,2400.0,61.5,Cairo,Online,Khaled Mostafa,Credit Card,3.8,0
+ORD-10299,2024-07-21,Protein Powder,Sports,2,562.6,0,1125.2,500,625.2,55.6,Cairo,Online,Nour Ibrahim,Bank Transfer,3.7,1
+ORD-10664,2024-07-21,Novel Collection,Books,6,169.2,10,913.68,360,553.68,60.6,Cairo,Online,Mariam Saad,Bank Transfer,2.3,0
+ORD-10313,2024-07-21,Gaming Keyboard,Electronics,14,1133.0,10,14275.8,7000,7275.8,51.0,Giza,Retail Store,Khaled Mostafa,Cash,5.0,0
+ORD-11335,2024-07-21,Wireless Earbuds,Electronics,14,1188.0,0,16632.0,8400,8232.0,49.5,Port Said,Retail Store,Khaled Mostafa,Credit Card,3.8,0
+ORD-10286,2024-07-21,Yoga Mat,Sports,1,329.6,0,329.6,120,209.6,63.6,Mansoura,Online,Nour Ibrahim,Bank Transfer,4.0,0
+ORD-10781,2024-07-22,Laptop Pro X,Electronics,1,8160.0,15,6936.0,5200,1736.0,25.0,Luxor,Online,Sara Youssef,Bank Transfer,3.7,0
+ORD-10185,2024-07-22,Drawing Tablet,Electronics,8,2660.0,15,18088.0,11200,6888.0,38.1,Port Said,Social Media,Ahmed Hassan,Credit Card,5.0,1
+ORD-10921,2024-07-22,Drawing Tablet,Electronics,7,2660.0,0,18620.0,9800,8820.0,47.4,Cairo,Online,Khaled Mostafa,Bank Transfer,5.0,0
+ORD-10222,2024-07-22,Drawing Tablet,Electronics,6,2576.0,0,15456.0,8400,7056.0,45.7,Mansoura,Retail Store,Mariam Saad,Installment,3.9,0
+ORD-10310,2024-07-22,Running Shoes,Sports,8,1007.0,0,8056.0,3200,4856.0,60.3,Cairo,Retail Store,Mariam Saad,Installment,2.9,0
+ORD-10662,2024-07-22,Novel Collection,Books,4,185.4,15,630.36,240,390.36,61.9,Alexandria,Retail Store,Ahmed Hassan,Credit Card,3.6,1
+ORD-10469,2024-07-23,Protein Powder,Sports,15,551.0,0,8265.0,3750,4515.0,54.6,Giza,Wholesale,Mariam Saad,Bank Transfer,3.2,0
+ORD-10474,2024-07-23,Standing Desk,Furniture,2,4410.0,5,8379.0,4400,3979.0,47.5,Mansoura,Online,Mariam Saad,Bank Transfer,4.0,0
+ORD-10110,2024-07-23,Air Purifier,Appliances,12,2068.0,5,23575.2,12000,11575.2,49.1,Cairo,Online,Mariam Saad,Bank Transfer,5.0,0
+ORD-10021,2024-07-24,Gaming Keyboard,Electronics,1,1045.0,0,1045.0,500,545.0,52.2,Port Said,Online,Mohamed Taha,Bank Transfer,5.0,0
+ORD-10638,2024-07-24,Standing Desk,Furniture,10,4500.0,15,38250.0,22000,16250.0,42.5,Mansoura,Online,Ahmed Hassan,Cash,3.8,1
+ORD-11252,2024-07-24,Laptop Pro X,Electronics,3,7990.0,0,23970.0,15600,8370.0,34.9,Giza,Online,Nour Ibrahim,Installment,5.0,0
+ORD-10414,2024-07-24,Protein Powder,Sports,11,580.0,15,5423.0,2750,2673.0,49.3,Port Said,Online,Mohamed Taha,Cash,4.0,0
+ORD-10464,2024-07-24,Yoga Mat,Sports,6,329.6,10,1779.84,720,1059.84,59.5,Port Said,Online,Omar Ali,Installment,4.4,0
+ORD-11441,2024-07-25,Drawing Tablet,Electronics,15,2604.0,5,37107.0,21000,16107.0,43.4,Cairo,Online,Sara Youssef,Credit Card,4.7,1
+ORD-11132,2024-07-25,Laptop Pro X,Electronics,11,9010.0,0,99110.0,57200,41910.0,42.3,Giza,Retail Store,Omar Ali,Credit Card,5.0,0
+ORD-10957,2024-07-25,Laptop Pro X,Electronics,15,8585.0,10,115897.5,78000,37897.5,32.7,Cairo,Retail Store,Ahmed Hassan,Bank Transfer,5.0,0
+ORD-11295,2024-07-25,Running Shoes,Sports,14,1007.0,5,13393.1,5600,7793.1,58.2,Cairo,Retail Store,Nour Ibrahim,Bank Transfer,2.3,0
+ORD-10766,2024-07-25,Air Purifier,Appliances,14,2222.0,15,26441.8,14000,12441.8,47.1,Cairo,Retail Store,Mohamed Taha,Cash,2.8,0
+ORD-10076,2024-07-25,Blender Pro,Appliances,9,787.5,0,7087.5,2700,4387.5,61.9,Giza,Retail Store,Nour Ibrahim,Credit Card,4.9,0
+ORD-10072,2024-07-25,Standing Desk,Furniture,9,4545.0,5,38859.75,19800,19059.75,49.0,Cairo,Online,Nour Ibrahim,Installment,3.6,0
+ORD-11137,2024-07-25,Running Shoes,Sports,13,940.5,20,9781.2,5200,4581.2,46.8,Luxor,Online,Mohamed Taha,Cash,3.6,0
+ORD-11490,2024-07-25,Drawing Tablet,Electronics,4,2912.0,0,11648.0,5600,6048.0,51.9,Cairo,Retail Store,Omar Ali,Cash,2.3,0
+ORD-10834,2024-07-25,Office Chair,Furniture,1,2256.0,5,2143.2,1100,1043.2,48.7,Alexandria,Retail Store,Mariam Saad,Bank Transfer,3.4,0
+ORD-10704,2024-07-26,Drawing Tablet,Electronics,4,2968.0,0,11872.0,5600,6272.0,52.8,Cairo,Online,Sara Youssef,Cash,4.0,0
+ORD-10402,2024-07-26,Protein Powder,Sports,10,591.6,15,5028.6,2500,2528.6,50.3,Giza,Wholesale,Ahmed Hassan,Cash,4.4,0
+ORD-10644,2024-07-27,Gaming Keyboard,Electronics,6,1133.0,0,6798.0,3000,3798.0,55.9,Alexandria,Wholesale,Mohamed Taha,Cash,5.0,0
+ORD-10869,2024-07-27,Yoga Mat,Sports,5,329.6,0,1648.0,600,1048.0,63.6,Cairo,Online,Ahmed Hassan,Bank Transfer,3.8,0
+ORD-10321,2024-07-27,Business Course,Education,8,1560.0,20,9984.0,2400,7584.0,76.0,Alexandria,Online,Mohamed Taha,Cash,5.0,0
+ORD-10619,2024-07-27,Wireless Earbuds,Electronics,13,1296.0,0,16848.0,7800,9048.0,53.7,Alexandria,Retail Store,Nour Ibrahim,Installment,4.0,0
+ORD-10361,2024-07-28,Wireless Earbuds,Electronics,5,1224.0,0,6120.0,3000,3120.0,51.0,Cairo,Wholesale,Mariam Saad,Bank Transfer,2.8,0
+ORD-10931,2024-07-29,Coffee Machine,Appliances,6,1890.0,5,10773.0,5400,5373.0,49.9,Alexandria,Wholesale,Ahmed Hassan,Cash,3.9,0
+ORD-10263,2024-07-29,Protein Powder,Sports,11,574.2,0,6316.2,2750,3566.2,56.5,Cairo,Online,Mohamed Taha,Credit Card,3.9,1
+ORD-11022,2024-07-29,Business Course,Education,10,1500.0,0,15000.0,3000,12000.0,80.0,Cairo,Online,Khaled Mostafa,Cash,5.0,0
+ORD-10578,2024-07-29,Blender Pro,Appliances,9,750.0,0,6750.0,2700,4050.0,60.0,Giza,Wholesale,Omar Ali,Credit Card,4.2,0
+ORD-11266,2024-07-29,Business Course,Education,15,1515.0,0,22725.0,4500,18225.0,80.2,Port Said,Online,Sara Youssef,Installment,4.9,0
+ORD-10214,2024-07-29,Laptop Pro X,Electronics,1,8500.0,0,8500.0,5200,3300.0,38.8,Alexandria,Online,Khaled Mostafa,Bank Transfer,3.3,0
+ORD-10515,2024-07-30,Wireless Earbuds,Electronics,8,1272.0,0,10176.0,4800,5376.0,52.8,Alexandria,Social Media,Mariam Saad,Installment,4.9,0
+ORD-11172,2024-07-30,Blender Pro,Appliances,3,795.0,10,2146.5,900,1246.5,58.1,Cairo,Online,Ahmed Hassan,Bank Transfer,5.0,0
+ORD-10176,2024-07-30,Business Course,Education,4,1485.0,20,4752.0,1200,3552.0,74.7,Giza,Retail Store,Mohamed Taha,Credit Card,4.0,0
+ORD-10033,2024-07-30,Laptop Pro X,Electronics,3,8840.0,0,26520.0,15600,10920.0,41.2,Mansoura,Online,Sara Youssef,Cash,5.0,0
+ORD-10465,2024-07-30,Drawing Tablet,Electronics,11,2772.0,15,25918.2,15400,10518.2,40.6,Cairo,Online,Khaled Mostafa,Cash,5.0,0
+ORD-10794,2024-07-31,Novel Collection,Books,14,174.6,0,2444.4,840,1604.4,65.6,Cairo,Retail Store,Omar Ali,Cash,4.6,0
+ORD-10117,2024-07-31,Standing Desk,Furniture,4,4680.0,0,18720.0,8800,9920.0,53.0,Cairo,Online,Sara Youssef,Bank Transfer,3.8,0
+ORD-10699,2024-07-31,Coffee Machine,Appliances,11,1854.0,0,20394.0,9900,10494.0,51.5,Mansoura,Retail Store,Mohamed Taha,Cash,4.9,0
+ORD-11129,2024-07-31,Novel Collection,Books,3,172.8,5,492.48,180,312.48,63.5,Giza,Social Media,Omar Ali,Credit Card,4.6,0
+ORD-10603,2024-07-31,Smart Watch,Electronics,9,3168.0,10,25660.8,16200,9460.8,36.9,Mansoura,Online,Mariam Saad,Bank Transfer,5.0,0
+ORD-10362,2024-07-31,Laptop Pro X,Electronics,15,8670.0,15,110542.5,78000,32542.5,29.4,Giza,Wholesale,Nour Ibrahim,Bank Transfer,4.4,0
+ORD-10601,2024-07-31,Drawing Tablet,Electronics,8,2716.0,20,17382.4,11200,6182.4,35.6,Giza,Wholesale,Sara Youssef,Bank Transfer,5.0,0
+ORD-10711,2024-08-01,Blender Pro,Appliances,3,705.0,0,2115.0,900,1215.0,57.4,Alexandria,Retail Store,Sara Youssef,Credit Card,4.0,0
+ORD-11167,2024-08-01,Laptop Pro X,Electronics,13,9095.0,0,118235.0,67600,50635.0,42.8,Port Said,Online,Mohamed Taha,Cash,1.2,0
+ORD-10998,2024-08-01,Blender Pro,Appliances,7,705.0,0,4935.0,2100,2835.0,57.4,Alexandria,Retail Store,Ahmed Hassan,Installment,5.0,0
+ORD-10371,2024-08-01,Drawing Tablet,Electronics,11,2716.0,10,26888.4,15400,11488.4,42.7,Cairo,Retail Store,Mariam Saad,Bank Transfer,3.3,0
+ORD-10691,2024-08-01,Blender Pro,Appliances,11,765.0,0,8415.0,3300,5115.0,60.8,Mansoura,Wholesale,Mohamed Taha,Cash,3.8,0
+ORD-11488,2024-08-02,Drawing Tablet,Electronics,12,2632.0,15,26846.4,16800,10046.4,37.4,Giza,Retail Store,Mariam Saad,Credit Card,5.0,0
+ORD-10234,2024-08-02,Yoga Mat,Sports,1,336.0,0,336.0,120,216.0,64.3,Giza,Wholesale,Khaled Mostafa,Credit Card,4.8,0
+ORD-10331,2024-08-02,Air Purifier,Appliances,7,2288.0,10,14414.4,7000,7414.4,51.4,Giza,Retail Store,Mariam Saad,Installment,3.8,0
+ORD-10100,2024-08-02,Protein Powder,Sports,12,603.2,5,6876.48,3000,3876.48,56.4,Giza,Wholesale,Khaled Mostafa,Bank Transfer,1.8,0
+ORD-10276,2024-08-02,Office Chair,Furniture,6,2304.0,15,11750.4,6600,5150.4,43.8,Cairo,Wholesale,Khaled Mostafa,Installment,5.0,0
+ORD-10049,2024-08-02,Yoga Mat,Sports,12,332.8,20,3194.88,1440,1754.88,54.9,Giza,Online,Mariam Saad,Installment,3.6,0
+ORD-10344,2024-08-03,Novel Collection,Books,2,185.4,0,370.8,120,250.8,67.6,Giza,Retail Store,Nour Ibrahim,Credit Card,4.1,0
+ORD-11468,2024-08-03,Wireless Earbuds,Electronics,2,1248.0,0,2496.0,1200,1296.0,51.9,Cairo,Online,Nour Ibrahim,Cash,3.7,0
+ORD-11045,2024-08-04,Coffee Machine,Appliances,3,1764.0,10,4762.8,2700,2062.8,43.3,Cairo,Online,Omar Ali,Installment,4.1,1
+ORD-11325,2024-08-04,Business Course,Education,15,1470.0,0,22050.0,4500,17550.0,79.6,Alexandria,Online,Mohamed Taha,Credit Card,2.8,0
+ORD-10112,2024-08-04,Blender Pro,Appliances,15,780.0,0,11700.0,4500,7200.0,61.5,Giza,Online,Khaled Mostafa,Cash,5.0,0
+ORD-10726,2024-08-04,Gaming Keyboard,Electronics,9,1089.0,0,9801.0,4500,5301.0,54.1,Mansoura,Social Media,Khaled Mostafa,Installment,3.7,0
+ORD-11369,2024-08-04,Office Chair,Furniture,1,2544.0,10,2289.6,1100,1189.6,52.0,Cairo,Online,Khaled Mostafa,Installment,4.8,0
+ORD-10249,2024-08-05,Wireless Earbuds,Electronics,12,1260.0,20,12096.0,7200,4896.0,40.5,Cairo,Wholesale,Ahmed Hassan,Bank Transfer,5.0,0
+ORD-11061,2024-08-05,Wireless Earbuds,Electronics,3,1188.0,0,3564.0,1800,1764.0,49.5,Giza,Online,Nour Ibrahim,Cash,3.0,0
+ORD-11090,2024-08-05,Office Chair,Furniture,10,2424.0,0,24240.0,11000,13240.0,54.6,Alexandria,Online,Sara Youssef,Credit Card,4.9,0
+ORD-11049,2024-08-06,Standing Desk,Furniture,6,4410.0,20,21168.0,13200,7968.0,37.6,Cairo,Online,Mohamed Taha,Cash,3.8,0
+ORD-10600,2024-08-06,Coffee Machine,Appliances,7,1764.0,0,12348.0,6300,6048.0,49.0,Cairo,Online,Nour Ibrahim,Credit Card,5.0,0
+ORD-10240,2024-08-06,Running Shoes,Sports,4,997.5,15,3391.5,1600,1791.5,52.8,Cairo,Retail Store,Nour Ibrahim,Bank Transfer,5.0,0
+ORD-10188,2024-08-06,Yoga Mat,Sports,6,297.6,15,1517.76,720,797.76,52.6,Cairo,Social Media,Nour Ibrahim,Installment,1.6,0
+ORD-11083,2024-08-06,Protein Powder,Sports,12,562.6,10,6076.08,3000,3076.08,50.6,Mansoura,Social Media,Khaled Mostafa,Cash,4.7,0
+ORD-10866,2024-08-07,Office Chair,Furniture,10,2256.0,10,20304.0,11000,9304.0,45.8,Cairo,Online,Ahmed Hassan,Installment,1.0,0
+ORD-10338,2024-08-07,Running Shoes,Sports,7,874.0,10,5506.2,2800,2706.2,49.1,Cairo,Online,Ahmed Hassan,Installment,3.0,0
+ORD-10951,2024-08-07,Office Chair,Furniture,10,2352.0,15,19992.0,11000,8992.0,45.0,Mansoura,Online,Ahmed Hassan,Installment,3.8,0
+ORD-10768,2024-08-07,Drawing Tablet,Electronics,12,2772.0,5,31600.8,16800,14800.8,46.8,Alexandria,Retail Store,Omar Ali,Cash,3.7,1
+ORD-10757,2024-08-07,Novel Collection,Books,4,192.6,20,616.32,240,376.32,61.1,Giza,Online,Khaled Mostafa,Installment,2.9,0
+ORD-11426,2024-08-07,Wireless Earbuds,Electronics,6,1224.0,5,6976.8,3600,3376.8,48.4,Cairo,Online,Sara Youssef,Installment,4.8,0
+ORD-10621,2024-08-07,Office Chair,Furniture,14,2232.0,20,24998.4,15400,9598.4,38.4,Mansoura,Social Media,Omar Ali,Cash,5.0,0
+ORD-10068,2024-08-07,Standing Desk,Furniture,10,4590.0,10,41310.0,22000,19310.0,46.7,Port Said,Online,Mohamed Taha,Cash,3.8,0
+ORD-10813,2024-08-07,Coffee Machine,Appliances,6,1854.0,0,11124.0,5400,5724.0,51.5,Port Said,Wholesale,Omar Ali,Bank Transfer,4.6,0
+ORD-10225,2024-08-08,Running Shoes,Sports,9,959.5,5,8203.73,3600,4603.73,56.1,Cairo,Online,Khaled Mostafa,Credit Card,4.2,0
+ORD-10666,2024-08-08,Standing Desk,Furniture,15,4770.0,10,64395.0,33000,31395.0,48.8,Mansoura,Social Media,Khaled Mostafa,Installment,3.7,0
+ORD-10687,2024-08-09,Air Purifier,Appliances,14,2200.0,10,27720.0,14000,13720.0,49.5,Giza,Retail Store,Omar Ali,Credit Card,4.0,0
+ORD-11451,2024-08-09,Running Shoes,Sports,3,883.5,20,2120.4,1200,920.4,43.4,Cairo,Retail Store,Omar Ali,Cash,4.3,0
+ORD-10985,2024-08-09,Protein Powder,Sports,15,539.4,0,8091.0,3750,4341.0,53.7,Cairo,Social Media,Mariam Saad,Bank Transfer,4.4,0
+ORD-10846,2024-08-10,Air Purifier,Appliances,1,2354.0,0,2354.0,1000,1354.0,57.5,Cairo,Online,Ahmed Hassan,Bank Transfer,5.0,0
+ORD-10955,2024-08-10,Coffee Machine,Appliances,14,1746.0,0,24444.0,12600,11844.0,48.5,Cairo,Retail Store,Ahmed Hassan,Installment,3.7,0
+ORD-11107,2024-08-10,Business Course,Education,7,1500.0,0,10500.0,2100,8400.0,80.0,Cairo,Online,Omar Ali,Bank Transfer,3.8,1
+ORD-11103,2024-08-10,Coffee Machine,Appliances,11,1890.0,20,16632.0,9900,6732.0,40.5,Cairo,Online,Khaled Mostafa,Installment,5.0,0
+ORD-10756,2024-08-10,Gaming Keyboard,Electronics,12,1023.0,0,12276.0,6000,6276.0,51.1,Aswan,Online,Mariam Saad,Cash,4.2,0
+ORD-10471,2024-08-10,Air Purifier,Appliances,15,2332.0,20,27984.0,15000,12984.0,46.4,Mansoura,Retail Store,Mohamed Taha,Credit Card,4.1,0
+ORD-10960,2024-08-11,Office Chair,Furniture,3,2232.0,15,5691.6,3300,2391.6,42.0,Luxor,Online,Khaled Mostafa,Credit Card,2.3,0
+ORD-11176,2024-08-11,Laptop Pro X,Electronics,9,9010.0,0,81090.0,46800,34290.0,42.3,Mansoura,Retail Store,Khaled Mostafa,Installment,4.2,0
+ORD-10443,2024-08-11,Air Purifier,Appliances,4,2090.0,15,7106.0,4000,3106.0,43.7,Giza,Wholesale,Mariam Saad,Installment,5.0,0
+ORD-10138,2024-08-11,Wireless Earbuds,Electronics,15,1152.0,5,16416.0,9000,7416.0,45.2,Aswan,Social Media,Nour Ibrahim,Credit Card,4.9,0
+ORD-11378,2024-08-11,Standing Desk,Furniture,6,4320.0,0,25920.0,13200,12720.0,49.1,Luxor,Online,Mariam Saad,Cash,5.0,0
+ORD-10232,2024-08-12,Drawing Tablet,Electronics,5,2940.0,0,14700.0,7000,7700.0,52.4,Mansoura,Wholesale,Nour Ibrahim,Bank Transfer,4.8,0
+ORD-10520,2024-08-13,Novel Collection,Books,2,172.8,0,345.6,120,225.6,65.3,Cairo,Online,Khaled Mostafa,Credit Card,4.9,0
+ORD-10229,2024-08-13,Coffee Machine,Appliances,7,1890.0,20,10584.0,6300,4284.0,40.5,Giza,Retail Store,Omar Ali,Installment,4.2,0
+ORD-10148,2024-08-13,Gaming Keyboard,Electronics,7,1067.0,0,7469.0,3500,3969.0,53.1,Alexandria,Retail Store,Mohamed Taha,Installment,3.2,0
+ORD-11277,2024-08-13,Protein Powder,Sports,10,551.0,0,5510.0,2500,3010.0,54.6,Port Said,Social Media,Khaled Mostafa,Installment,3.4,0
+ORD-11375,2024-08-14,Protein Powder,Sports,4,568.4,15,1932.56,1000,932.56,48.3,Cairo,Wholesale,Sara Youssef,Bank Transfer,4.9,0
+ORD-10074,2024-08-14,Gaming Keyboard,Electronics,5,1045.0,10,4702.5,2500,2202.5,46.8,Alexandria,Wholesale,Ahmed Hassan,Bank Transfer,4.9,0
+ORD-10477,2024-08-14,Protein Powder,Sports,3,574.2,20,1378.08,750,628.08,45.6,Cairo,Retail Store,Mariam Saad,Credit Card,4.6,1
+ORD-11276,2024-08-15,Wireless Earbuds,Electronics,13,1116.0,5,13782.6,7800,5982.6,43.4,Alexandria,Retail Store,Mohamed Taha,Credit Card,4.4,0
+ORD-10762,2024-08-15,Yoga Mat,Sports,6,307.2,0,1843.2,720,1123.2,60.9,Alexandria,Retail Store,Nour Ibrahim,Bank Transfer,3.9,0
+ORD-10150,2024-08-15,Coffee Machine,Appliances,8,1674.0,20,10713.6,7200,3513.6,32.8,Luxor,Retail Store,Nour Ibrahim,Installment,4.2,0
+ORD-10999,2024-08-15,Laptop Pro X,Electronics,15,9095.0,0,136425.0,78000,58425.0,42.8,Alexandria,Retail Store,Omar Ali,Credit Card,1.0,0
+ORD-11142,2024-08-15,Office Chair,Furniture,13,2280.0,5,28158.0,14300,13858.0,49.2,Alexandria,Online,Khaled Mostafa,Installment,3.3,0
+ORD-10732,2024-08-15,Novel Collection,Books,2,176.4,20,282.24,120,162.24,57.5,Alexandria,Retail Store,Nour Ibrahim,Cash,3.2,1
+ORD-10531,2024-08-16,Office Chair,Furniture,4,2472.0,0,9888.0,4400,5488.0,55.5,Cairo,Wholesale,Sara Youssef,Installment,2.3,0
+ORD-10189,2024-08-16,Drawing Tablet,Electronics,5,2996.0,0,14980.0,7000,7980.0,53.3,Giza,Retail Store,Omar Ali,Installment,3.6,0
+ORD-11073,2024-08-16,Coffee Machine,Appliances,8,1818.0,15,12362.4,7200,5162.4,41.8,Cairo,Online,Sara Youssef,Credit Card,4.7,0
+ORD-10500,2024-08-16,Standing Desk,Furniture,11,4275.0,0,47025.0,24200,22825.0,48.5,Port Said,Online,Mohamed Taha,Installment,5.0,0
+ORD-10135,2024-08-17,Office Chair,Furniture,9,2304.0,20,16588.8,9900,6688.8,40.3,Mansoura,Social Media,Mariam Saad,Installment,4.1,0
+ORD-11394,2024-08-17,Air Purifier,Appliances,6,2310.0,5,13167.0,6000,7167.0,54.4,Cairo,Online,Omar Ali,Credit Card,3.1,0
+ORD-11119,2024-08-18,Yoga Mat,Sports,6,332.8,15,1697.28,720,977.28,57.6,Cairo,Retail Store,Omar Ali,Credit Card,3.4,0
+ORD-10498,2024-08-18,Novel Collection,Books,6,167.4,15,853.74,360,493.74,57.8,Alexandria,Wholesale,Khaled Mostafa,Cash,4.9,0
+ORD-11462,2024-08-18,Gaming Keyboard,Electronics,4,1023.0,0,4092.0,2000,2092.0,51.1,Giza,Online,Omar Ali,Cash,5.0,0
+ORD-11434,2024-08-19,Office Chair,Furniture,1,2424.0,0,2424.0,1100,1324.0,54.6,Port Said,Social Media,Sara Youssef,Installment,4.3,1
+ORD-10365,2024-08-19,Drawing Tablet,Electronics,3,2632.0,10,7106.4,4200,2906.4,40.9,Giza,Retail Store,Omar Ali,Installment,4.3,0
+ORD-10106,2024-08-19,Yoga Mat,Sports,4,342.4,0,1369.6,480,889.6,65.0,Giza,Social Media,Sara Youssef,Installment,4.4,0
+ORD-10102,2024-08-20,Wireless Earbuds,Electronics,11,1140.0,15,10659.0,6600,4059.0,38.1,Giza,Online,Mohamed Taha,Installment,4.7,0
+ORD-10681,2024-08-20,Drawing Tablet,Electronics,11,2772.0,20,24393.6,15400,8993.6,36.9,Cairo,Social Media,Mohamed Taha,Cash,4.7,1
+ORD-11495,2024-08-20,Yoga Mat,Sports,8,332.8,20,2129.92,960,1169.92,54.9,Cairo,Online,Mariam Saad,Cash,4.1,0
+ORD-10922,2024-08-20,Laptop Pro X,Electronics,9,7990.0,5,68314.5,46800,21514.5,31.5,Cairo,Online,Khaled Mostafa,Credit Card,1.2,0
+ORD-11118,2024-08-20,Laptop Pro X,Electronics,8,8670.0,15,58956.0,41600,17356.0,29.4,Alexandria,Wholesale,Omar Ali,Bank Transfer,5.0,0
+ORD-10625,2024-08-20,Wireless Earbuds,Electronics,2,1152.0,5,2188.8,1200,988.8,45.2,Cairo,Social Media,Ahmed Hassan,Credit Card,4.3,0
+ORD-11121,2024-08-20,Air Purifier,Appliances,1,2178.0,0,2178.0,1000,1178.0,54.1,Cairo,Retail Store,Omar Ali,Credit Card,3.1,0
+ORD-10359,2024-08-20,Coffee Machine,Appliances,9,1872.0,10,15163.2,8100,7063.2,46.6,Alexandria,Retail Store,Sara Youssef,Bank Transfer,5.0,0
+ORD-10070,2024-08-20,Wireless Earbuds,Electronics,11,1152.0,0,12672.0,6600,6072.0,47.9,Mansoura,Retail Store,Sara Youssef,Cash,4.0,0
+ORD-10659,2024-08-20,Blender Pro,Appliances,11,750.0,0,8250.0,3300,4950.0,60.0,Giza,Online,Mohamed Taha,Installment,5.0,0
+ORD-10194,2024-08-21,Protein Powder,Sports,1,585.8,15,497.93,250,247.93,49.8,Mansoura,Retail Store,Nour Ibrahim,Installment,3.2,0
+ORD-10700,2024-08-22,Blender Pro,Appliances,9,787.5,0,7087.5,2700,4387.5,61.9,Luxor,Online,Mohamed Taha,Credit Card,4.0,0
+ORD-10146,2024-08-22,Laptop Pro X,Electronics,5,8075.0,20,32300.0,26000,6300.0,19.5,Cairo,Online,Omar Ali,Bank Transfer,1.0,0
+ORD-10336,2024-08-22,Smart Watch,Electronics,6,3392.0,0,20352.0,10800,9552.0,46.9,Mansoura,Retail Store,Sara Youssef,Cash,4.6,0
+ORD-10187,2024-08-22,Novel Collection,Books,5,185.4,0,927.0,300,627.0,67.6,Mansoura,Wholesale,Khaled Mostafa,Cash,5.0,0
+ORD-10420,2024-08-22,Novel Collection,Books,8,190.8,20,1221.12,480,741.12,60.7,Cairo,Online,Ahmed Hassan,Bank Transfer,4.4,0
+ORD-10120,2024-08-23,Gaming Keyboard,Electronics,2,1166.0,10,2098.8,1000,1098.8,52.4,Alexandria,Online,Sara Youssef,Bank Transfer,4.9,1
+ORD-10962,2024-08-23,Wireless Earbuds,Electronics,3,1164.0,0,3492.0,1800,1692.0,48.5,Mansoura,Wholesale,Nour Ibrahim,Bank Transfer,4.0,0
+ORD-10730,2024-08-23,Protein Powder,Sports,6,533.6,15,2721.36,1500,1221.36,44.9,Cairo,Social Media,Khaled Mostafa,Bank Transfer,4.6,0
+ORD-11386,2024-08-23,Yoga Mat,Sports,13,320.0,20,3328.0,1560,1768.0,53.1,Alexandria,Retail Store,Nour Ibrahim,Bank Transfer,2.4,0
+ORD-11267,2024-08-23,Business Course,Education,8,1485.0,5,11286.0,2400,8886.0,78.7,Alexandria,Online,Sara Youssef,Bank Transfer,5.0,0
+ORD-11383,2024-08-24,Yoga Mat,Sports,13,313.6,0,4076.8,1560,2516.8,61.7,Cairo,Social Media,Mariam Saad,Credit Card,4.7,0
+ORD-10388,2024-08-24,Novel Collection,Books,9,167.4,15,1280.61,540,740.61,57.8,Cairo,Online,Sara Youssef,Bank Transfer,1.9,0
+ORD-11364,2024-08-24,Protein Powder,Sports,9,551.0,15,4215.15,2250,1965.15,46.6,Giza,Online,Mariam Saad,Cash,4.1,0
+ORD-11435,2024-08-25,Wireless Earbuds,Electronics,3,1260.0,10,3402.0,1800,1602.0,47.1,Alexandria,Wholesale,Khaled Mostafa,Cash,4.0,0
+ORD-10044,2024-08-25,Laptop Pro X,Electronics,9,8160.0,20,58752.0,46800,11952.0,20.3,Cairo,Online,Nour Ibrahim,Installment,2.3,0
+ORD-10571,2024-08-25,Drawing Tablet,Electronics,11,2884.0,0,31724.0,15400,16324.0,51.5,Cairo,Online,Mariam Saad,Bank Transfer,3.7,1
+ORD-11138,2024-08-25,Novel Collection,Books,3,185.4,0,556.2,180,376.2,67.6,Alexandria,Retail Store,Nour Ibrahim,Bank Transfer,4.6,0
+ORD-10982,2024-08-26,Novel Collection,Books,3,180.0,0,540.0,180,360.0,66.7,Giza,Retail Store,Omar Ali,Bank Transfer,5.0,0
+ORD-11098,2024-08-26,Protein Powder,Sports,14,597.4,10,7527.24,3500,4027.24,53.5,Luxor,Online,Ahmed Hassan,Cash,3.7,0
+ORD-10627,2024-08-26,Office Chair,Furniture,5,2472.0,5,11742.0,5500,6242.0,53.2,Alexandria,Retail Store,Mohamed Taha,Credit Card,1.6,0
+ORD-10524,2024-08-26,Running Shoes,Sports,4,1016.5,0,4066.0,1600,2466.0,60.6,Aswan,Retail Store,Omar Ali,Bank Transfer,5.0,0
+ORD-10819,2024-08-27,Smart Watch,Electronics,15,3168.0,0,47520.0,27000,20520.0,43.2,Alexandria,Retail Store,Mariam Saad,Cash,5.0,0
+ORD-10639,2024-08-27,Standing Desk,Furniture,15,4590.0,20,55080.0,33000,22080.0,40.1,Giza,Wholesale,Nour Ibrahim,Credit Card,3.9,0
+ORD-10750,2024-08-27,Protein Powder,Sports,12,562.6,10,6076.08,3000,3076.08,50.6,Giza,Online,Omar Ali,Bank Transfer,4.7,0
+ORD-10010,2024-08-27,Yoga Mat,Sports,5,345.6,20,1382.4,600,782.4,56.6,Luxor,Retail Store,Ahmed Hassan,Installment,2.9,0
+ORD-10553,2024-08-27,Novel Collection,Books,15,167.4,5,2385.45,900,1485.45,62.3,Luxor,Online,Nour Ibrahim,Installment,5.0,0
+ORD-11104,2024-08-27,Standing Desk,Furniture,1,4815.0,10,4333.5,2200,2133.5,49.2,Giza,Online,Mariam Saad,Bank Transfer,3.9,0
+ORD-11360,2024-08-28,Yoga Mat,Sports,8,313.6,20,2007.04,960,1047.04,52.2,Aswan,Retail Store,Khaled Mostafa,Cash,3.7,0
+ORD-11036,2024-08-28,Standing Desk,Furniture,10,4140.0,0,41400.0,22000,19400.0,46.9,Cairo,Social Media,Khaled Mostafa,Credit Card,4.8,0
+ORD-11282,2024-08-28,Air Purifier,Appliances,7,2046.0,15,12173.7,7000,5173.7,42.5,Cairo,Online,Omar Ali,Bank Transfer,3.9,1
+ORD-10209,2024-08-28,Drawing Tablet,Electronics,14,2716.0,0,38024.0,19600,18424.0,48.5,Alexandria,Online,Khaled Mostafa,Cash,3.6,0
+ORD-11344,2024-08-28,Laptop Pro X,Electronics,6,8245.0,20,39576.0,31200,8376.0,21.2,Giza,Retail Store,Khaled Mostafa,Bank Transfer,5.0,0
+ORD-11170,2024-08-28,Laptop Pro X,Electronics,13,8755.0,15,96742.75,67600,29142.75,30.1,Port Said,Retail Store,Mariam Saad,Installment,1.1,0
+ORD-11039,2024-08-29,Novel Collection,Books,9,180.0,0,1620.0,540,1080.0,66.7,Cairo,Wholesale,Omar Ali,Cash,5.0,1
+ORD-11164,2024-08-29,Wireless Earbuds,Electronics,11,1164.0,10,11523.6,6600,4923.6,42.7,Cairo,Retail Store,Omar Ali,Cash,4.9,0
+ORD-11166,2024-08-29,Gaming Keyboard,Electronics,14,1155.0,0,16170.0,7000,9170.0,56.7,Cairo,Online,Omar Ali,Installment,3.9,0
+ORD-10575,2024-08-29,Protein Powder,Sports,8,539.4,5,4099.44,2000,2099.44,51.2,Cairo,Social Media,Nour Ibrahim,Cash,4.7,0
+ORD-11331,2024-08-29,Yoga Mat,Sports,3,313.6,0,940.8,360,580.8,61.7,Giza,Retail Store,Omar Ali,Installment,4.1,0
+ORD-10663,2024-08-29,Gaming Keyboard,Electronics,6,1188.0,15,6058.8,3000,3058.8,50.5,Port Said,Retail Store,Sara Youssef,Credit Card,5.0,0
+ORD-11071,2024-08-29,Air Purifier,Appliances,5,2178.0,0,10890.0,5000,5890.0,54.1,Port Said,Retail Store,Nour Ibrahim,Installment,2.0,0
+ORD-10652,2024-08-29,Business Course,Education,7,1605.0,0,11235.0,2100,9135.0,81.3,Giza,Wholesale,Mohamed Taha,Credit Card,3.2,0
+ORD-11093,2024-08-30,Business Course,Education,14,1530.0,10,19278.0,4200,15078.0,78.2,Mansoura,Online,Ahmed Hassan,Cash,3.7,0
+ORD-10975,2024-08-30,Protein Powder,Sports,1,580.0,0,580.0,250,330.0,56.9,Alexandria,Online,Ahmed Hassan,Installment,3.0,0
+ORD-10542,2024-08-30,Protein Powder,Sports,3,585.8,15,1493.79,750,743.79,49.8,Port Said,Wholesale,Khaled Mostafa,Credit Card,4.7,0
+ORD-10324,2024-08-30,Protein Powder,Sports,9,568.4,0,5115.6,2250,2865.6,56.0,Aswan,Online,Mohamed Taha,Credit Card,4.9,0
+ORD-10083,2024-08-30,Business Course,Education,15,1575.0,5,22443.75,4500,17943.75,79.9,Port Said,Wholesale,Sara Youssef,Cash,3.6,0
+ORD-11486,2024-08-30,Running Shoes,Sports,15,1016.5,10,13722.75,6000,7722.75,56.3,Cairo,Retail Store,Mariam Saad,Credit Card,4.8,0
+ORD-10437,2024-08-30,Yoga Mat,Sports,1,294.4,5,279.68,120,159.68,57.1,Alexandria,Social Media,Ahmed Hassan,Installment,3.7,1
+ORD-10318,2024-08-30,Laptop Pro X,Electronics,3,8160.0,0,24480.0,15600,8880.0,36.3,Giza,Retail Store,Nour Ibrahim,Credit Card,5.0,0
+ORD-10430,2024-08-30,Drawing Tablet,Electronics,1,2660.0,5,2527.0,1400,1127.0,44.6,Cairo,Wholesale,Sara Youssef,Installment,2.8,0
+ORD-10997,2024-08-31,Running Shoes,Sports,5,921.5,0,4607.5,2000,2607.5,56.6,Port Said,Retail Store,Sara Youssef,Installment,5.0,0
+ORD-10332,2024-08-31,Gaming Keyboard,Electronics,11,1078.0,0,11858.0,5500,6358.0,53.6,Aswan,Wholesale,Khaled Mostafa,Cash,5.0,0
+ORD-10618,2024-08-31,Coffee Machine,Appliances,12,1818.0,5,20725.2,10800,9925.2,47.9,Giza,Online,Mohamed Taha,Installment,1.0,0
+ORD-10191,2024-09-01,Smart Watch,Electronics,8,3328.0,10,23961.6,14400,9561.6,39.9,Alexandria,Retail Store,Nour Ibrahim,Cash,3.1,0
+ORD-10678,2024-09-01,Standing Desk,Furniture,3,4860.0,15,12393.0,6600,5793.0,46.7,Luxor,Wholesale,Khaled Mostafa,Bank Transfer,4.6,0
+ORD-10963,2024-09-01,Novel Collection,Books,8,194.4,0,1555.2,480,1075.2,69.1,Mansoura,Retail Store,Ahmed Hassan,Installment,3.2,0
+ORD-10291,2024-09-02,Laptop Pro X,Electronics,2,8160.0,0,16320.0,10400,5920.0,36.3,Alexandria,Retail Store,Mohamed Taha,Cash,4.2,0
+ORD-10158,2024-09-02,Yoga Mat,Sports,7,332.8,20,1863.68,840,1023.68,54.9,Giza,Online,Omar Ali,Credit Card,4.1,0
+ORD-10179,2024-09-02,Coffee Machine,Appliances,9,1926.0,20,13867.2,8100,5767.2,41.6,Giza,Online,Khaled Mostafa,Bank Transfer,2.9,0
+ORD-10107,2024-09-02,Blender Pro,Appliances,7,742.5,0,5197.5,2100,3097.5,59.6,Alexandria,Social Media,Ahmed Hassan,Credit Card,4.7,0
+ORD-11257,2024-09-02,Wireless Earbuds,Electronics,2,1152.0,20,1843.2,1200,643.2,34.9,Alexandria,Online,Sara Youssef,Credit Card,5.0,0
+ORD-11329,2024-09-02,Office Chair,Furniture,13,2304.0,15,25459.2,14300,11159.2,43.8,Cairo,Wholesale,Mariam Saad,Bank Transfer,3.4,0
+ORD-10399,2024-09-03,Gaming Keyboard,Electronics,10,1012.0,0,10120.0,5000,5120.0,50.6,Alexandria,Online,Khaled Mostafa,Installment,4.7,0
+ORD-10798,2024-09-03,Wireless Earbuds,Electronics,6,1176.0,0,7056.0,3600,3456.0,49.0,Alexandria,Online,Khaled Mostafa,Bank Transfer,3.3,0
+ORD-10727,2024-09-03,Standing Desk,Furniture,10,4320.0,15,36720.0,22000,14720.0,40.1,Alexandria,Online,Sara Youssef,Cash,4.0,0
+ORD-10876,2024-09-04,Air Purifier,Appliances,9,2354.0,10,19067.4,9000,10067.4,52.8,Mansoura,Online,Omar Ali,Cash,5.0,0
+ORD-10246,2024-09-05,Smart Watch,Electronics,4,3360.0,10,12096.0,7200,4896.0,40.5,Alexandria,Retail Store,Sara Youssef,Bank Transfer,4.3,0
+ORD-11214,2024-09-05,Office Chair,Furniture,10,2400.0,10,21600.0,11000,10600.0,49.1,Alexandria,Online,Mohamed Taha,Bank Transfer,4.3,0
+ORD-10686,2024-09-05,Running Shoes,Sports,1,1007.0,10,906.3,400,506.3,55.9,Cairo,Online,Mohamed Taha,Bank Transfer,4.6,0
+ORD-10642,2024-09-05,Yoga Mat,Sports,7,316.8,0,2217.6,840,1377.6,62.1,Cairo,Online,Ahmed Hassan,Installment,2.8,0
+ORD-10482,2024-09-05,Blender Pro,Appliances,10,757.5,0,7575.0,3000,4575.0,60.4,Cairo,Social Media,Khaled Mostafa,Credit Card,5.0,0
+ORD-11405,2024-09-06,Gaming Keyboard,Electronics,8,1177.0,5,8945.2,4000,4945.2,55.3,Giza,Online,Mohamed Taha,Cash,5.0,0
+ORD-11395,2024-09-06,Air Purifier,Appliances,13,2200.0,15,24310.0,13000,11310.0,46.5,Mansoura,Retail Store,Khaled Mostafa,Credit Card,1.0,0
+ORD-11272,2024-09-06,Coffee Machine,Appliances,10,1926.0,10,17334.0,9000,8334.0,48.1,Alexandria,Retail Store,Ahmed Hassan,Credit Card,2.7,0
+ORD-11062,2024-09-07,Protein Powder,Sports,7,597.4,0,4181.8,1750,2431.8,58.2,Cairo,Retail Store,Mohamed Taha,Bank Transfer,5.0,0
+ORD-10173,2024-09-07,Business Course,Education,10,1455.0,20,11640.0,3000,8640.0,74.2,Cairo,Online,Ahmed Hassan,Bank Transfer,4.2,0
+ORD-11074,2024-09-07,Protein Powder,Sports,4,539.4,5,2049.72,1000,1049.72,51.2,Giza,Retail Store,Sara Youssef,Cash,5.0,0
+ORD-10483,2024-09-07,Air Purifier,Appliances,12,2090.0,0,25080.0,12000,13080.0,52.2,Giza,Online,Omar Ali,Cash,1.4,0
+ORD-10029,2024-09-07,Standing Desk,Furniture,15,4815.0,0,72225.0,33000,39225.0,54.3,Cairo,Online,Omar Ali,Credit Card,5.0,0
+ORD-10442,2024-09-08,Drawing Tablet,Electronics,8,2716.0,20,17382.4,11200,6182.4,35.6,Alexandria,Online,Mariam Saad,Credit Card,3.8,0
+ORD-10491,2024-09-08,Running Shoes,Sports,3,902.5,0,2707.5,1200,1507.5,55.7,Cairo,Wholesale,Ahmed Hassan,Installment,1.8,0
+ORD-11244,2024-09-08,Office Chair,Furniture,13,2352.0,0,30576.0,14300,16276.0,53.2,Cairo,Social Media,Nour Ibrahim,Credit Card,2.7,0
+ORD-10667,2024-09-08,Drawing Tablet,Electronics,3,2828.0,15,7211.4,4200,3011.4,41.8,Giza,Online,Mariam Saad,Cash,4.7,0
+ORD-10157,2024-09-09,Laptop Pro X,Electronics,6,8585.0,0,51510.0,31200,20310.0,39.4,Alexandria,Social Media,Mariam Saad,Credit Card,4.9,0
+ORD-10009,2024-09-09,Wireless Earbuds,Electronics,13,1116.0,0,14508.0,7800,6708.0,46.2,Cairo,Online,Sara Youssef,Bank Transfer,3.9,0
+ORD-11399,2024-09-09,Wireless Earbuds,Electronics,2,1236.0,20,1977.6,1200,777.6,39.3,Luxor,Retail Store,Omar Ali,Bank Transfer,1.8,0
+ORD-10228,2024-09-10,Protein Powder,Sports,10,551.0,0,5510.0,2500,3010.0,54.6,Cairo,Online,Nour Ibrahim,Installment,2.9,0
+ORD-10993,2024-09-10,Smart Watch,Electronics,4,3392.0,15,11532.8,7200,4332.8,37.6,Aswan,Online,Omar Ali,Credit Card,3.1,0
+ORD-11418,2024-09-10,Standing Desk,Furniture,15,4275.0,0,64125.0,33000,31125.0,48.5,Alexandria,Wholesale,Sara Youssef,Installment,4.2,0
+ORD-11043,2024-09-10,Novel Collection,Books,15,187.2,0,2808.0,900,1908.0,67.9,Aswan,Online,Ahmed Hassan,Bank Transfer,5.0,1
+ORD-10949,2024-09-10,Air Purifier,Appliances,9,2354.0,0,21186.0,9000,12186.0,57.5,Cairo,Online,Mohamed Taha,Installment,1.7,0
+ORD-11226,2024-09-10,Office Chair,Furniture,14,2472.0,0,34608.0,15400,19208.0,55.5,Cairo,Online,Sara Youssef,Cash,4.8,1
+ORD-10760,2024-09-10,Running Shoes,Sports,5,959.5,15,4077.88,2000,2077.88,51.0,Luxor,Retail Store,Ahmed Hassan,Cash,4.8,0
+ORD-10248,2024-09-10,Yoga Mat,Sports,9,300.8,0,2707.2,1080,1627.2,60.1,Cairo,Retail Store,Omar Ali,Credit Card,3.0,0
+ORD-10346,2024-09-11,Gaming Keyboard,Electronics,4,1133.0,5,4305.4,2000,2305.4,53.5,Cairo,Online,Sara Youssef,Credit Card,2.3,0
+ORD-10854,2024-09-11,Yoga Mat,Sports,11,345.6,10,3421.44,1320,2101.44,61.4,Giza,Online,Khaled Mostafa,Cash,2.2,0
+ORD-10357,2024-09-12,Running Shoes,Sports,6,893.0,5,5090.1,2400,2690.1,52.8,Mansoura,Online,Nour Ibrahim,Bank Transfer,5.0,0
+ORD-10363,2024-09-12,Laptop Pro X,Electronics,9,8840.0,10,71604.0,46800,24804.0,34.6,Luxor,Wholesale,Nour Ibrahim,Cash,3.7,0
+ORD-10447,2024-09-12,Coffee Machine,Appliances,8,1854.0,0,14832.0,7200,7632.0,51.5,Cairo,Wholesale,Mariam Saad,Credit Card,4.9,0
+ORD-10079,2024-09-12,Gaming Keyboard,Electronics,12,1067.0,15,10883.4,6000,4883.4,44.9,Cairo,Wholesale,Nour Ibrahim,Cash,3.7,0
+ORD-11438,2024-09-12,Standing Desk,Furniture,12,4365.0,0,52380.0,26400,25980.0,49.6,Cairo,Online,Mariam Saad,Credit Card,3.3,0
+ORD-10142,2024-09-12,Protein Powder,Sports,9,533.6,10,4322.16,2250,2072.16,47.9,Giza,Retail Store,Omar Ali,Bank Transfer,4.9,0
+ORD-10237,2024-09-13,Smart Watch,Electronics,6,3456.0,5,19699.2,10800,8899.2,45.2,Cairo,Online,Ahmed Hassan,Credit Card,3.2,0
+ORD-10905,2024-09-13,Standing Desk,Furniture,12,4320.0,0,51840.0,26400,25440.0,49.1,Cairo,Online,Nour Ibrahim,Cash,3.9,0
+ORD-10801,2024-09-13,Business Course,Education,12,1470.0,5,16758.0,3600,13158.0,78.5,Luxor,Social Media,Sara Youssef,Installment,4.8,1
+ORD-10864,2024-09-13,Business Course,Education,15,1560.0,20,18720.0,4500,14220.0,76.0,Alexandria,Online,Ahmed Hassan,Credit Card,4.9,0
+ORD-11000,2024-09-14,Office Chair,Furniture,6,2544.0,10,13737.6,6600,7137.6,52.0,Alexandria,Online,Sara Youssef,Cash,5.0,0
+ORD-10911,2024-09-14,Drawing Tablet,Electronics,13,2632.0,10,30794.4,18200,12594.4,40.9,Mansoura,Retail Store,Mohamed Taha,Credit Card,4.7,0
+ORD-10023,2024-09-14,Gaming Keyboard,Electronics,14,1100.0,0,15400.0,7000,8400.0,54.5,Port Said,Online,Mariam Saad,Credit Card,4.1,0
+ORD-11403,2024-09-15,Coffee Machine,Appliances,7,1872.0,5,12448.8,6300,6148.8,49.4,Giza,Online,Mariam Saad,Cash,4.4,0
+ORD-11497,2024-09-15,Running Shoes,Sports,13,1016.5,5,12553.77,5200,7353.77,58.6,Cairo,Social Media,Mohamed Taha,Bank Transfer,3.2,0
+ORD-10580,2024-09-15,Laptop Pro X,Electronics,7,8500.0,5,56525.0,36400,20125.0,35.6,Mansoura,Retail Store,Ahmed Hassan,Bank Transfer,3.7,0
+ORD-10706,2024-09-15,Wireless Earbuds,Electronics,12,1116.0,0,13392.0,7200,6192.0,46.2,Cairo,Retail Store,Ahmed Hassan,Credit Card,3.4,0
+ORD-10045,2024-09-15,Air Purifier,Appliances,14,2354.0,5,31308.2,14000,17308.2,55.3,Luxor,Retail Store,Nour Ibrahim,Bank Transfer,4.8,0
+ORD-10282,2024-09-15,Smart Watch,Electronics,11,3360.0,0,36960.0,19800,17160.0,46.4,Giza,Online,Sara Youssef,Cash,4.8,0
+ORD-11393,2024-09-16,Smart Watch,Electronics,1,3456.0,0,3456.0,1800,1656.0,47.9,Mansoura,Retail Store,Ahmed Hassan,Credit Card,4.1,0
+ORD-10057,2024-09-16,Novel Collection,Books,6,165.6,5,943.92,360,583.92,61.9,Mansoura,Online,Omar Ali,Bank Transfer,3.9,0
+ORD-11223,2024-09-16,Business Course,Education,11,1515.0,20,13332.0,3300,10032.0,75.2,Giza,Online,Khaled Mostafa,Credit Card,4.7,0
+ORD-10133,2024-09-16,Drawing Tablet,Electronics,9,2940.0,10,23814.0,12600,11214.0,47.1,Cairo,Online,Mohamed Taha,Cash,3.7,0
+ORD-11186,2024-09-16,Coffee Machine,Appliances,8,1728.0,0,13824.0,7200,6624.0,47.9,Luxor,Online,Nour Ibrahim,Bank Transfer,4.3,0
+ORD-10526,2024-09-17,Wireless Earbuds,Electronics,7,1260.0,20,7056.0,4200,2856.0,40.5,Cairo,Retail Store,Ahmed Hassan,Installment,3.9,0
+ORD-10969,2024-09-17,Coffee Machine,Appliances,1,1782.0,0,1782.0,900,882.0,49.5,Cairo,Retail Store,Sara Youssef,Bank Transfer,4.8,0
+ORD-11151,2024-09-17,Business Course,Education,14,1620.0,5,21546.0,4200,17346.0,80.5,Alexandria,Social Media,Omar Ali,Cash,4.0,0
+ORD-11037,2024-09-17,Drawing Tablet,Electronics,10,2884.0,0,28840.0,14000,14840.0,51.5,Alexandria,Retail Store,Sara Youssef,Cash,5.0,0
+ORD-10705,2024-09-18,Yoga Mat,Sports,5,320.0,20,1280.0,600,680.0,53.1,Giza,Online,Mohamed Taha,Installment,5.0,0
+ORD-11353,2024-09-18,Drawing Tablet,Electronics,1,2632.0,15,2237.2,1400,837.2,37.4,Cairo,Retail Store,Omar Ali,Cash,4.8,0
+ORD-11322,2024-09-18,Laptop Pro X,Electronics,5,7820.0,20,31280.0,26000,5280.0,16.9,Cairo,Online,Nour Ibrahim,Bank Transfer,4.0,0
+ORD-10419,2024-09-19,Standing Desk,Furniture,15,4545.0,20,54540.0,33000,21540.0,39.5,Giza,Retail Store,Nour Ibrahim,Bank Transfer,3.2,1
+ORD-10850,2024-09-19,Business Course,Education,3,1545.0,0,4635.0,900,3735.0,80.6,Alexandria,Retail Store,Ahmed Hassan,Installment,3.8,0
+ORD-11185,2024-09-21,Wireless Earbuds,Electronics,3,1248.0,0,3744.0,1800,1944.0,51.9,Luxor,Retail Store,Omar Ali,Installment,3.8,0
+ORD-11096,2024-09-21,Laptop Pro X,Electronics,11,8330.0,20,73304.0,57200,16104.0,22.0,Giza,Online,Mariam Saad,Cash,3.7,0
+ORD-11215,2024-09-22,Blender Pro,Appliances,15,772.5,0,11587.5,4500,7087.5,61.2,Giza,Retail Store,Mohamed Taha,Credit Card,3.7,0
+ORD-11475,2024-09-22,Smart Watch,Electronics,10,3168.0,5,30096.0,18000,12096.0,40.2,Giza,Retail Store,Sara Youssef,Installment,4.1,1
+ORD-11190,2024-09-22,Smart Watch,Electronics,12,3360.0,15,34272.0,21600,12672.0,37.0,Cairo,Wholesale,Ahmed Hassan,Cash,4.8,0
+ORD-10991,2024-09-22,Running Shoes,Sports,14,883.5,0,12369.0,5600,6769.0,54.7,Cairo,Social Media,Ahmed Hassan,Installment,4.3,0
+ORD-10818,2024-09-23,Gaming Keyboard,Electronics,10,1155.0,15,9817.5,5000,4817.5,49.1,Alexandria,Online,Mohamed Taha,Credit Card,5.0,0
+ORD-11280,2024-09-23,Gaming Keyboard,Electronics,15,1012.0,0,15180.0,7500,7680.0,50.6,Luxor,Online,Mariam Saad,Installment,5.0,0
+ORD-10193,2024-09-23,Running Shoes,Sports,2,978.5,15,1663.45,800,863.45,51.9,Giza,Online,Khaled Mostafa,Bank Transfer,3.0,0
+ORD-10046,2024-09-23,Running Shoes,Sports,11,912.0,5,9530.4,4400,5130.4,53.8,Cairo,Online,Omar Ali,Installment,5.0,0
+ORD-10591,2024-09-23,Novel Collection,Books,6,178.2,0,1069.2,360,709.2,66.3,Giza,Wholesale,Nour Ibrahim,Bank Transfer,4.1,0
+ORD-11053,2024-09-23,Smart Watch,Electronics,14,3168.0,0,44352.0,25200,19152.0,43.2,Giza,Social Media,Ahmed Hassan,Bank Transfer,3.0,0
+ORD-10202,2024-09-23,Office Chair,Furniture,7,2328.0,0,16296.0,7700,8596.0,52.7,Giza,Retail Store,Sara Youssef,Cash,3.9,0
+ORD-11431,2024-09-24,Blender Pro,Appliances,12,757.5,5,8635.5,3600,5035.5,58.3,Port Said,Wholesale,Omar Ali,Credit Card,4.9,0
+ORD-11102,2024-09-24,Running Shoes,Sports,14,969.0,20,10852.8,5600,5252.8,48.4,Cairo,Social Media,Khaled Mostafa,Bank Transfer,5.0,1
+ORD-10272,2024-09-24,Yoga Mat,Sports,13,336.0,0,4368.0,1560,2808.0,64.3,Cairo,Online,Mohamed Taha,Installment,3.7,0
+ORD-10354,2024-09-24,Business Course,Education,12,1530.0,5,17442.0,3600,13842.0,79.4,Giza,Online,Omar Ali,Bank Transfer,5.0,0
+ORD-10569,2024-09-24,Running Shoes,Sports,7,912.0,0,6384.0,2800,3584.0,56.1,Giza,Online,Mariam Saad,Bank Transfer,3.7,0
+ORD-10518,2024-09-24,Wireless Earbuds,Electronics,1,1164.0,0,1164.0,600,564.0,48.5,Giza,Retail Store,Ahmed Hassan,Installment,3.6,0
+ORD-10856,2024-09-25,Gaming Keyboard,Electronics,4,1045.0,0,4180.0,2000,2180.0,52.2,Aswan,Retail Store,Ahmed Hassan,Bank Transfer,3.7,1
+ORD-10506,2024-09-25,Office Chair,Furniture,12,2280.0,0,27360.0,13200,14160.0,51.8,Cairo,Retail Store,Sara Youssef,Credit Card,4.2,1
+ORD-10487,2024-09-25,Gaming Keyboard,Electronics,3,1089.0,20,2613.6,1500,1113.6,42.6,Cairo,Social Media,Mariam Saad,Installment,5.0,0
+ORD-10322,2024-09-25,Gaming Keyboard,Electronics,10,1012.0,0,10120.0,5000,5120.0,50.6,Aswan,Online,Ahmed Hassan,Cash,4.6,0
+ORD-11078,2024-09-25,Running Shoes,Sports,3,988.0,10,2667.6,1200,1467.6,55.0,Alexandria,Online,Ahmed Hassan,Bank Transfer,1.2,0
+ORD-10472,2024-09-25,Laptop Pro X,Electronics,6,8585.0,0,51510.0,31200,20310.0,39.4,Cairo,Retail Store,Mariam Saad,Credit Card,4.4,1
+ORD-10458,2024-09-25,Novel Collection,Books,8,187.2,0,1497.6,480,1017.6,67.9,Giza,Online,Sara Youssef,Installment,5.0,0
+ORD-11494,2024-09-26,Standing Desk,Furniture,10,4365.0,15,37102.5,22000,15102.5,40.7,Cairo,Retail Store,Mohamed Taha,Cash,2.7,0
+ORD-11245,2024-09-26,Protein Powder,Sports,10,597.4,10,5376.6,2500,2876.6,53.5,Alexandria,Retail Store,Mariam Saad,Installment,5.0,0
+ORD-10887,2024-09-26,Smart Watch,Electronics,12,3328.0,0,39936.0,21600,18336.0,45.9,Giza,Online,Ahmed Hassan,Credit Card,3.2,0
+ORD-10539,2024-09-26,Blender Pro,Appliances,13,780.0,5,9633.0,3900,5733.0,59.5,Alexandria,Retail Store,Khaled Mostafa,Credit Card,5.0,0
+ORD-10218,2024-09-27,Gaming Keyboard,Electronics,1,1056.0,20,844.8,500,344.8,40.8,Giza,Retail Store,Omar Ali,Credit Card,2.1,0
+ORD-10903,2024-09-27,Business Course,Education,5,1500.0,15,6375.0,1500,4875.0,76.5,Cairo,Wholesale,Sara Youssef,Credit Card,4.7,0
+ORD-11179,2024-09-27,Drawing Tablet,Electronics,12,2912.0,5,33196.8,16800,16396.8,49.4,Aswan,Online,Omar Ali,Credit Card,3.9,0
+ORD-10830,2024-09-27,Business Course,Education,5,1455.0,0,7275.0,1500,5775.0,79.4,Giza,Retail Store,Ahmed Hassan,Cash,5.0,0
+ORD-11379,2024-09-28,Drawing Tablet,Electronics,4,2968.0,5,11278.4,5600,5678.4,50.3,Alexandria,Wholesale,Ahmed Hassan,Cash,5.0,0
+ORD-10637,2024-09-28,Running Shoes,Sports,7,902.5,20,5054.0,2800,2254.0,44.6,Cairo,Wholesale,Khaled Mostafa,Installment,4.0,0
+ORD-10548,2024-09-28,Novel Collection,Books,1,169.2,10,152.28,60,92.28,60.6,Giza,Social Media,Nour Ibrahim,Installment,4.8,0
+ORD-10014,2024-09-29,Drawing Tablet,Electronics,3,2632.0,5,7501.2,4200,3301.2,44.0,Luxor,Online,Khaled Mostafa,Bank Transfer,2.3,0
+ORD-10719,2024-09-29,Smart Watch,Electronics,1,3072.0,0,3072.0,1800,1272.0,41.4,Cairo,Retail Store,Khaled Mostafa,Bank Transfer,5.0,0
+ORD-11275,2024-09-29,Gaming Keyboard,Electronics,10,1089.0,10,9801.0,5000,4801.0,49.0,Giza,Retail Store,Omar Ali,Cash,1.1,0
+ORD-10771,2024-09-30,Air Purifier,Appliances,4,2200.0,0,8800.0,4000,4800.0,54.5,Giza,Retail Store,Omar Ali,Credit Card,5.0,0
+ORD-10881,2024-09-30,Wireless Earbuds,Electronics,1,1224.0,15,1040.4,600,440.4,42.3,Giza,Online,Ahmed Hassan,Installment,3.9,0
+ORD-10728,2024-09-30,Protein Powder,Sports,2,562.6,5,1068.94,500,568.94,53.2,Giza,Wholesale,Sara Youssef,Installment,2.8,0
+ORD-10512,2024-10-01,Gaming Keyboard,Electronics,6,1089.0,20,5227.2,3000,2227.2,42.6,Alexandria,Retail Store,Mohamed Taha,Installment,4.1,0
+ORD-10838,2024-10-01,Drawing Tablet,Electronics,13,2800.0,0,36400.0,18200,18200.0,50.0,Alexandria,Retail Store,Sara Youssef,Credit Card,2.8,0
+ORD-11255,2024-10-01,Coffee Machine,Appliances,3,1926.0,0,5778.0,2700,3078.0,53.3,Port Said,Retail Store,Sara Youssef,Bank Transfer,4.8,0
+ORD-11158,2024-10-01,Gaming Keyboard,Electronics,13,1023.0,20,10639.2,6500,4139.2,38.9,Giza,Online,Ahmed Hassan,Bank Transfer,4.8,0
+ORD-10685,2024-10-02,Office Chair,Furniture,2,2328.0,5,4423.2,2200,2223.2,50.3,Cairo,Online,Ahmed Hassan,Cash,2.2,0
+ORD-10386,2024-10-02,Yoga Mat,Sports,2,310.4,15,527.68,240,287.68,54.5,Mansoura,Retail Store,Mariam Saad,Bank Transfer,2.3,0
+ORD-10633,2024-10-02,Coffee Machine,Appliances,1,1782.0,20,1425.6,900,525.6,36.9,Alexandria,Retail Store,Nour Ibrahim,Installment,5.0,0
+ORD-11144,2024-10-02,Wireless Earbuds,Electronics,12,1248.0,15,12729.6,7200,5529.6,43.4,Port Said,Retail Store,Nour Ibrahim,Bank Transfer,2.6,0
+ORD-10269,2024-10-02,Protein Powder,Sports,3,556.8,0,1670.4,750,920.4,55.1,Cairo,Social Media,Mohamed Taha,Cash,3.9,0
+ORD-10308,2024-10-03,Standing Desk,Furniture,11,4365.0,0,48015.0,24200,23815.0,49.6,Cairo,Online,Khaled Mostafa,Bank Transfer,4.9,0
+ORD-11052,2024-10-03,Yoga Mat,Sports,13,304.0,5,3754.4,1560,2194.4,58.4,Aswan,Online,Mariam Saad,Installment,2.1,0
+ORD-10426,2024-10-03,Laptop Pro X,Electronics,9,8330.0,20,59976.0,46800,13176.0,22.0,Giza,Online,Ahmed Hassan,Bank Transfer,4.6,0
+ORD-10197,2024-10-03,Smart Watch,Electronics,11,3392.0,0,37312.0,19800,17512.0,46.9,Cairo,Retail Store,Khaled Mostafa,Cash,3.8,0
+ORD-10095,2024-10-03,Gaming Keyboard,Electronics,6,1100.0,0,6600.0,3000,3600.0,54.5,Aswan,Online,Mohamed Taha,Bank Transfer,1.8,0
+ORD-10212,2024-10-04,Novel Collection,Books,1,180.0,20,144.0,60,84.0,58.3,Aswan,Social Media,Sara Youssef,Credit Card,2.9,0
+ORD-10721,2024-10-04,Smart Watch,Electronics,5,3008.0,0,15040.0,9000,6040.0,40.2,Mansoura,Online,Nour Ibrahim,Cash,5.0,0
+ORD-11339,2024-10-04,Novel Collection,Books,2,192.6,0,385.2,120,265.2,68.8,Cairo,Online,Ahmed Hassan,Cash,5.0,0
+ORD-11210,2024-10-04,Business Course,Education,10,1485.0,0,14850.0,3000,11850.0,79.8,Aswan,Wholesale,Sara Youssef,Installment,3.4,0
+ORD-10219,2024-10-05,Protein Powder,Sports,11,539.4,20,4746.72,2750,1996.72,42.1,Cairo,Social Media,Khaled Mostafa,Cash,3.2,0
+ORD-10082,2024-10-05,Air Purifier,Appliances,8,2354.0,20,15065.6,8000,7065.6,46.9,Cairo,Retail Store,Khaled Mostafa,Bank Transfer,5.0,0
+ORD-10528,2024-10-05,Business Course,Education,4,1425.0,15,4845.0,1200,3645.0,75.2,Cairo,Social Media,Khaled Mostafa,Bank Transfer,5.0,0
+ORD-10890,2024-10-05,Business Course,Education,5,1530.0,0,7650.0,1500,6150.0,80.4,Cairo,Online,Khaled Mostafa,Installment,5.0,0
+ORD-10874,2024-10-06,Protein Powder,Sports,6,562.6,5,3206.82,1500,1706.82,53.2,Port Said,Online,Sara Youssef,Cash,4.8,0
+ORD-10596,2024-10-06,Yoga Mat,Sports,6,326.4,0,1958.4,720,1238.4,63.2,Alexandria,Online,Mohamed Taha,Cash,3.2,1
+ORD-11424,2024-10-06,Air Purifier,Appliances,1,2200.0,15,1870.0,1000,870.0,46.5,Mansoura,Retail Store,Omar Ali,Credit Card,4.1,0
+ORD-10279,2024-10-06,Drawing Tablet,Electronics,13,2688.0,0,34944.0,18200,16744.0,47.9,Luxor,Online,Khaled Mostafa,Installment,4.2,0
+ORD-11076,2024-10-06,Running Shoes,Sports,6,1016.5,0,6099.0,2400,3699.0,60.6,Cairo,Retail Store,Khaled Mostafa,Credit Card,1.9,0
+ORD-11199,2024-10-06,Running Shoes,Sports,2,988.0,15,1679.6,800,879.6,52.4,Mansoura,Social Media,Omar Ali,Cash,5.0,0
+ORD-10502,2024-10-07,Standing Desk,Furniture,10,4590.0,20,36720.0,22000,14720.0,40.1,Mansoura,Online,Mariam Saad,Credit Card,3.6,0
+ORD-11112,2024-10-08,Novel Collection,Books,7,185.4,5,1232.91,420,812.91,65.9,Giza,Wholesale,Sara Youssef,Cash,2.7,0
+ORD-11311,2024-10-08,Laptop Pro X,Electronics,11,8415.0,0,92565.0,57200,35365.0,38.2,Alexandria,Online,Mohamed Taha,Credit Card,3.9,0
+ORD-11200,2024-10-08,Running Shoes,Sports,11,893.0,20,7858.4,4400,3458.4,44.0,Cairo,Retail Store,Ahmed Hassan,Installment,3.6,0
+ORD-10020,2024-10-08,Wireless Earbuds,Electronics,1,1224.0,10,1101.6,600,501.6,45.5,Aswan,Social Media,Mohamed Taha,Cash,5.0,0
+ORD-10159,2024-10-09,Novel Collection,Books,10,171.0,0,1710.0,600,1110.0,64.9,Alexandria,Social Media,Ahmed Hassan,Credit Card,3.8,0
+ORD-11425,2024-10-09,Standing Desk,Furniture,13,4230.0,0,54990.0,28600,26390.0,48.0,Luxor,Online,Sara Youssef,Installment,5.0,0
+ORD-11457,2024-10-10,Air Purifier,Appliances,10,2134.0,5,20273.0,10000,10273.0,50.7,Cairo,Online,Omar Ali,Bank Transfer,5.0,0
+ORD-10987,2024-10-10,Office Chair,Furniture,5,2328.0,0,11640.0,5500,6140.0,52.7,Giza,Retail Store,Khaled Mostafa,Cash,5.0,0
+ORD-10456,2024-10-10,Smart Watch,Electronics,2,3200.0,5,6080.0,3600,2480.0,40.8,Cairo,Online,Omar Ali,Bank Transfer,5.0,0
+ORD-10731,2024-10-11,Gaming Keyboard,Electronics,12,1133.0,20,10876.8,6000,4876.8,44.8,Alexandria,Online,Sara Youssef,Credit Card,4.3,0
+ORD-10022,2024-10-11,Novel Collection,Books,12,180.0,0,2160.0,720,1440.0,66.7,Cairo,Social Media,Khaled Mostafa,Credit Card,3.6,0
+ORD-11456,2024-10-11,Blender Pro,Appliances,10,757.5,10,6817.5,3000,3817.5,56.0,Luxor,Retail Store,Khaled Mostafa,Credit Card,4.6,0
+ORD-10938,2024-10-11,Air Purifier,Appliances,4,2244.0,5,8527.2,4000,4527.2,53.1,Mansoura,Wholesale,Khaled Mostafa,Bank Transfer,5.0,1
+ORD-11469,2024-10-11,Gaming Keyboard,Electronics,11,1100.0,10,10890.0,5500,5390.0,49.5,Luxor,Social Media,Omar Ali,Bank Transfer,5.0,0
+ORD-11492,2024-10-11,Business Course,Education,9,1500.0,20,10800.0,2700,8100.0,75.0,Port Said,Online,Mariam Saad,Bank Transfer,4.2,0
+ORD-11177,2024-10-12,Drawing Tablet,Electronics,2,2828.0,20,4524.8,2800,1724.8,38.1,Alexandria,Wholesale,Khaled Mostafa,Bank Transfer,4.4,0
+ORD-11261,2024-10-12,Smart Watch,Electronics,3,3232.0,0,9696.0,5400,4296.0,44.3,Cairo,Retail Store,Nour Ibrahim,Credit Card,3.7,1
+ORD-10463,2024-10-12,Air Purifier,Appliances,12,2068.0,15,21093.6,12000,9093.6,43.1,Giza,Retail Store,Sara Youssef,Bank Transfer,2.7,0
+ORD-10333,2024-10-13,Drawing Tablet,Electronics,15,2660.0,15,33915.0,21000,12915.0,38.1,Luxor,Retail Store,Mariam Saad,Installment,5.0,0
+ORD-10432,2024-10-13,Yoga Mat,Sports,15,336.0,0,5040.0,1800,3240.0,64.3,Cairo,Online,Mohamed Taha,Cash,4.1,0
+ORD-10131,2024-10-13,Air Purifier,Appliances,11,2310.0,20,20328.0,11000,9328.0,45.9,Cairo,Retail Store,Sara Youssef,Credit Card,3.9,0
+ORD-10611,2024-10-13,Protein Powder,Sports,12,609.0,10,6577.2,3000,3577.2,54.4,Aswan,Retail Store,Sara Youssef,Credit Card,4.3,0
+ORD-10455,2024-10-13,Standing Desk,Furniture,9,4635.0,0,41715.0,19800,21915.0,52.5,Giza,Retail Store,Omar Ali,Bank Transfer,5.0,0
+ORD-10954,2024-10-14,Wireless Earbuds,Electronics,7,1164.0,0,8148.0,4200,3948.0,48.5,Alexandria,Online,Omar Ali,Credit Card,4.1,0
+ORD-10098,2024-10-14,Coffee Machine,Appliances,15,1836.0,15,23409.0,13500,9909.0,42.3,Cairo,Wholesale,Sara Youssef,Installment,3.7,0
+ORD-10154,2024-10-14,Wireless Earbuds,Electronics,5,1248.0,15,5304.0,3000,2304.0,43.4,Alexandria,Social Media,Omar Ali,Bank Transfer,4.7,0
+ORD-11330,2024-10-15,Blender Pro,Appliances,14,742.5,15,8835.75,4200,4635.75,52.5,Alexandria,Online,Mohamed Taha,Credit Card,4.7,0
+ORD-10676,2024-10-15,Protein Powder,Sports,7,539.4,5,3587.01,1750,1837.01,51.2,Mansoura,Retail Store,Nour Ibrahim,Bank Transfer,5.0,1
+ORD-10162,2024-10-15,Laptop Pro X,Electronics,14,9010.0,0,126140.0,72800,53340.0,42.3,Cairo,Retail Store,Khaled Mostafa,Installment,4.2,0
+ORD-10302,2024-10-16,Wireless Earbuds,Electronics,15,1200.0,0,18000.0,9000,9000.0,50.0,Mansoura,Online,Omar Ali,Cash,4.4,0
+ORD-10431,2024-10-17,Laptop Pro X,Electronics,7,7990.0,0,55930.0,36400,19530.0,34.9,Cairo,Wholesale,Nour Ibrahim,Credit Card,3.9,0
+ORD-10274,2024-10-17,Smart Watch,Electronics,6,3040.0,20,14592.0,10800,3792.0,26.0,Cairo,Retail Store,Sara Youssef,Credit Card,5.0,0
+ORD-11470,2024-10-17,Office Chair,Furniture,8,2376.0,10,17107.2,8800,8307.2,48.6,Aswan,Online,Omar Ali,Installment,4.3,0
+ORD-10725,2024-10-17,Air Purifier,Appliances,8,2046.0,15,13912.8,8000,5912.8,42.5,Alexandria,Wholesale,Mariam Saad,Installment,3.7,0
+ORD-10267,2024-10-18,Air Purifier,Appliances,6,2222.0,0,13332.0,6000,7332.0,55.0,Mansoura,Social Media,Mohamed Taha,Credit Card,4.7,0
+ORD-10582,2024-10-19,Business Course,Education,10,1380.0,5,13110.0,3000,10110.0,77.1,Alexandria,Online,Sara Youssef,Bank Transfer,5.0,0
+ORD-11135,2024-10-19,Standing Desk,Furniture,3,4770.0,20,11448.0,6600,4848.0,42.3,Mansoura,Retail Store,Nour Ibrahim,Bank Transfer,4.8,0
+ORD-10325,2024-10-19,Drawing Tablet,Electronics,4,2968.0,15,10091.2,5600,4491.2,44.5,Cairo,Online,Sara Youssef,Bank Transfer,4.3,1
+ORD-10468,2024-10-19,Smart Watch,Electronics,2,2976.0,0,5952.0,3600,2352.0,39.5,Cairo,Online,Khaled Mostafa,Cash,5.0,0
+ORD-10707,2024-10-20,Business Course,Education,1,1485.0,0,1485.0,300,1185.0,79.8,Mansoura,Social Media,Khaled Mostafa,Cash,4.8,0
+ORD-10708,2024-10-20,Novel Collection,Books,3,185.4,10,500.58,180,320.58,64.0,Mansoura,Online,Khaled Mostafa,Cash,2.9,0
+ORD-11006,2024-10-20,Yoga Mat,Sports,4,304.0,5,1155.2,480,675.2,58.4,Alexandria,Online,Mariam Saad,Cash,4.0,0
+ORD-11217,2024-10-20,Blender Pro,Appliances,9,697.5,5,5963.62,2700,3263.62,54.7,Mansoura,Retail Store,Mohamed Taha,Bank Transfer,3.6,0
+ORD-10607,2024-10-21,Laptop Pro X,Electronics,14,8160.0,10,102816.0,72800,30016.0,29.2,Cairo,Online,Sara Youssef,Cash,4.6,0
+ORD-10425,2024-10-21,Blender Pro,Appliances,5,750.0,20,3000.0,1500,1500.0,50.0,Luxor,Online,Mariam Saad,Cash,5.0,0
+ORD-11002,2024-10-21,Business Course,Education,15,1500.0,15,19125.0,4500,14625.0,76.5,Alexandria,Online,Omar Ali,Installment,4.3,0
+ORD-10853,2024-10-21,Laptop Pro X,Electronics,2,8840.0,10,15912.0,10400,5512.0,34.6,Luxor,Wholesale,Ahmed Hassan,Bank Transfer,4.3,0
+ORD-10594,2024-10-21,Smart Watch,Electronics,8,3072.0,0,24576.0,14400,10176.0,41.4,Cairo,Retail Store,Sara Youssef,Installment,1.0,0
+ORD-10037,2024-10-22,Office Chair,Furniture,5,2232.0,5,10602.0,5500,5102.0,48.1,Cairo,Social Media,Khaled Mostafa,Cash,4.7,0
+ORD-10305,2024-10-22,Novel Collection,Books,13,185.4,0,2410.2,780,1630.2,67.6,Alexandria,Wholesale,Ahmed Hassan,Installment,4.8,0
+ORD-10916,2024-10-22,Coffee Machine,Appliances,6,1674.0,0,10044.0,5400,4644.0,46.2,Giza,Retail Store,Nour Ibrahim,Installment,3.0,1
+ORD-10538,2024-10-22,Coffee Machine,Appliances,1,1944.0,10,1749.6,900,849.6,48.6,Alexandria,Online,Khaled Mostafa,Bank Transfer,1.7,0
+ORD-10004,2024-10-22,Office Chair,Furniture,12,2232.0,15,22766.4,13200,9566.4,42.0,Cairo,Online,Ahmed Hassan,Cash,2.9,0
+ORD-11146,2024-10-23,Drawing Tablet,Electronics,13,2632.0,0,34216.0,18200,16016.0,46.8,Alexandria,Retail Store,Mariam Saad,Cash,2.8,0
+ORD-11031,2024-10-23,Wireless Earbuds,Electronics,5,1272.0,10,5724.0,3000,2724.0,47.6,Cairo,Online,Mariam Saad,Installment,2.8,0
+ORD-10563,2024-10-23,Office Chair,Furniture,15,2232.0,15,28458.0,16500,11958.0,42.0,Cairo,Retail Store,Nour Ibrahim,Credit Card,5.0,0
+ORD-10393,2024-10-23,Air Purifier,Appliances,13,2222.0,0,28886.0,13000,15886.0,55.0,Giza,Retail Store,Khaled Mostafa,Bank Transfer,3.7,0
+ORD-10805,2024-10-23,Novel Collection,Books,14,171.0,0,2394.0,840,1554.0,64.9,Mansoura,Retail Store,Nour Ibrahim,Bank Transfer,4.4,0
+ORD-10055,2024-10-23,Laptop Pro X,Electronics,15,8245.0,15,105123.75,78000,27123.75,25.8,Luxor,Online,Sara Youssef,Cash,5.0,0
+ORD-11327,2024-10-23,Business Course,Education,9,1440.0,0,12960.0,2700,10260.0,79.2,Giza,Retail Store,Sara Youssef,Cash,4.9,0
+ORD-10624,2024-10-24,Protein Powder,Sports,5,603.2,20,2412.8,1250,1162.8,48.2,Giza,Online,Nour Ibrahim,Bank Transfer,1.0,0
+ORD-10884,2024-10-24,Novel Collection,Books,13,190.8,5,2356.38,780,1576.38,66.9,Cairo,Online,Sara Youssef,Bank Transfer,5.0,0
+ORD-10452,2024-10-24,Drawing Tablet,Electronics,12,2800.0,10,30240.0,16800,13440.0,44.4,Cairo,Wholesale,Mariam Saad,Cash,4.1,0
+ORD-11274,2024-10-25,Gaming Keyboard,Electronics,14,1089.0,0,15246.0,7000,8246.0,54.1,Giza,Online,Ahmed Hassan,Cash,1.7,0
+ORD-10883,2024-10-25,Wireless Earbuds,Electronics,12,1248.0,5,14227.2,7200,7027.2,49.4,Luxor,Online,Sara Youssef,Cash,2.8,0
+ORD-10646,2024-10-26,Business Course,Education,7,1575.0,15,9371.25,2100,7271.25,77.6,Cairo,Online,Mariam Saad,Credit Card,5.0,0
+ORD-10328,2024-10-26,Wireless Earbuds,Electronics,1,1200.0,15,1020.0,600,420.0,41.2,Port Said,Wholesale,Khaled Mostafa,Installment,4.7,0
+ORD-10210,2024-10-26,Protein Powder,Sports,12,574.2,0,6890.4,3000,3890.4,56.5,Cairo,Online,Khaled Mostafa,Cash,4.1,0
+ORD-10383,2024-10-26,Laptop Pro X,Electronics,12,9010.0,0,108120.0,62400,45720.0,42.3,Luxor,Online,Mohamed Taha,Installment,3.8,1
+ORD-10048,2024-10-26,Business Course,Education,1,1590.0,20,1272.0,300,972.0,76.4,Giza,Retail Store,Omar Ali,Installment,3.3,1
+ORD-10223,2024-10-26,Novel Collection,Books,7,167.4,10,1054.62,420,634.62,60.2,Cairo,Online,Ahmed Hassan,Credit Card,4.9,0
+ORD-11091,2024-10-27,Standing Desk,Furniture,6,4230.0,0,25380.0,13200,12180.0,48.0,Luxor,Retail Store,Ahmed Hassan,Installment,4.8,0
+ORD-10770,2024-10-27,Laptop Pro X,Electronics,10,8925.0,0,89250.0,52000,37250.0,41.7,Cairo,Social Media,Omar Ali,Bank Transfer,1.0,0
+ORD-11114,2024-10-27,Laptop Pro X,Electronics,4,9010.0,0,36040.0,20800,15240.0,42.3,Mansoura,Online,Omar Ali,Credit Card,4.2,0
+ORD-10950,2024-10-27,Standing Desk,Furniture,3,4725.0,15,12048.75,6600,5448.75,45.2,Alexandria,Wholesale,Nour Ibrahim,Installment,3.1,0
+ORD-10312,2024-10-28,Office Chair,Furniture,9,2232.0,5,19083.6,9900,9183.6,48.1,Mansoura,Online,Khaled Mostafa,Bank Transfer,3.8,0
+ORD-11105,2024-10-28,Gaming Keyboard,Electronics,1,1067.0,0,1067.0,500,567.0,53.1,Giza,Wholesale,Ahmed Hassan,Cash,3.9,0
+ORD-10394,2024-10-28,Business Course,Education,14,1455.0,5,19351.5,4200,15151.5,78.3,Alexandria,Online,Omar Ali,Credit Card,4.3,0
+ORD-10710,2024-10-28,Yoga Mat,Sports,9,332.8,20,2396.16,1080,1316.16,54.9,Cairo,Retail Store,Nour Ibrahim,Bank Transfer,4.4,0
+ORD-10016,2024-10-28,Yoga Mat,Sports,4,323.2,0,1292.8,480,812.8,62.9,Cairo,Retail Store,Mariam Saad,Credit Card,2.3,0
+ORD-10720,2024-10-28,Laptop Pro X,Electronics,8,9010.0,0,72080.0,41600,30480.0,42.3,Cairo,Online,Ahmed Hassan,Installment,4.7,1
+ORD-10084,2024-10-29,Coffee Machine,Appliances,14,1692.0,20,18950.4,12600,6350.4,33.5,Alexandria,Retail Store,Nour Ibrahim,Credit Card,3.9,0
+ORD-10746,2024-10-30,Drawing Tablet,Electronics,14,2660.0,10,33516.0,19600,13916.0,41.5,Cairo,Retail Store,Omar Ali,Bank Transfer,4.1,0
+ORD-10241,2024-10-30,Air Purifier,Appliances,7,2024.0,0,14168.0,7000,7168.0,50.6,Cairo,Wholesale,Mohamed Taha,Credit Card,4.2,0
+ORD-10656,2024-10-30,Blender Pro,Appliances,6,787.5,0,4725.0,1800,2925.0,61.9,Cairo,Online,Nour Ibrahim,Bank Transfer,2.3,0
+ORD-10473,2024-10-31,Protein Powder,Sports,9,539.4,5,4611.87,2250,2361.87,51.2,Cairo,Online,Mariam Saad,Installment,5.0,0
+ORD-11307,2024-11-01,Protein Powder,Sports,2,562.6,0,1125.2,500,625.2,55.6,Mansoura,Online,Mohamed Taha,Installment,4.9,0
+ORD-11499,2024-11-01,Yoga Mat,Sports,15,294.4,15,3753.6,1800,1953.6,52.0,Alexandria,Retail Store,Sara Youssef,Bank Transfer,4.8,1
+ORD-10116,2024-11-01,Wireless Earbuds,Electronics,15,1116.0,0,16740.0,9000,7740.0,46.2,Mansoura,Online,Ahmed Hassan,Installment,3.9,0
+ORD-10404,2024-11-01,Protein Powder,Sports,2,556.8,5,1057.92,500,557.92,52.7,Cairo,Online,Khaled Mostafa,Bank Transfer,3.1,0
+ORD-10064,2024-11-01,Standing Desk,Furniture,2,4725.0,0,9450.0,4400,5050.0,53.4,Cairo,Online,Ahmed Hassan,Cash,5.0,0
+ORD-10440,2024-11-01,Running Shoes,Sports,11,988.0,10,9781.2,4400,5381.2,55.0,Alexandria,Retail Store,Khaled Mostafa,Installment,2.0,0
+ORD-11123,2024-11-01,Wireless Earbuds,Electronics,6,1248.0,10,6739.2,3600,3139.2,46.6,Mansoura,Online,Ahmed Hassan,Credit Card,4.7,0
+ORD-11358,2024-11-02,Yoga Mat,Sports,5,320.0,0,1600.0,600,1000.0,62.5,Alexandria,Online,Ahmed Hassan,Credit Card,4.2,0
+ORD-10080,2024-11-02,Yoga Mat,Sports,12,339.2,20,3256.32,1440,1816.32,55.8,Cairo,Wholesale,Mohamed Taha,Bank Transfer,5.0,0
+ORD-10200,2024-11-02,Novel Collection,Books,12,190.8,0,2289.6,720,1569.6,68.6,Mansoura,Online,Mariam Saad,Cash,3.2,0
+ORD-10118,2024-11-02,Laptop Pro X,Electronics,1,8075.0,0,8075.0,5200,2875.0,35.6,Mansoura,Wholesale,Omar Ali,Installment,5.0,0
+ORD-10149,2024-11-04,Blender Pro,Appliances,3,757.5,0,2272.5,900,1372.5,60.4,Cairo,Online,Omar Ali,Installment,4.2,0
+ORD-10130,2024-11-04,Blender Pro,Appliances,3,727.5,10,1964.25,900,1064.25,54.2,Giza,Social Media,Omar Ali,Bank Transfer,5.0,0
+ORD-10171,2024-11-04,Yoga Mat,Sports,7,320.0,0,2240.0,840,1400.0,62.5,Cairo,Retail Store,Mohamed Taha,Bank Transfer,3.7,0
+ORD-11212,2024-11-04,Protein Powder,Sports,14,568.4,20,6366.08,3500,2866.08,45.0,Aswan,Retail Store,Sara Youssef,Bank Transfer,4.1,0
+ORD-11370,2024-11-05,Protein Powder,Sports,13,556.8,10,6514.56,3250,3264.56,50.1,Alexandria,Online,Ahmed Hassan,Installment,2.7,1
+ORD-10358,2024-11-05,Protein Powder,Sports,11,562.6,10,5569.74,2750,2819.74,50.6,Giza,Retail Store,Nour Ibrahim,Installment,4.6,0
+ORD-11080,2024-11-05,Standing Desk,Furniture,8,4455.0,0,35640.0,17600,18040.0,50.6,Luxor,Retail Store,Mohamed Taha,Cash,5.0,0
+ORD-10486,2024-11-05,Coffee Machine,Appliances,8,1818.0,0,14544.0,7200,7344.0,50.5,Giza,Retail Store,Sara Youssef,Cash,2.8,0
+ORD-11349,2024-11-05,Protein Powder,Sports,1,574.2,0,574.2,250,324.2,56.5,Mansoura,Online,Sara Youssef,Installment,3.7,0
+ORD-11070,2024-11-06,Blender Pro,Appliances,5,787.5,5,3740.62,1500,2240.62,59.9,Alexandria,Online,Omar Ali,Bank Transfer,4.8,0
+ORD-11387,2024-11-06,Protein Powder,Sports,12,609.0,5,6942.6,3000,3942.6,56.8,Mansoura,Retail Store,Nour Ibrahim,Cash,4.0,0
+ORD-11357,2024-11-06,Blender Pro,Appliances,14,720.0,0,10080.0,4200,5880.0,58.3,Alexandria,Social Media,Khaled Mostafa,Bank Transfer,4.2,0
+ORD-10849,2024-11-07,Wireless Earbuds,Electronics,15,1116.0,0,16740.0,9000,7740.0,46.2,Luxor,Online,Omar Ali,Bank Transfer,3.7,0
+ORD-11150,2024-11-07,Standing Desk,Furniture,14,4410.0,15,52479.0,30800,21679.0,41.3,Cairo,Wholesale,Khaled Mostafa,Installment,4.6,0
+ORD-10141,2024-11-07,Yoga Mat,Sports,7,300.8,0,2105.6,840,1265.6,60.1,Cairo,Online,Mariam Saad,Bank Transfer,4.1,0
+ORD-10012,2024-11-07,Office Chair,Furniture,3,2352.0,0,7056.0,3300,3756.0,53.2,Alexandria,Wholesale,Khaled Mostafa,Credit Card,4.0,0
+ORD-10493,2024-11-07,Business Course,Education,14,1470.0,0,20580.0,4200,16380.0,79.6,Alexandria,Social Media,Khaled Mostafa,Credit Card,4.0,0
+ORD-10913,2024-11-07,Novel Collection,Books,9,192.6,0,1733.4,540,1193.4,68.8,Alexandria,Online,Omar Ali,Installment,4.4,0
+ORD-11125,2024-11-07,Business Course,Education,11,1575.0,0,17325.0,3300,14025.0,81.0,Alexandria,Social Media,Ahmed Hassan,Installment,2.2,0
+ORD-11139,2024-11-08,Protein Powder,Sports,9,626.4,10,5073.84,2250,2823.84,55.7,Giza,Online,Ahmed Hassan,Installment,3.7,0
+ORD-10696,2024-11-08,Protein Powder,Sports,13,614.8,0,7992.4,3250,4742.4,59.3,Mansoura,Online,Ahmed Hassan,Cash,4.3,0
+ORD-10584,2024-11-09,Yoga Mat,Sports,10,336.0,20,2688.0,1200,1488.0,55.4,Giza,Retail Store,Omar Ali,Credit Card,4.3,0
+ORD-10688,2024-11-09,Gaming Keyboard,Electronics,11,1166.0,20,10260.8,5500,4760.8,46.4,Alexandria,Retail Store,Khaled Mostafa,Credit Card,3.9,0
+ORD-10444,2024-11-09,Drawing Tablet,Electronics,12,2884.0,0,34608.0,16800,17808.0,51.5,Giza,Retail Store,Omar Ali,Bank Transfer,4.7,0
+ORD-11420,2024-11-09,Gaming Keyboard,Electronics,10,1045.0,20,8360.0,5000,3360.0,40.2,Luxor,Wholesale,Nour Ibrahim,Installment,4.2,0
+ORD-11227,2024-11-09,Running Shoes,Sports,14,940.5,10,11850.3,5600,6250.3,52.7,Giza,Retail Store,Nour Ibrahim,Cash,3.1,0
+ORD-10410,2024-11-09,Standing Desk,Furniture,11,4410.0,0,48510.0,24200,24310.0,50.1,Alexandria,Wholesale,Nour Ibrahim,Cash,5.0,0
+ORD-10981,2024-11-09,Wireless Earbuds,Electronics,7,1260.0,10,7938.0,4200,3738.0,47.1,Port Said,Wholesale,Omar Ali,Credit Card,2.0,0
+ORD-10271,2024-11-09,Protein Powder,Sports,1,562.6,15,478.21,250,228.21,47.7,Giza,Online,Ahmed Hassan,Cash,3.7,1
+ORD-11445,2024-11-09,Novel Collection,Books,7,171.0,10,1077.3,420,657.3,61.0,Cairo,Online,Khaled Mostafa,Bank Transfer,1.8,0
+ORD-10355,2024-11-09,Laptop Pro X,Electronics,1,8670.0,0,8670.0,5200,3470.0,40.0,Alexandria,Retail Store,Nour Ibrahim,Cash,5.0,0
+ORD-11160,2024-11-10,Drawing Tablet,Electronics,8,3024.0,0,24192.0,11200,12992.0,53.7,Mansoura,Retail Store,Nour Ibrahim,Cash,5.0,0
+ORD-10405,2024-11-10,Protein Powder,Sports,1,614.8,10,553.32,250,303.32,54.8,Alexandria,Online,Nour Ibrahim,Cash,2.0,0
+ORD-10734,2024-11-10,Novel Collection,Books,5,189.0,0,945.0,300,645.0,68.3,Cairo,Retail Store,Omar Ali,Credit Card,5.0,0
+ORD-10395,2024-11-10,Novel Collection,Books,3,187.2,0,561.6,180,381.6,67.9,Alexandria,Online,Khaled Mostafa,Cash,4.0,0
+ORD-10565,2024-11-11,Office Chair,Furniture,2,2520.0,5,4788.0,2200,2588.0,54.1,Cairo,Wholesale,Sara Youssef,Bank Transfer,5.0,0
+ORD-10996,2024-11-11,Wireless Earbuds,Electronics,7,1128.0,0,7896.0,4200,3696.0,46.8,Cairo,Wholesale,Sara Youssef,Cash,5.0,0
+ORD-11127,2024-11-11,Yoga Mat,Sports,9,339.2,0,3052.8,1080,1972.8,64.6,Giza,Online,Khaled Mostafa,Bank Transfer,5.0,0
+ORD-11009,2024-11-12,Gaming Keyboard,Electronics,9,1166.0,20,8395.2,4500,3895.2,46.4,Cairo,Online,Nour Ibrahim,Credit Card,3.7,0
+ORD-11231,2024-11-12,Running Shoes,Sports,8,959.5,0,7676.0,3200,4476.0,58.3,Port Said,Online,Khaled Mostafa,Bank Transfer,3.6,0
+ORD-10658,2024-11-12,Air Purifier,Appliances,10,2112.0,0,21120.0,10000,11120.0,52.7,Port Said,Online,Khaled Mostafa,Credit Card,5.0,0
+ORD-10593,2024-11-12,Gaming Keyboard,Electronics,3,1133.0,0,3399.0,1500,1899.0,55.9,Cairo,Online,Sara Youssef,Cash,4.7,1
+ORD-10745,2024-11-13,Protein Powder,Sports,2,562.6,15,956.42,500,456.42,47.7,Mansoura,Retail Store,Omar Ali,Cash,4.6,0
+ORD-10527,2024-11-13,Office Chair,Furniture,9,2280.0,5,19494.0,9900,9594.0,49.2,Alexandria,Online,Mohamed Taha,Bank Transfer,2.9,0
+ORD-11240,2024-11-13,Running Shoes,Sports,3,959.5,0,2878.5,1200,1678.5,58.3,Cairo,Retail Store,Mariam Saad,Installment,4.3,0
+ORD-10990,2024-11-13,Yoga Mat,Sports,15,323.2,0,4848.0,1800,3048.0,62.9,Cairo,Wholesale,Mariam Saad,Bank Transfer,4.0,0
+ORD-11292,2024-11-13,Drawing Tablet,Electronics,14,2772.0,15,32986.8,19600,13386.8,40.6,Mansoura,Retail Store,Ahmed Hassan,Credit Card,5.0,0
+ORD-11341,2024-11-13,Protein Powder,Sports,15,580.0,10,7830.0,3750,4080.0,52.1,Giza,Retail Store,Ahmed Hassan,Bank Transfer,4.6,0
+ORD-10089,2024-11-13,Novel Collection,Books,4,180.0,10,648.0,240,408.0,63.0,Cairo,Retail Store,Omar Ali,Bank Transfer,4.6,0
+ORD-11480,2024-11-14,Drawing Tablet,Electronics,1,2716.0,5,2580.2,1400,1180.2,45.7,Cairo,Online,Ahmed Hassan,Credit Card,3.6,0
+ORD-10108,2024-11-15,Novel Collection,Books,10,181.8,0,1818.0,600,1218.0,67.0,Alexandria,Retail Store,Omar Ali,Bank Transfer,3.9,0
+ORD-11484,2024-11-15,Drawing Tablet,Electronics,11,2996.0,20,26364.8,15400,10964.8,41.6,Luxor,Online,Ahmed Hassan,Credit Card,4.6,0
+ORD-10077,2024-11-16,Running Shoes,Sports,13,883.5,0,11485.5,5200,6285.5,54.7,Alexandria,Social Media,Nour Ibrahim,Bank Transfer,5.0,0
+ORD-10741,2024-11-16,Gaming Keyboard,Electronics,6,1155.0,0,6930.0,3000,3930.0,56.7,Cairo,Online,Omar Ali,Credit Card,3.0,0
+ORD-10912,2024-11-16,Wireless Earbuds,Electronics,12,1152.0,0,13824.0,7200,6624.0,47.9,Mansoura,Retail Store,Mohamed Taha,Cash,1.0,1
+ORD-11334,2024-11-16,Smart Watch,Electronics,10,3104.0,15,26384.0,18000,8384.0,31.8,Aswan,Online,Mohamed Taha,Cash,1.2,0
+ORD-10514,2024-11-16,Yoga Mat,Sports,14,304.0,10,3830.4,1680,2150.4,56.1,Alexandria,Retail Store,Mohamed Taha,Installment,3.9,0
+ORD-11246,2024-11-16,Air Purifier,Appliances,7,2178.0,0,15246.0,7000,8246.0,54.1,Alexandria,Retail Store,Omar Ali,Bank Transfer,3.8,1
+ORD-10453,2024-11-16,Laptop Pro X,Electronics,1,8330.0,0,8330.0,5200,3130.0,37.6,Giza,Wholesale,Mariam Saad,Bank Transfer,5.0,0
+ORD-10257,2024-11-16,Drawing Tablet,Electronics,14,2772.0,0,38808.0,19600,19208.0,49.5,Luxor,Online,Nour Ibrahim,Credit Card,1.0,1
+ORD-11458,2024-11-17,Air Purifier,Appliances,11,2310.0,10,22869.0,11000,11869.0,51.9,Giza,Online,Nour Ibrahim,Bank Transfer,4.3,0
+ORD-10940,2024-11-17,Gaming Keyboard,Electronics,5,1155.0,0,5775.0,2500,3275.0,56.7,Luxor,Online,Ahmed Hassan,Credit Card,4.1,0
+ORD-11465,2024-11-17,Protein Powder,Sports,1,597.4,0,597.4,250,347.4,58.2,Cairo,Online,Sara Youssef,Credit Card,3.8,0
+ORD-11055,2024-11-18,Business Course,Education,9,1545.0,0,13905.0,2700,11205.0,80.6,Giza,Online,Ahmed Hassan,Bank Transfer,5.0,0
+ORD-10450,2024-11-18,Business Course,Education,1,1560.0,10,1404.0,300,1104.0,78.6,Alexandria,Online,Sara Youssef,Installment,5.0,0
+ORD-10175,2024-11-18,Business Course,Education,10,1560.0,5,14820.0,3000,11820.0,79.8,Cairo,Retail Store,Ahmed Hassan,Credit Card,5.0,0
+ORD-11060,2024-11-18,Air Purifier,Appliances,10,2156.0,5,20482.0,10000,10482.0,51.2,Cairo,Online,Mohamed Taha,Installment,4.0,0
+ORD-10576,2024-11-19,Coffee Machine,Appliances,5,1710.0,0,8550.0,4500,4050.0,47.4,Cairo,Retail Store,Omar Ali,Cash,5.0,0
+ORD-11303,2024-11-19,Protein Powder,Sports,15,556.8,10,7516.8,3750,3766.8,50.1,Giza,Wholesale,Mariam Saad,Bank Transfer,4.3,0
+ORD-10858,2024-11-19,Protein Powder,Sports,7,551.0,0,3857.0,1750,2107.0,54.6,Luxor,Social Media,Khaled Mostafa,Credit Card,2.3,0
+ORD-10564,2024-11-19,Laptop Pro X,Electronics,15,8245.0,20,98940.0,78000,20940.0,21.2,Cairo,Retail Store,Mohamed Taha,Credit Card,2.7,0
+ORD-10508,2024-11-19,Running Shoes,Sports,8,997.5,10,7182.0,3200,3982.0,55.4,Cairo,Online,Mariam Saad,Credit Card,5.0,0
+ORD-11286,2024-11-19,Blender Pro,Appliances,6,787.5,0,4725.0,1800,2925.0,61.9,Giza,Online,Mariam Saad,Cash,2.3,0
+ORD-10946,2024-11-19,Protein Powder,Sports,14,539.4,0,7551.6,3500,4051.6,53.7,Port Said,Retail Store,Khaled Mostafa,Credit Card,5.0,1
+ORD-10790,2024-11-19,Business Course,Education,7,1545.0,20,8652.0,2100,6552.0,75.7,Giza,Online,Sara Youssef,Installment,1.1,0
+ORD-10724,2024-11-20,Office Chair,Furniture,15,2544.0,0,38160.0,16500,21660.0,56.8,Giza,Retail Store,Ahmed Hassan,Cash,3.1,0
+ORD-10115,2024-11-20,Laptop Pro X,Electronics,2,8840.0,0,17680.0,10400,7280.0,41.2,Alexandria,Retail Store,Mariam Saad,Installment,4.9,1
+ORD-10385,2024-11-20,Smart Watch,Electronics,5,3296.0,20,13184.0,9000,4184.0,31.7,Aswan,Retail Store,Ahmed Hassan,Cash,4.6,0
+ORD-10608,2024-11-21,Gaming Keyboard,Electronics,6,1023.0,0,6138.0,3000,3138.0,51.1,Alexandria,Social Media,Khaled Mostafa,Cash,2.7,0
+ORD-10605,2024-11-21,Running Shoes,Sports,2,969.0,0,1938.0,800,1138.0,58.7,Alexandria,Retail Store,Sara Youssef,Cash,5.0,0
+ORD-10897,2024-11-21,Coffee Machine,Appliances,3,1890.0,15,4819.5,2700,2119.5,44.0,Luxor,Online,Khaled Mostafa,Bank Transfer,4.0,0
+ORD-11477,2024-11-22,Protein Powder,Sports,2,539.4,0,1078.8,500,578.8,53.7,Alexandria,Wholesale,Nour Ibrahim,Installment,5.0,1
+ORD-10489,2024-11-22,Gaming Keyboard,Electronics,12,1056.0,20,10137.6,6000,4137.6,40.8,Cairo,Online,Ahmed Hassan,Installment,4.1,0
+ORD-10461,2024-11-23,Laptop Pro X,Electronics,6,8585.0,5,48934.5,31200,17734.5,36.2,Mansoura,Wholesale,Ahmed Hassan,Installment,4.2,0
+ORD-10163,2024-11-23,Laptop Pro X,Electronics,8,9010.0,10,64872.0,41600,23272.0,35.9,Cairo,Social Media,Nour Ibrahim,Cash,3.1,0
+ORD-10000,2024-11-23,Wireless Earbuds,Electronics,1,1248.0,0,1248.0,600,648.0,51.9,Cairo,Retail Store,Sara Youssef,Credit Card,3.6,0
+ORD-10654,2024-11-24,Smart Watch,Electronics,1,3136.0,15,2665.6,1800,865.6,32.5,Cairo,Retail Store,Ahmed Hassan,Cash,5.0,0
+ORD-10546,2024-11-24,Standing Desk,Furniture,13,4725.0,0,61425.0,28600,32825.0,53.4,Cairo,Online,Omar Ali,Bank Transfer,4.2,0
+ORD-11314,2024-11-24,Drawing Tablet,Electronics,7,2884.0,10,18169.2,9800,8369.2,46.1,Mansoura,Wholesale,Nour Ibrahim,Cash,5.0,0
+ORD-10959,2024-11-24,Gaming Keyboard,Electronics,2,1155.0,10,2079.0,1000,1079.0,51.9,Cairo,Online,Mohamed Taha,Credit Card,5.0,0
+ORD-10836,2024-11-24,Novel Collection,Books,15,180.0,0,2700.0,900,1800.0,66.7,Giza,Social Media,Nour Ibrahim,Installment,3.7,0
+ORD-11447,2024-11-24,Protein Powder,Sports,2,620.6,0,1241.2,500,741.2,59.7,Cairo,Online,Mariam Saad,Credit Card,4.1,0
+ORD-10196,2024-11-24,Business Course,Education,11,1605.0,0,17655.0,3300,14355.0,81.3,Port Said,Online,Mohamed Taha,Bank Transfer,5.0,0
+ORD-10262,2024-11-24,Novel Collection,Books,3,167.4,10,451.98,180,271.98,60.2,Cairo,Retail Store,Nour Ibrahim,Installment,4.1,0
+ORD-11147,2024-11-24,Business Course,Education,2,1485.0,15,2524.5,600,1924.5,76.2,Alexandria,Online,Omar Ali,Installment,5.0,0
+ORD-10643,2024-11-25,Blender Pro,Appliances,1,802.5,5,762.38,300,462.38,60.6,Mansoura,Online,Ahmed Hassan,Installment,4.3,0
+ORD-11269,2024-11-25,Standing Desk,Furniture,4,4410.0,5,16758.0,8800,7958.0,47.5,Cairo,Retail Store,Omar Ali,Bank Transfer,4.8,0
+ORD-10822,2024-11-25,Coffee Machine,Appliances,7,1926.0,15,11459.7,6300,5159.7,45.0,Mansoura,Online,Sara Youssef,Bank Transfer,2.8,0
+ORD-11115,2024-11-26,Office Chair,Furniture,3,2400.0,0,7200.0,3300,3900.0,54.2,Cairo,Online,Omar Ali,Bank Transfer,3.9,0
+ORD-10952,2024-11-26,Yoga Mat,Sports,6,313.6,0,1881.6,720,1161.6,61.7,Cairo,Online,Mohamed Taha,Cash,4.7,0
+ORD-11161,2024-11-26,Standing Desk,Furniture,5,4770.0,0,23850.0,11000,12850.0,53.9,Cairo,Retail Store,Khaled Mostafa,Installment,3.7,0
+ORD-10245,2024-11-26,Gaming Keyboard,Electronics,3,1111.0,5,3166.35,1500,1666.35,52.6,Cairo,Online,Mohamed Taha,Bank Transfer,4.3,1
+ORD-10288,2024-11-26,Wireless Earbuds,Electronics,10,1212.0,20,9696.0,6000,3696.0,38.1,Cairo,Social Media,Mariam Saad,Bank Transfer,2.7,0
+ORD-10559,2024-11-27,Wireless Earbuds,Electronics,6,1212.0,0,7272.0,3600,3672.0,50.5,Cairo,Retail Store,Mohamed Taha,Installment,3.7,0
+ORD-10689,2024-11-27,Air Purifier,Appliances,15,2200.0,5,31350.0,15000,16350.0,52.2,Giza,Retail Store,Nour Ibrahim,Bank Transfer,4.8,0
+ORD-10147,2024-11-27,Office Chair,Furniture,5,2352.0,20,9408.0,5500,3908.0,41.5,Cairo,Retail Store,Omar Ali,Credit Card,2.9,0
+ORD-10372,2024-11-27,Coffee Machine,Appliances,13,1818.0,15,20088.9,11700,8388.9,41.8,Giza,Wholesale,Mariam Saad,Installment,4.4,0
+ORD-11365,2024-11-27,Drawing Tablet,Electronics,8,2744.0,5,20854.4,11200,9654.4,46.3,Alexandria,Online,Khaled Mostafa,Bank Transfer,3.7,0
+ORD-11238,2024-11-27,Novel Collection,Books,2,174.6,20,279.36,120,159.36,57.0,Cairo,Online,Khaled Mostafa,Credit Card,1.0,0
+ORD-10270,2024-11-28,Novel Collection,Books,11,167.4,15,1565.19,660,905.19,57.8,Alexandria,Social Media,Mariam Saad,Credit Card,5.0,0
+ORD-10655,2024-11-28,Drawing Tablet,Electronics,3,2968.0,15,7568.4,4200,3368.4,44.5,Alexandria,Social Media,Nour Ibrahim,Bank Transfer,2.7,0
+ORD-10738,2024-11-28,Laptop Pro X,Electronics,14,9095.0,5,120963.5,72800,48163.5,39.8,Aswan,Online,Ahmed Hassan,Bank Transfer,4.0,0
+ORD-10184,2024-11-29,Protein Powder,Sports,4,585.8,15,1991.72,1000,991.72,49.8,Aswan,Online,Mariam Saad,Bank Transfer,2.7,0
+ORD-10053,2024-11-29,Laptop Pro X,Electronics,13,7820.0,0,101660.0,67600,34060.0,33.5,Cairo,Online,Mariam Saad,Cash,5.0,0
+ORD-10058,2024-11-29,Standing Desk,Furniture,10,4725.0,10,42525.0,22000,20525.0,48.3,Mansoura,Retail Store,Mohamed Taha,Installment,4.8,1
+ORD-10183,2024-11-30,Gaming Keyboard,Electronics,15,1166.0,5,16615.5,7500,9115.5,54.9,Giza,Wholesale,Omar Ali,Installment,4.6,0
+ORD-10435,2024-11-30,Standing Desk,Furniture,12,4320.0,15,44064.0,26400,17664.0,40.1,Alexandria,Wholesale,Mohamed Taha,Installment,4.0,0
+ORD-10409,2024-12-01,Office Chair,Furniture,12,2520.0,5,28728.0,13200,15528.0,54.1,Alexandria,Online,Sara Youssef,Installment,5.0,0
+ORD-10549,2024-12-01,Protein Powder,Sports,7,574.2,15,3416.49,1750,1666.49,48.8,Mansoura,Retail Store,Khaled Mostafa,Cash,4.1,1
+ORD-11095,2024-12-01,Protein Powder,Sports,12,533.6,20,5122.56,3000,2122.56,41.4,Giza,Wholesale,Sara Youssef,Cash,2.1,1
+ORD-10895,2024-12-01,Smart Watch,Electronics,6,3008.0,5,17145.6,10800,6345.6,37.0,Giza,Wholesale,Nour Ibrahim,Credit Card,4.9,0
+ORD-10416,2024-12-01,Laptop Pro X,Electronics,3,7905.0,0,23715.0,15600,8115.0,34.2,Mansoura,Online,Nour Ibrahim,Bank Transfer,4.0,0
+ORD-11463,2024-12-02,Drawing Tablet,Electronics,12,2912.0,20,27955.2,16800,11155.2,39.9,Alexandria,Social Media,Mohamed Taha,Bank Transfer,2.7,0
+ORD-10415,2024-12-02,Gaming Keyboard,Electronics,13,1100.0,0,14300.0,6500,7800.0,54.5,Cairo,Retail Store,Khaled Mostafa,Cash,4.1,0
+ORD-10683,2024-12-02,Business Course,Education,10,1560.0,0,15600.0,3000,12600.0,80.8,Giza,Social Media,Omar Ali,Bank Transfer,2.7,0
+ORD-10841,2024-12-02,Laptop Pro X,Electronics,4,8245.0,10,29682.0,20800,8882.0,29.9,Luxor,Online,Khaled Mostafa,Bank Transfer,5.0,0
+ORD-11352,2024-12-02,Smart Watch,Electronics,10,3168.0,10,28512.0,18000,10512.0,36.9,Cairo,Online,Omar Ali,Cash,3.9,0
+ORD-11020,2024-12-02,Wireless Earbuds,Electronics,11,1116.0,0,12276.0,6600,5676.0,46.2,Luxor,Online,Sara Youssef,Installment,3.3,0
+ORD-10778,2024-12-03,Smart Watch,Electronics,12,3232.0,5,36844.8,21600,15244.8,41.4,Giza,Online,Mohamed Taha,Cash,5.0,0
+ORD-10265,2024-12-03,Gaming Keyboard,Electronics,5,1045.0,10,4702.5,2500,2202.5,46.8,Alexandria,Retail Store,Omar Ali,Credit Card,3.2,0
+ORD-11243,2024-12-03,Yoga Mat,Sports,14,313.6,5,4170.88,1680,2490.88,59.7,Luxor,Retail Store,Ahmed Hassan,Installment,4.7,1
+ORD-10481,2024-12-03,Coffee Machine,Appliances,14,1692.0,0,23688.0,12600,11088.0,46.8,Aswan,Retail Store,Mariam Saad,Bank Transfer,4.2,0
+ORD-10519,2024-12-03,Business Course,Education,5,1380.0,20,5520.0,1500,4020.0,72.8,Cairo,Wholesale,Omar Ali,Cash,4.8,0
+ORD-10829,2024-12-03,Gaming Keyboard,Electronics,14,1045.0,0,14630.0,7000,7630.0,52.2,Alexandria,Online,Sara Youssef,Bank Transfer,1.2,0
+ORD-10702,2024-12-04,Gaming Keyboard,Electronics,9,1188.0,5,10157.4,4500,5657.4,55.7,Alexandria,Retail Store,Khaled Mostafa,Installment,3.9,0
+ORD-10177,2024-12-05,Running Shoes,Sports,9,931.0,0,8379.0,3600,4779.0,57.0,Alexandria,Retail Store,Khaled Mostafa,Installment,4.3,0
+ORD-11224,2024-12-05,Air Purifier,Appliances,14,2112.0,15,25132.8,14000,11132.8,44.3,Cairo,Online,Mariam Saad,Bank Transfer,5.0,0
+ORD-10825,2024-12-05,Protein Powder,Sports,10,556.8,5,5289.6,2500,2789.6,52.7,Cairo,Wholesale,Omar Ali,Cash,2.8,0
+ORD-10821,2024-12-06,Smart Watch,Electronics,15,3232.0,15,41208.0,27000,14208.0,34.5,Alexandria,Wholesale,Omar Ali,Cash,2.2,0
+ORD-10692,2024-12-07,Running Shoes,Sports,3,902.5,0,2707.5,1200,1507.5,55.7,Giza,Online,Nour Ibrahim,Bank Transfer,4.8,0
+ORD-11408,2024-12-07,Protein Powder,Sports,2,539.4,0,1078.8,500,578.8,53.7,Cairo,Online,Khaled Mostafa,Credit Card,1.1,0
+ORD-10503,2024-12-07,Protein Powder,Sports,14,591.6,0,8282.4,3500,4782.4,57.7,Luxor,Online,Nour Ibrahim,Cash,4.8,0
+ORD-10540,2024-12-08,Wireless Earbuds,Electronics,11,1224.0,20,10771.2,6600,4171.2,38.7,Giza,Retail Store,Omar Ali,Credit Card,4.0,0
+ORD-10920,2024-12-08,Wireless Earbuds,Electronics,6,1188.0,15,6058.8,3600,2458.8,40.6,Alexandria,Wholesale,Ahmed Hassan,Credit Card,4.7,1
+ORD-10523,2024-12-09,Drawing Tablet,Electronics,9,2604.0,20,18748.8,12600,6148.8,32.8,Mansoura,Retail Store,Ahmed Hassan,Bank Transfer,4.8,0
+ORD-10151,2024-12-09,Novel Collection,Books,7,176.4,20,987.84,420,567.84,57.5,Mansoura,Online,Ahmed Hassan,Cash,3.1,0
+ORD-10476,2024-12-09,Air Purifier,Appliances,7,2156.0,0,15092.0,7000,8092.0,53.6,Cairo,Retail Store,Ahmed Hassan,Installment,4.9,0
+ORD-10303,2024-12-09,Novel Collection,Books,12,190.8,5,2175.12,720,1455.12,66.9,Cairo,Online,Sara Youssef,Credit Card,5.0,0
+ORD-11320,2024-12-09,Yoga Mat,Sports,13,313.6,0,4076.8,1560,2516.8,61.7,Cairo,Online,Ahmed Hassan,Cash,5.0,0
+ORD-10736,2024-12-10,Novel Collection,Books,10,181.8,0,1818.0,600,1218.0,67.0,Giza,Retail Store,Mariam Saad,Installment,2.3,0
+ORD-11057,2024-12-10,Office Chair,Furniture,5,2400.0,5,11400.0,5500,5900.0,51.8,Mansoura,Retail Store,Omar Ali,Cash,5.0,1
+ORD-11042,2024-12-11,Protein Powder,Sports,11,545.2,0,5997.2,2750,3247.2,54.1,Mansoura,Online,Ahmed Hassan,Credit Card,4.0,0
+ORD-11345,2024-12-11,Drawing Tablet,Electronics,1,2996.0,5,2846.2,1400,1446.2,50.8,Cairo,Online,Omar Ali,Bank Transfer,3.0,0
+ORD-10073,2024-12-11,Blender Pro,Appliances,14,757.5,0,10605.0,4200,6405.0,60.4,Port Said,Retail Store,Omar Ali,Credit Card,2.7,0
+ORD-10677,2024-12-12,Office Chair,Furniture,11,2472.0,0,27192.0,12100,15092.0,55.5,Luxor,Retail Store,Sara Youssef,Credit Card,4.9,0
+ORD-10599,2024-12-12,Novel Collection,Books,2,194.4,5,369.36,120,249.36,67.5,Cairo,Online,Khaled Mostafa,Credit Card,1.9,0
+ORD-10574,2024-12-12,Gaming Keyboard,Electronics,6,1056.0,0,6336.0,3000,3336.0,52.7,Cairo,Online,Sara Youssef,Bank Transfer,2.9,0
+ORD-10252,2024-12-13,Blender Pro,Appliances,2,705.0,20,1128.0,600,528.0,46.8,Mansoura,Social Media,Omar Ali,Cash,3.7,0
+ORD-10980,2024-12-13,Coffee Machine,Appliances,15,1746.0,10,23571.0,13500,10071.0,42.7,Alexandria,Social Media,Omar Ali,Cash,5.0,0
+ORD-10050,2024-12-13,Drawing Tablet,Electronics,7,2912.0,20,16307.2,9800,6507.2,39.9,Alexandria,Online,Khaled Mostafa,Credit Card,2.1,0
+ORD-10930,2024-12-13,Protein Powder,Sports,1,568.4,0,568.4,250,318.4,56.0,Cairo,Wholesale,Khaled Mostafa,Credit Card,4.1,0
+ORD-10406,2024-12-13,Novel Collection,Books,7,180.0,0,1260.0,420,840.0,66.7,Aswan,Retail Store,Nour Ibrahim,Cash,2.0,0
+ORD-10826,2024-12-14,Running Shoes,Sports,3,969.0,0,2907.0,1200,1707.0,58.7,Mansoura,Wholesale,Mohamed Taha,Credit Card,3.8,1
+ORD-11035,2024-12-14,Air Purifier,Appliances,2,2244.0,0,4488.0,2000,2488.0,55.4,Cairo,Online,Mohamed Taha,Installment,4.9,0
+ORD-10335,2024-12-14,Air Purifier,Appliances,9,2134.0,0,19206.0,9000,10206.0,53.1,Aswan,Online,Mariam Saad,Installment,4.1,0
+ORD-11271,2024-12-14,Protein Powder,Sports,13,545.2,5,6733.22,3250,3483.22,51.7,Giza,Wholesale,Mariam Saad,Bank Transfer,4.8,0
+ORD-10671,2024-12-14,Wireless Earbuds,Electronics,7,1176.0,0,8232.0,4200,4032.0,49.0,Aswan,Online,Ahmed Hassan,Bank Transfer,3.1,0
+ORD-10590,2024-12-15,Yoga Mat,Sports,15,300.8,0,4512.0,1800,2712.0,60.1,Alexandria,Retail Store,Ahmed Hassan,Installment,4.6,0
+ORD-10765,2024-12-15,Blender Pro,Appliances,5,712.5,10,3206.25,1500,1706.25,53.2,Port Said,Social Media,Mohamed Taha,Installment,4.8,0
+ORD-11444,2024-12-15,Yoga Mat,Sports,4,345.6,0,1382.4,480,902.4,65.3,Giza,Wholesale,Khaled Mostafa,Cash,3.8,0
+ORD-10326,2024-12-15,Laptop Pro X,Electronics,8,9095.0,15,61846.0,41600,20246.0,32.7,Cairo,Wholesale,Mariam Saad,Installment,4.4,0
+ORD-11140,2024-12-16,Wireless Earbuds,Electronics,6,1104.0,10,5961.6,3600,2361.6,39.6,Aswan,Retail Store,Khaled Mostafa,Cash,2.7,0
+ORD-11249,2024-12-16,Blender Pro,Appliances,7,780.0,10,4914.0,2100,2814.0,57.3,Aswan,Retail Store,Sara Youssef,Credit Card,1.7,1
+ORD-10865,2024-12-16,Office Chair,Furniture,1,2472.0,0,2472.0,1100,1372.0,55.5,Alexandria,Retail Store,Ahmed Hassan,Bank Transfer,3.8,0
+ORD-11178,2024-12-16,Air Purifier,Appliances,14,2112.0,5,28089.6,14000,14089.6,50.2,Aswan,Social Media,Mariam Saad,Installment,5.0,0
+ORD-11347,2024-12-17,Smart Watch,Electronics,14,2976.0,5,39580.8,25200,14380.8,36.3,Alexandria,Online,Mohamed Taha,Cash,2.6,0
+ORD-10429,2024-12-17,Office Chair,Furniture,14,2256.0,0,31584.0,15400,16184.0,51.2,Mansoura,Retail Store,Mohamed Taha,Bank Transfer,5.0,0
+ORD-11467,2024-12-17,Air Purifier,Appliances,3,2266.0,20,5438.4,3000,2438.4,44.8,Luxor,Retail Store,Ahmed Hassan,Cash,5.0,0
+ORD-11128,2024-12-18,Drawing Tablet,Electronics,3,2688.0,15,6854.4,4200,2654.4,38.7,Cairo,Online,Mariam Saad,Installment,4.9,0
+ORD-10772,2024-12-18,Protein Powder,Sports,8,533.6,0,4268.8,2000,2268.8,53.1,Cairo,Social Media,Omar Ali,Cash,5.0,0
+ORD-11068,2024-12-18,Office Chair,Furniture,1,2304.0,0,2304.0,1100,1204.0,52.3,Mansoura,Online,Nour Ibrahim,Cash,3.3,0
+ORD-11453,2024-12-18,Blender Pro,Appliances,5,787.5,5,3740.62,1500,2240.62,59.9,Cairo,Retail Store,Nour Ibrahim,Cash,4.8,0
+ORD-10221,2024-12-18,Business Course,Education,2,1500.0,0,3000.0,600,2400.0,80.0,Cairo,Online,Mohamed Taha,Credit Card,5.0,1
+ORD-10174,2024-12-18,Novel Collection,Books,1,183.6,0,183.6,60,123.6,67.3,Port Said,Wholesale,Mohamed Taha,Cash,4.1,0
+ORD-10695,2024-12-19,Blender Pro,Appliances,9,765.0,0,6885.0,2700,4185.0,60.8,Giza,Social Media,Nour Ibrahim,Bank Transfer,2.2,1
+ORD-10992,2024-12-19,Coffee Machine,Appliances,14,1674.0,15,19920.6,12600,7320.6,36.7,Giza,Retail Store,Sara Youssef,Credit Card,4.0,0
+ORD-10015,2024-12-19,Office Chair,Furniture,12,2328.0,15,23745.6,13200,10545.6,44.4,Giza,Online,Khaled Mostafa,Bank Transfer,4.8,0
+ORD-11321,2024-12-19,Novel Collection,Books,4,190.8,20,610.56,240,370.56,60.7,Cairo,Retail Store,Sara Youssef,Cash,4.3,0
+ORD-10649,2024-12-19,Gaming Keyboard,Electronics,13,1133.0,0,14729.0,6500,8229.0,55.9,Giza,Online,Sara Youssef,Installment,2.1,0
+ORD-10581,2024-12-20,Business Course,Education,7,1605.0,0,11235.0,2100,9135.0,81.3,Alexandria,Online,Ahmed Hassan,Credit Card,3.8,0
+ORD-10178,2024-12-20,Standing Desk,Furniture,10,4500.0,0,45000.0,22000,23000.0,51.1,Cairo,Online,Omar Ali,Installment,4.2,0
+ORD-10134,2024-12-20,Drawing Tablet,Electronics,10,2940.0,0,29400.0,14000,15400.0,52.4,Giza,Online,Omar Ali,Cash,2.1,0
+ORD-10972,2024-12-20,Standing Desk,Furniture,8,4275.0,20,27360.0,17600,9760.0,35.7,Cairo,Retail Store,Sara Youssef,Installment,3.7,0
+ORD-10743,2024-12-21,Wireless Earbuds,Electronics,13,1128.0,20,11731.2,7800,3931.2,33.5,Alexandria,Online,Sara Youssef,Bank Transfer,5.0,0
+ORD-10300,2024-12-21,Gaming Keyboard,Electronics,15,1122.0,0,16830.0,7500,9330.0,55.4,Cairo,Retail Store,Mariam Saad,Bank Transfer,5.0,0
+ORD-10877,2024-12-21,Office Chair,Furniture,12,2520.0,5,28728.0,13200,15528.0,54.1,Giza,Wholesale,Ahmed Hassan,Cash,4.0,0
+ORD-10901,2024-12-22,Business Course,Education,3,1470.0,0,4410.0,900,3510.0,79.6,Giza,Online,Ahmed Hassan,Credit Card,3.7,0
+ORD-10140,2024-12-22,Blender Pro,Appliances,3,780.0,5,2223.0,900,1323.0,59.5,Alexandria,Online,Ahmed Hassan,Credit Card,5.0,0
+ORD-10926,2024-12-22,Air Purifier,Appliances,6,2354.0,10,12711.6,6000,6711.6,52.8,Alexandria,Online,Mohamed Taha,Cash,5.0,0
+ORD-11317,2024-12-22,Air Purifier,Appliances,9,2046.0,0,18414.0,9000,9414.0,51.1,Giza,Online,Khaled Mostafa,Bank Transfer,5.0,0
+ORD-10845,2024-12-22,Novel Collection,Books,4,185.4,10,667.44,240,427.44,64.0,Giza,Wholesale,Khaled Mostafa,Cash,3.7,1
+ORD-10567,2024-12-22,Coffee Machine,Appliances,9,1710.0,0,15390.0,8100,7290.0,47.4,Luxor,Online,Ahmed Hassan,Bank Transfer,2.6,0
+ORD-10065,2024-12-23,Smart Watch,Electronics,11,3392.0,5,35446.4,19800,15646.4,44.1,Cairo,Online,Omar Ali,Bank Transfer,3.9,1
+ORD-11407,2024-12-23,Novel Collection,Books,3,194.4,0,583.2,180,403.2,69.1,Alexandria,Online,Omar Ali,Installment,4.3,0
+ORD-11293,2024-12-23,Novel Collection,Books,10,185.4,0,1854.0,600,1254.0,67.6,Giza,Retail Store,Omar Ali,Bank Transfer,5.0,0
+ORD-11148,2024-12-24,Standing Desk,Furniture,10,4320.0,0,43200.0,22000,21200.0,49.1,Mansoura,Online,Omar Ali,Credit Card,4.9,0
+ORD-10973,2024-12-24,Protein Powder,Sports,8,603.2,20,3860.48,2000,1860.48,48.2,Luxor,Online,Omar Ali,Credit Card,4.9,0
+ORD-10504,2024-12-24,Protein Powder,Sports,10,609.0,0,6090.0,2500,3590.0,58.9,Port Said,Retail Store,Omar Ali,Credit Card,4.8,0
+ORD-10815,2024-12-24,Drawing Tablet,Electronics,14,2688.0,5,35750.4,19600,16150.4,45.2,Giza,Retail Store,Nour Ibrahim,Bank Transfer,3.6,0
+ORD-11472,2024-12-24,Yoga Mat,Sports,14,300.8,5,4000.64,1680,2320.64,58.0,Alexandria,Retail Store,Sara Youssef,Cash,4.7,0
+ORD-10557,2024-12-24,Coffee Machine,Appliances,15,1764.0,0,26460.0,13500,12960.0,49.0,Alexandria,Social Media,Nour Ibrahim,Bank Transfer,4.3,0
+ORD-11014,2024-12-25,Blender Pro,Appliances,13,787.5,0,10237.5,3900,6337.5,61.9,Port Said,Social Media,Khaled Mostafa,Credit Card,3.0,0
+ORD-11017,2024-12-25,Air Purifier,Appliances,9,2068.0,5,17681.4,9000,8681.4,49.1,Cairo,Retail Store,Omar Ali,Installment,4.9,0
+ORD-10855,2024-12-25,Yoga Mat,Sports,12,313.6,15,3198.72,1440,1758.72,55.0,Giza,Social Media,Khaled Mostafa,Credit Card,4.4,0
+ORD-10027,2024-12-26,Standing Desk,Furniture,10,4860.0,20,38880.0,22000,16880.0,43.4,Giza,Online,Mohamed Taha,Installment,1.7,0
+ORD-11168,2024-12-26,Office Chair,Furniture,4,2472.0,0,9888.0,4400,5488.0,55.5,Cairo,Online,Omar Ali,Bank Transfer,2.9,0
+ORD-10583,2024-12-26,Novel Collection,Books,1,190.8,0,190.8,60,130.8,68.6,Alexandria,Retail Store,Khaled Mostafa,Credit Card,5.0,0
+ORD-10533,2024-12-26,Yoga Mat,Sports,14,345.6,0,4838.4,1680,3158.4,65.3,Aswan,Wholesale,Mariam Saad,Bank Transfer,3.9,0
+ORD-10809,2024-12-26,Smart Watch,Electronics,4,3200.0,10,11520.0,7200,4320.0,37.5,Luxor,Retail Store,Mohamed Taha,Cash,4.6,0
+ORD-10851,2024-12-27,Running Shoes,Sports,3,940.5,0,2821.5,1200,1621.5,57.5,Mansoura,Retail Store,Omar Ali,Bank Transfer,4.2,1
+ORD-11232,2024-12-27,Smart Watch,Electronics,2,3296.0,0,6592.0,3600,2992.0,45.4,Port Said,Online,Omar Ali,Credit Card,4.0,0
+ORD-10507,2024-12-27,Standing Desk,Furniture,7,4590.0,0,32130.0,15400,16730.0,52.1,Cairo,Retail Store,Khaled Mostafa,Installment,2.1,0
+ORD-11299,2024-12-27,Running Shoes,Sports,10,921.5,0,9215.0,4000,5215.0,56.6,Alexandria,Retail Store,Mariam Saad,Bank Transfer,4.4,0
+ORD-10375,2024-12-28,Coffee Machine,Appliances,9,1728.0,0,15552.0,8100,7452.0,47.9,Alexandria,Wholesale,Mariam Saad,Bank Transfer,3.9,0
+ORD-10879,2024-12-28,Business Course,Education,9,1440.0,20,10368.0,2700,7668.0,74.0,Cairo,Retail Store,Khaled Mostafa,Credit Card,4.6,0
+ORD-11288,2024-12-28,Running Shoes,Sports,10,978.5,5,9295.75,4000,5295.75,57.0,Cairo,Retail Store,Mohamed Taha,Credit Card,4.0,0
+ORD-11222,2024-12-28,Running Shoes,Sports,6,921.5,5,5252.55,2400,2852.55,54.3,Luxor,Wholesale,Mariam Saad,Installment,4.8,0
+ORD-11230,2024-12-28,Running Shoes,Sports,9,921.5,20,6634.8,3600,3034.8,45.7,Mansoura,Online,Omar Ali,Cash,4.1,0
+ORD-10160,2024-12-29,Office Chair,Furniture,6,2568.0,10,13867.2,6600,7267.2,52.4,Luxor,Wholesale,Omar Ali,Cash,4.0,0
+ORD-10374,2024-12-29,Gaming Keyboard,Electronics,3,1023.0,0,3069.0,1500,1569.0,51.1,Giza,Wholesale,Sara Youssef,Installment,4.1,0
+ORD-10327,2024-12-29,Novel Collection,Books,5,178.2,5,846.45,300,546.45,64.6,Aswan,Retail Store,Mariam Saad,Bank Transfer,5.0,0
+ORD-11416,2024-12-29,Blender Pro,Appliances,6,742.5,20,3564.0,1800,1764.0,49.5,Cairo,Social Media,Nour Ibrahim,Installment,2.2,0
+ORD-10914,2024-12-30,Drawing Tablet,Electronics,11,2744.0,0,30184.0,15400,14784.0,49.0,Port Said,Retail Store,Mariam Saad,Bank Transfer,4.6,0
+ORD-10709,2024-12-30,Air Purifier,Appliances,14,2178.0,0,30492.0,14000,16492.0,54.1,Cairo,Wholesale,Nour Ibrahim,Cash,3.9,0
+ORD-11268,2024-12-30,Office Chair,Furniture,10,2280.0,20,18240.0,11000,7240.0,39.7,Giza,Wholesale,Omar Ali,Bank Transfer,4.2,0
+ORD-10777,2024-12-30,Drawing Tablet,Electronics,5,2744.0,20,10976.0,7000,3976.0,36.2,Mansoura,Online,Mariam Saad,Cash,3.2,0
