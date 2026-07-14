@@ -138,3 +138,6 @@ This project is deployed using **Streamlit** (Streamlit Community Cloud). To dep
 ---
 
 
+## 📊 Project Presentation
+
+- 📥 [Download Project Presentation](https://drive.google.com/drive/folders/1UXbuJwVTvrEc9TE_qZRjj3xUYIQ_pSUz?usp=sharing)
